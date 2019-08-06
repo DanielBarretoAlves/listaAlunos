@@ -1,0 +1,54 @@
+{
+    "TURMA": "9BM",
+    "ARTES":
+    {
+      "ALUNOS":
+        {
+          "ANA CAROLINA DE PAULA SIMOES":["10.0", "10.0", "APROVADO", "20.0"],
+          "BEATRIZ BAIOCO VESCOVI":["10.0", "10.0", "APROVADO", "20.0"],
+          "DIOGO IVAN CABALLERO OTAROLA":["10.0", "8.0", "APROVADO", "18"],
+          "ELISA SEIXAS MELHEM":["10.0", "10.0", "APROVADO", "20.0"],
+          "ERIK":["10.0", "9.0", "APROVADO", "19.0"],
+          "GABRIELA ZUCOLOTTO DE MENEZES":["10.0", "10.0", "APROVADO", "20.0"],
+          "GUILHERME DUARTE MADEIRA":["10.0", "8.0", "APROVADO", "18.0"],
+          "HENRIQUE PIMENTEL MARTINS ARRUDA":["8.0", "8.0", "APROVADO", "16.0"],
+          "JOAO GABRIEL TAVARES PEREIRA":["10.0", "7.0", "APROVADO", "17.0"],
+          "JOAO HENRIQUE ANTUNES PAES TORRES":["10.0", "10.0", "APROVADO", "20.0"],
+          "JOAO VITOR BENIQUIO FERNANDES DE JESUS":["10.0", "3.0", "APROVADO", "13.0"],
+          "LAURA DALVI CALAZANS":["10.0", "10.0", "APROVADO", "20.0"],
+          "LUCA FRIETAS LANES VICENTINI":["10.0", "8.0", "APROVADO", "18.0"],
+          "MARIA EDUARDA FERREIRA DE OLIVEIRA OLINDO":["10.0", "10.0", "APROVADO", "20.0"],
+          "MEL CAMPAGNARO":["10.0", "10.0", "APROVADO", "20.0"],
+          "TAINA ZAGO CYPRESETE":["0.0", "0.0", "APROVADO", "0.0"],
+          "VALENTINA MANOELA SCHUWARTZ FERNANDES":["10.0", "10.0", "APROVADO", "20.0"],
+          "VICENTE KOCK LENG VENADE DA COSTA":["10.0", "8.0", "APROVADO", "18.0"]
+
+        }
+    },
+    "CIENCIAS":
+    {
+      "ALUNOS":
+        {
+          "ANA CAROLINA DE PAULA SIMOES":["5.50", "6.5", "APROVADO", "0"],
+          "BEATRIZ BAIOCO VESCOVI":["4.60", "4.20", "APROVADO", "20.0"],
+          "DIOGO IVAN CABALLERO OTAROLA":["7.0", "3.60", "APROVADO", "18"],
+          "ELISA SEIXAS MELHEM":["4.40", "3.90", "APROVADO", "20.0"],
+          "ERIK":["8.80", "7.70", "APROVADO", "19.0"],
+          "GABRIELA ZUCOLOTTO DE MENEZES":["10.0", "10.0", "APROVADO", "20.0"],
+          "GUILHERME DUARTE MADEIRA":["10.0", "8.0", "APROVADO", "18.0"],
+          "HENRIQUE PIMENTEL MARTINS ARRUDA":["8.0", "8.0", "APROVADO", "16.0"],
+          "JOAO GABRIEL TAVARES PEREIRA":["10.0", "7.0", "APROVADO", "17.0"],
+          "JOAO HENRIQUE ANTUNES PAES TORRES":["10.0", "10.0", "APROVADO", "20.0"],
+          "JOAO VITOR BENIQUIO FERNANDES DE JESUS":["10.0", "3.0", "APROVADO", "13.0"],
+          "LAURA DALVI CALAZANS":["10.0", "10.0", "APROVADO", "20.0"],
+          "LUCA FRIETAS LANES VICENTINI":["10.0", "8.0", "APROVADO", "18.0"],
+          "MARIA EDUARDA FERREIRA DE OLIVEIRA OLINDO":["10.0", "10.0", "APROVADO", "20.0"],
+          "MEL CAMPAGNARO":["10.0", "10.0", "APROVADO", "20.0"],
+          "TAINA ZAGO CYPRESETE":["0.0", "0.0", "APROVADO", "0.0"],
+          "VALENTINA MANOELA SCHUWARTZ FERNANDES":["10.0", "10.0", "APROVADO", "20.0"],
+          "VICENTE KOCK LENG VENADE DA COSTA":["10.0", "8.0", "APROVADO", "18.0"]
+
+        }
+    }
+    
+  }
