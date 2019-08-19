@@ -1,0 +1,863 @@
+[
+  {
+    "turma": "9BM",
+    "aulas": [
+      {
+        "materia": "ARTES",
+        "alunos": [
+          {
+            "nome": "ANA CAROLINA DE PAULA SIMOES",
+            "nota1": 10.0,
+            "nota2": 10.0
+          },
+          {
+            "nome": "BEATRIZ BAIOCO VESCOVI",
+            "nota1": 10.0,
+            "nota2": 10.0
+          },
+          {
+            "nome": "DIOGO IVAN CABALLERO OTAROLA",
+            "nota1": 10.0,
+            "nota2": 8.0
+          },
+          {
+            "nome": "ELISA SEIXAS MELHEM",
+            "nota1": 10.0,
+            "nota2": 10.0
+          },
+          {
+            "nome": "ERIK ZANDONADE DE OLIVEIRA",
+            "nota1": 10.0,
+            "nota2": 9.0
+          },
+          {
+            "nome": "GABRIELA ZUCOLOTTO DE MENEZES",
+            "nota1": 10.0,
+            "nota2": 10.0
+          },
+          {
+            "nome": "GUILHERME DUARTE MADEIRA",
+            "nota1": 10.0,
+            "nota2": 8.0
+          },
+          {
+            "nome": "HENRIQUE PIMENTEL MARTINS ARRUDA",
+            "nota1": 8.0,
+            "nota2": 8.0
+          },
+          {
+            "nome": "JOAO GABRIEL TAVARES PEREIRA",
+            "nota1": 10.0,
+            "nota2": 7.0
+          },
+          {
+            "nome": "JOAO HENRIQUE ANTUNES PAES TORRES",
+            "nota1": 10.0,
+            "nota2": 10.0
+          },
+          {
+            "nome": "JOAO VITOR BENIQUIO FERNANDES DE JESUS",
+            "nota1": 10.0,
+            "nota2": 3.0
+          },
+          {
+            "nome": "LAURA DALVI CALAZANS",
+            "nota1": 10.0,
+            "nota2": 10.0
+          },
+          {
+            "nome": "LUCA FRIETAS LANES VICENTINI",
+            "nota1": 10.0,
+            "nota2": 8.0
+          },
+          {
+            "nome": "MARIA EDUARDA FERREIRA DE OLIVEIRA OLINDO",
+            "nota1": 10.0,
+            "nota2": 10.0
+          },
+          {
+            "nome": "MEL CAMPAGNARO",
+            "nota1": 10.0,
+            "nota2": 10.0
+          },
+          {
+            "nome": "TAINA ZAGO CYPRESETE",
+            "nota1": 0.0,
+            "nota2": 0.0
+          },
+          {
+            "nome": "VALENTINA MANOELA SCHUWARTZ FERNANDES",
+            "nota1": 10.0,
+            "nota2": 10.0
+          },
+          {
+            "nome": "VICENTE KOCK LENG VENADE DA COSTA",
+            "nota1": 10.0,
+            "nota2": 8.0
+          }
+        ]
+      },
+      {
+        "materia": "CIENCIAS",
+        "alunos": [
+          {
+            "nome": "ANA CAROLINA DE PAULA SIMOES",
+            "nota1": 5.5,
+            "nota2": 6.5
+          },
+          {
+            "nome": "BEATRIZ BAIOCO VESCOVI",
+            "nota1": 4.6,
+            "nota2": 4.2
+          },
+          {
+            "nome": "DIOGO IVAN CABALLERO OTAROLA",
+            "nota1": 7.0,
+            "nota2": 3.6
+          },
+          {
+            "nome": "ELISA SEIXAS MELHEM",
+            "nota1": 4.4,
+            "nota2": 3.9
+          },
+          {
+            "nome": "ERIK ZANDONADE DE OLIVEIRA",
+            "nota1": 8.8,
+            "nota2": 7.7
+          },
+          {
+            "nome": "GABRIELA ZUCOLOTTO DE MENEZES",
+            "nota1": 5.1,
+            "nota2": 5.4
+          },
+          {
+            "nome": "GUILHERME DUARTE MADEIRA",
+            "nota1": 8.1,
+            "nota2": 6.1
+          },
+          {
+            "nome": "HENRIQUE PIMENTEL MARTINS ARRUDA",
+            "nota1": 5.5,
+            "nota2": 5.9
+          },
+          {
+            "nome": "JOAO GABRIEL TAVARES PEREIRA",
+            "nota1": 2.4,
+            "nota2": 6.5
+          },
+          {
+            "nome": "JOAO HENRIQUE ANTUNES PAES TORRES",
+            "nota1": 2.0,
+            "nota2": 2.3
+          },
+          {
+            "nome": "JOAO VITOR BENIQUIO FERNANDES DE JESUS",
+            "nota1": 6.7,
+            "nota2": 4.9
+          },
+          {
+            "nome": "LAURA DALVI CALAZANS",
+            "nota1": 4.7,
+            "nota2": 4.6
+          },
+          {
+            "nome": "LUCA FRIETAS LANES VICENTINI",
+            "nota1": 4.5,
+            "nota2": 3.2
+          },
+          {
+            "nome": "MARIA EDUARDA FERREIRA DE OLIVEIRA OLINDO",
+            "nota1": 5.8,
+            "nota2": 7.2
+          },
+          {
+            "nome": "MEL CAMPAGNARO",
+            "nota1": 5.8,
+            "nota2": 7.2
+          },
+          {
+            "nome": "TAINA ZAGO CYPRESETE",
+            "nota1": 0.0,
+            "nota2": 0.0
+          },
+          {
+            "nome": "VALENTINA MANOELA SCHUWARTZ FERNANDES",
+            "nota1": 6.1,
+            "nota2": 7.1
+          },
+          {
+            "nome": "VICENTE KOCK LENG VENADE DA COSTA",
+            "nota1": 3.7,
+            "nota2": 5.2
+          }
+        ]
+      },
+      {
+        "materia": "ESPANHOL",
+        "alunos": [
+          {
+            "nome": "ANA CAROLINA DE PAULA SIMOES",
+            "nota1": 5.5,
+            "nota2": 6.5
+          },
+          {
+            "nome": "BEATRIZ BAIOCO VESCOVI",
+            "nota1": 4.6,
+            "nota2": 4.2
+          },
+          {
+            "nome": "DIOGO IVAN CABALLERO OTAROLA",
+            "nota1": 7.0,
+            "nota2": 3.6
+          },
+          {
+            "nome": "ELISA SEIXAS MELHEM",
+            "nota1": 4.4,
+            "nota2": 3.9
+          },
+          {
+            "nome": "ERIK ZANDONADE DE OLIVEIRA",
+            "nota1": 8.8,
+            "nota2": 7.7
+          },
+          {
+            "nome": "GABRIELA ZUCOLOTTO DE MENEZES",
+            "nota1": 5.1,
+            "nota2": 5.4
+          },
+          {
+            "nome": "GUILHERME DUARTE MADEIRA",
+            "nota1": 8.1,
+            "nota2": 6.1
+          },
+          {
+            "nome": "HENRIQUE PIMENTEL MARTINS ARRUDA",
+            "nota1": 5.5,
+            "nota2": 5.9
+          },
+          {
+            "nome": "JOAO GABRIEL TAVARES PEREIRA",
+            "nota1": 2.4,
+            "nota2": 6.5
+          },
+          {
+            "nome": "JOAO HENRIQUE ANTUNES PAES TORRES",
+            "nota1": 2.0,
+            "nota2": 2.3
+          },
+          {
+            "nome": "JOAO VITOR BENIQUIO FERNANDES DE JESUS",
+            "nota1": 6.7,
+            "nota2": 4.9
+          },
+          {
+            "nome": "LAURA DALVI CALAZANS",
+            "nota1": 4.7,
+            "nota2": 4.6
+          },
+          {
+            "nome": "LUCA FRIETAS LANES VICENTINI",
+            "nota1": 4.5,
+            "nota2": 3.2
+          },
+          {
+            "nome": "MARIA EDUARDA FERREIRA DE OLIVEIRA OLINDO",
+            "nota1": 5.8,
+            "nota2": 7.2
+          },
+          {
+            "nome": "MEL CAMPAGNARO",
+            "nota1": 5.8,
+            "nota2": 7.2
+          },
+          {
+            "nome": "TAINA ZAGO CYPRESETE",
+            "nota1": 0.0,
+            "nota2": 0.0
+          },
+          {
+            "nome": "VALENTINA MANOELA SCHUWARTZ FERNANDES",
+            "nota1": 6.1,
+            "nota2": 7.1
+          },
+          {
+            "nome": "VICENTE KOCK LENG VENADE DA COSTA",
+            "nota1": 3.7,
+            "nota2": 5.2
+          }
+        ]
+      },
+      {
+        "materia": "FILOSOFIA",
+        "alunos": [
+          {
+            "nome": "ANA CAROLINA DE PAULA SIMOES",
+            "nota1": 5.5,
+            "nota2": 6.5
+          },
+          {
+            "nome": "BEATRIZ BAIOCO VESCOVI",
+            "nota1": 4.6,
+            "nota2": 4.2
+          },
+          {
+            "nome": "DIOGO IVAN CABALLERO OTAROLA",
+            "nota1": 7.0,
+            "nota2": 3.6
+          },
+          {
+            "nome": "ELISA SEIXAS MELHEM",
+            "nota1": 4.4,
+            "nota2": 3.9
+          },
+          {
+            "nome": "ERIK ZANDONADE DE OLIVEIRA",
+            "nota1": 8.8,
+            "nota2": 7.7
+          },
+          {
+            "nome": "GABRIELA ZUCOLOTTO DE MENEZES",
+            "nota1": 5.1,
+            "nota2": 5.4
+          },
+          {
+            "nome": "GUILHERME DUARTE MADEIRA",
+            "nota1": 8.1,
+            "nota2": 6.1
+          },
+          {
+            "nome": "HENRIQUE PIMENTEL MARTINS ARRUDA",
+            "nota1": 5.5,
+            "nota2": 5.9
+          },
+          {
+            "nome": "JOAO GABRIEL TAVARES PEREIRA",
+            "nota1": 2.4,
+            "nota2": 6.5
+          },
+          {
+            "nome": "JOAO HENRIQUE ANTUNES PAES TORRES",
+            "nota1": 2.0,
+            "nota2": 2.3
+          },
+          {
+            "nome": "JOAO VITOR BENIQUIO FERNANDES DE JESUS",
+            "nota1": 6.7,
+            "nota2": 4.9
+          },
+          {
+            "nome": "LAURA DALVI CALAZANS",
+            "nota1": 4.7,
+            "nota2": 4.6
+          },
+          {
+            "nome": "LUCA FRIETAS LANES VICENTINI",
+            "nota1": 4.5,
+            "nota2": 3.2
+          },
+          {
+            "nome": "MARIA EDUARDA FERREIRA DE OLIVEIRA OLINDO",
+            "nota1": 5.8,
+            "nota2": 7.2
+          },
+          {
+            "nome": "MEL CAMPAGNARO",
+            "nota1": 5.8,
+            "nota2": 7.2
+          },
+          {
+            "nome": "TAINA ZAGO CYPRESETE",
+            "nota1": 0.0,
+            "nota2": 0.0
+          },
+          {
+            "nome": "VALENTINA MANOELA SCHUWARTZ FERNANDES",
+            "nota1": 6.1,
+            "nota2": 7.1
+          },
+          {
+            "nome": "VICENTE KOCK LENG VENADE DA COSTA",
+            "nota1": 3.7,
+            "nota2": 5.2
+          }
+        ]
+      },
+      {
+        "materia": "GEOGRAFIA",
+        "alunos": [
+          {
+            "nome": "ANA CAROLINA DE PAULA SIMOES",
+            "nota1": 5.5,
+            "nota2": 6.5
+          },
+          {
+            "nome": "BEATRIZ BAIOCO VESCOVI",
+            "nota1": 4.6,
+            "nota2": 4.2
+          },
+          {
+            "nome": "DIOGO IVAN CABALLERO OTAROLA",
+            "nota1": 7.0,
+            "nota2": 3.6
+          },
+          {
+            "nome": "ELISA SEIXAS MELHEM",
+            "nota1": 4.4,
+            "nota2": 3.9
+          },
+          {
+            "nome": "ERIK ZANDONADE DE OLIVEIRA",
+            "nota1": 8.8,
+            "nota2": 7.7
+          },
+          {
+            "nome": "GABRIELA ZUCOLOTTO DE MENEZES",
+            "nota1": 5.1,
+            "nota2": 5.4
+          },
+          {
+            "nome": "GUILHERME DUARTE MADEIRA",
+            "nota1": 8.1,
+            "nota2": 6.1
+          },
+          {
+            "nome": "HENRIQUE PIMENTEL MARTINS ARRUDA",
+            "nota1": 5.5,
+            "nota2": 5.9
+          },
+          {
+            "nome": "JOAO GABRIEL TAVARES PEREIRA",
+            "nota1": 2.4,
+            "nota2": 6.5
+          },
+          {
+            "nome": "JOAO HENRIQUE ANTUNES PAES TORRES",
+            "nota1": 2.0,
+            "nota2": 2.3
+          },
+          {
+            "nome": "JOAO VITOR BENIQUIO FERNANDES DE JESUS",
+            "nota1": 6.7,
+            "nota2": 4.9
+          },
+          {
+            "nome": "LAURA DALVI CALAZANS",
+            "nota1": 4.7,
+            "nota2": 4.6
+          },
+          {
+            "nome": "LUCA FRIETAS LANES VICENTINI",
+            "nota1": 4.5,
+            "nota2": 3.2
+          },
+          {
+            "nome": "MARIA EDUARDA FERREIRA DE OLIVEIRA OLINDO",
+            "nota1": 5.8,
+            "nota2": 7.2
+          },
+          {
+            "nome": "MEL CAMPAGNARO",
+            "nota1": 5.8,
+            "nota2": 7.2
+          },
+          {
+            "nome": "TAINA ZAGO CYPRESETE",
+            "nota1": 0.0,
+            "nota2": 0.0
+          },
+          {
+            "nome": "VALENTINA MANOELA SCHUWARTZ FERNANDES",
+            "nota1": 6.1,
+            "nota2": 7.1
+          },
+          {
+            "nome": "VICENTE KOCK LENG VENADE DA COSTA",
+            "nota1": 3.7,
+            "nota2": 5.2
+          }
+        ]
+      },
+      {
+        "materia": "HISTORIA",
+        "alunos": [
+          {
+            "nome": "ANA CAROLINA DE PAULA SIMOES",
+            "nota1": 5.5,
+            "nota2": 6.5
+          },
+          {
+            "nome": "BEATRIZ BAIOCO VESCOVI",
+            "nota1": 4.6,
+            "nota2": 4.2
+          },
+          {
+            "nome": "DIOGO IVAN CABALLERO OTAROLA",
+            "nota1": 7.0,
+            "nota2": 3.6
+          },
+          {
+            "nome": "ELISA SEIXAS MELHEM",
+            "nota1": 4.4,
+            "nota2": 3.9
+          },
+          {
+            "nome": "ERIK ZANDONADE DE OLIVEIRA",
+            "nota1": 8.8,
+            "nota2": 7.7
+          },
+          {
+            "nome": "GABRIELA ZUCOLOTTO DE MENEZES",
+            "nota1": 5.1,
+            "nota2": 5.4
+          },
+          {
+            "nome": "GUILHERME DUARTE MADEIRA",
+            "nota1": 8.1,
+            "nota2": 6.1
+          },
+          {
+            "nome": "HENRIQUE PIMENTEL MARTINS ARRUDA",
+            "nota1": 5.5,
+            "nota2": 5.9
+          },
+          {
+            "nome": "JOAO GABRIEL TAVARES PEREIRA",
+            "nota1": 2.4,
+            "nota2": 6.5
+          },
+          {
+            "nome": "JOAO HENRIQUE ANTUNES PAES TORRES",
+            "nota1": 2.0,
+            "nota2": 2.3
+          },
+          {
+            "nome": "JOAO VITOR BENIQUIO FERNANDES DE JESUS",
+            "nota1": 6.7,
+            "nota2": 4.9
+          },
+          {
+            "nome": "LAURA DALVI CALAZANS",
+            "nota1": 4.7,
+            "nota2": 4.6
+          },
+          {
+            "nome": "LUCA FRIETAS LANES VICENTINI",
+            "nota1": 4.5,
+            "nota2": 3.2
+          },
+          {
+            "nome": "MARIA EDUARDA FERREIRA DE OLIVEIRA OLINDO",
+            "nota1": 5.8,
+            "nota2": 7.2
+          },
+          {
+            "nome": "MEL CAMPAGNARO",
+            "nota1": 5.8,
+            "nota2": 7.2
+          },
+          {
+            "nome": "TAINA ZAGO CYPRESETE",
+            "nota1": 0.0,
+            "nota2": 0.0
+          },
+          {
+            "nome": "VALENTINA MANOELA SCHUWARTZ FERNANDES",
+            "nota1": 6.1,
+            "nota2": 7.1
+          },
+          {
+            "nome": "VICENTE KOCK LENG VENADE DA COSTA",
+            "nota1": 3.7,
+            "nota2": 5.2
+          }
+        ]
+      },
+      {
+        "materia": "INGLES",
+        "alunos": [
+          {
+            "nome": "ANA CAROLINA DE PAULA SIMOES",
+            "nota1": 5.5,
+            "nota2": 6.5
+          },
+          {
+            "nome": "BEATRIZ BAIOCO VESCOVI",
+            "nota1": 4.6,
+            "nota2": 4.2
+          },
+          {
+            "nome": "DIOGO IVAN CABALLERO OTAROLA",
+            "nota1": 7.0,
+            "nota2": 3.6
+          },
+          {
+            "nome": "ELISA SEIXAS MELHEM",
+            "nota1": 4.4,
+            "nota2": 3.9
+          },
+          {
+            "nome": "ERIK ZANDONADE DE OLIVEIRA",
+            "nota1": 8.8,
+            "nota2": 7.7
+          },
+          {
+            "nome": "GABRIELA ZUCOLOTTO DE MENEZES",
+            "nota1": 5.1,
+            "nota2": 5.4
+          },
+          {
+            "nome": "GUILHERME DUARTE MADEIRA",
+            "nota1": 8.1,
+            "nota2": 6.1
+          },
+          {
+            "nome": "HENRIQUE PIMENTEL MARTINS ARRUDA",
+            "nota1": 5.5,
+            "nota2": 5.9
+          },
+          {
+            "nome": "JOAO GABRIEL TAVARES PEREIRA",
+            "nota1": 2.4,
+            "nota2": 6.5
+          },
+          {
+            "nome": "JOAO HENRIQUE ANTUNES PAES TORRES",
+            "nota1": 2.0,
+            "nota2": 2.3
+          },
+          {
+            "nome": "JOAO VITOR BENIQUIO FERNANDES DE JESUS",
+            "nota1": 6.7,
+            "nota2": 4.9
+          },
+          {
+            "nome": "LAURA DALVI CALAZANS",
+            "nota1": 4.7,
+            "nota2": 4.6
+          },
+          {
+            "nome": "LUCA FRIETAS LANES VICENTINI",
+            "nota1": 4.5,
+            "nota2": 3.2
+          },
+          {
+            "nome": "MARIA EDUARDA FERREIRA DE OLIVEIRA OLINDO",
+            "nota1": 5.8,
+            "nota2": 7.2
+          },
+          {
+            "nome": "MEL CAMPAGNARO",
+            "nota1": 5.8,
+            "nota2": 7.2
+          },
+          {
+            "nome": "TAINA ZAGO CYPRESETE",
+            "nota1": 0.0,
+            "nota2": 0.0
+          },
+          {
+            "nome": "VALENTINA MANOELA SCHUWARTZ FERNANDES",
+            "nota1": 6.1,
+            "nota2": 7.1
+          },
+          {
+            "nome": "VICENTE KOCK LENG VENADE DA COSTA",
+            "nota1": 3.7,
+            "nota2": 5.2
+          }
+        ]
+      },
+      {
+        "materia": "LINGUA PORTUGUESA",
+        "alunos": [
+          {
+            "nome": "ANA CAROLINA DE PAULA SIMOES",
+            "nota1": 5.5,
+            "nota2": 6.5
+          },
+          {
+            "nome": "BEATRIZ BAIOCO VESCOVI",
+            "nota1": 4.6,
+            "nota2": 4.2
+          },
+          {
+            "nome": "DIOGO IVAN CABALLERO OTAROLA",
+            "nota1": 7.0,
+            "nota2": 3.6
+          },
+          {
+            "nome": "ELISA SEIXAS MELHEM",
+            "nota1": 4.4,
+            "nota2": 3.9
+          },
+          {
+            "nome": "ERIK ZANDONADE DE OLIVEIRA",
+            "nota1": 8.8,
+            "nota2": 7.7
+          },
+          {
+            "nome": "GABRIELA ZUCOLOTTO DE MENEZES",
+            "nota1": 5.1,
+            "nota2": 5.4
+          },
+          {
+            "nome": "GUILHERME DUARTE MADEIRA",
+            "nota1": 8.1,
+            "nota2": 6.1
+          },
+          {
+            "nome": "HENRIQUE PIMENTEL MARTINS ARRUDA",
+            "nota1": 5.5,
+            "nota2": 5.9
+          },
+          {
+            "nome": "JOAO GABRIEL TAVARES PEREIRA",
+            "nota1": 2.4,
+            "nota2": 6.5
+          },
+          {
+            "nome": "JOAO HENRIQUE ANTUNES PAES TORRES",
+            "nota1": 2.0,
+            "nota2": 2.3
+          },
+          {
+            "nome": "JOAO VITOR BENIQUIO FERNANDES DE JESUS",
+            "nota1": 6.7,
+            "nota2": 4.9
+          },
+          {
+            "nome": "LAURA DALVI CALAZANS",
+            "nota1": 4.7,
+            "nota2": 4.6
+          },
+          {
+            "nome": "LUCA FRIETAS LANES VICENTINI",
+            "nota1": 4.5,
+            "nota2": 3.2
+          },
+          {
+            "nome": "MARIA EDUARDA FERREIRA DE OLIVEIRA OLINDO",
+            "nota1": 5.8,
+            "nota2": 7.2
+          },
+          {
+            "nome": "MEL CAMPAGNARO",
+            "nota1": 5.8,
+            "nota2": 7.2
+          },
+          {
+            "nome": "TAINA ZAGO CYPRESETE",
+            "nota1": 0.0,
+            "nota2": 0.0
+          },
+          {
+            "nome": "VALENTINA MANOELA SCHUWARTZ FERNANDES",
+            "nota1": 6.1,
+            "nota2": 7.1
+          },
+          {
+            "nome": "VICENTE KOCK LENG VENADE DA COSTA",
+            "nota1": 3.7,
+            "nota2": 5.2
+          }
+        ]
+      },
+      {
+        "materia": "MATEMATICA",
+        "alunos": [
+          {
+            "nome": "ANA CAROLINA DE PAULA SIMOES",
+            "nota1": 5.5,
+            "nota2": 6.5
+          },
+          {
+            "nome": "BEATRIZ BAIOCO VESCOVI",
+            "nota1": 4.6,
+            "nota2": 4.2
+          },
+          {
+            "nome": "DIOGO IVAN CABALLERO OTAROLA",
+            "nota1": 7.0,
+            "nota2": 3.6
+          },
+          {
+            "nome": "ELISA SEIXAS MELHEM",
+            "nota1": 4.4,
+            "nota2": 3.9
+          },
+          {
+            "nome": "ERIK ZANDONADE DE OLIVEIRA",
+            "nota1": 8.8,
+            "nota2": 7.7
+          },
+          {
+            "nome": "GABRIELA ZUCOLOTTO DE MENEZES",
+            "nota1": 5.1,
+            "nota2": 5.4
+          },
+          {
+            "nome": "GUILHERME DUARTE MADEIRA",
+            "nota1": 8.1,
+            "nota2": 6.1
+          },
+          {
+            "nome": "HENRIQUE PIMENTEL MARTINS ARRUDA",
+            "nota1": 5.5,
+            "nota2": 5.9
+          },
+          {
+            "nome": "JOAO GABRIEL TAVARES PEREIRA",
+            "nota1": 2.4,
+            "nota2": 6.5
+          },
+          {
+            "nome": "JOAO HENRIQUE ANTUNES PAES TORRES",
+            "nota1": 2.0,
+            "nota2": 2.3
+          },
+          {
+            "nome": "JOAO VITOR BENIQUIO FERNANDES DE JESUS",
+            "nota1": 6.7,
+            "nota2": 4.9
+          },
+          {
+            "nome": "LAURA DALVI CALAZANS",
+            "nota1": 4.7,
+            "nota2": 4.6
+          },
+          {
+            "nome": "LUCA FRIETAS LANES VICENTINI",
+            "nota1": 4.5,
+            "nota2": 3.2
+          },
+          {
+            "nome": "MARIA EDUARDA FERREIRA DE OLIVEIRA OLINDO",
+            "nota1": 5.8,
+            "nota2": 7.2
+          },
+          {
+            "nome": "MEL CAMPAGNARO",
+            "nota1": 5.8,
+            "nota2": 7.2
+          },
+          {
+            "nome": "TAINA ZAGO CYPRESETE",
+            "nota1": 0.0,
+            "nota2": 0.0
+          },
+          {
+            "nome": "VALENTINA MANOELA SCHUWARTZ FERNANDES",
+            "nota1": 6.1,
+            "nota2": 7.1
+          },
+          {
+            "nome": "VICENTE KOCK LENG VENADE DA COSTA",
+            "nota1": 3.7,
+            "nota2": 5.2
+          }
+        ]
+      }
+
+    ]
+  }
+]
