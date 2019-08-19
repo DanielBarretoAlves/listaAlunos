@@ -1,26 +1,51 @@
-using System;
+﻿using System;
+using System.Collections.Generic;
+using System.IO;
+using Newtonsoft.Json;
+using Newtonsoft.Json.Converters;
+using Newtonsoft.Json.Serialization;
 
-class Main
+namespace listaAlunos
 {
-
-    public static void main(string[] args)
+    class Program
     {
+        public static void Main(string[] args)
+        {
+            //var json = File.ReadAllText(AppDomain.BaseDirectory + "@\listaAlunos.json");
+            /*var js = new DataContractJsonSerialization(Encoding.UTF8.GetBytes(json));
+            var pessoa = (List<Aluno>)js.ReadObject(ms);*/
+            //var Alunos = JsonConvert.DeserializeObject < List<listaAlunos>(alunos);
+            //var json = File.ReadAllText(@"C:\Users\Rodrigo\source\repos\listaAlunos\listaAlunos\Serialization\9BM.json");
+            //var json = File.ReadAllText(path: @"/Users/MonteiroMaker/Documents/Breads/Repo/listaAlunos/listaAlunos/9BM.json");
+            //int status = deserialized[0].status;
+            var json = File.ReadAllText(AppDomain.CurrentDomain.BaseDirectory + @"listaAlunos.json");
+            //var trm = JsonConvert.DeserializeObject<List<Turma>>(json);
+            //var Turma = (List<Turma>)json.ReadObject(ms);*/
+            var turma = JsonConvert.DeserializeObject<List<Turma>>(json);
 
-        Aluno aluno = new Aluno();
+            Console.WriteLine(json);
 
-        Console.WriteLine("Digite o nome:");
-        aluno.getNomeAluno = Console.ReadLine();
+            //Console.WriteLine(json.Length);
 
-        Console.WriteLine("av1:");
-        aluno.getAvaliacao1 = int.Parse(Console.ReadLine());
+            //turma[1].Nome = "Daniel";
+        
 
-        Console.WriteLine("av2:");
-        aluno.getAvaliacao2 = int.Parse(Console.ReadLine());
+            //Console.WriteLine("Nome: " + turma[1].Nome);
+            //Console.WriteLine("Capacity: " + turma.Capacity);
+            //Console.WriteLine("Count: " + turma.Count);
+            //Console.WriteLine("A turma é: " + turma[0].Nome);
 
-        aluno.calculoMedia();
+            
+            //foreach (item in turma)
+            //{
+            //    Console.WriteLine(item);
+            //}
+            //_ = (string)Turma[1].Aulas;
+
+            //Console.WriteLine("Nome: " + Turma[1].Nome);
+            //Console.WriteLine(Turma[1].Aulas);
 
 
+        }
     }
-
-
 }

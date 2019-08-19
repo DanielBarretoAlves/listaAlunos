@@ -1,0 +1,1828 @@
+﻿[
+    {
+        "Turma": "9BM",
+        "Aulas": [
+            {
+                "Materia": "ARTES",
+                "alunos": [
+                    {
+                        "Nome": "ANA CAROLINA DE PAULA SIMOES",
+                        "Nota1": 10.0,
+                        "Nota2": 10.0
+                    },
+                    {
+                        "Nome": "BEATRIZ BAIOCO VESCOVI",
+                        "Nota1": 10.0,
+                        "Nota2": 10.0
+                    },
+                    {
+                        "Nome": "DIOGO IVAN CABALLERO OTAROLA",
+                        "Nota1": 10.0,
+                        "Nota2": 8.0
+                    },
+                    {
+                        "Nome": "ELISA SEIXAS MELHEM",
+                        "Nota1": 10.0,
+                        "Nota2": 10.0
+                    },
+                    {
+                        "Nome": "ERIK ZANDONADE DE OLIVEIRA",
+                        "Nota1": 10.0,
+                        "Nota2": 9.0
+                    },
+                    {
+                        "Nome": "GABRIELA ZUCOLOTTO DE MENEZES",
+                        "Nota1": 10.0,
+                        "Nota2": 10.0
+                    },
+                    {
+                        "Nome": "GUILHERME DUARTE MADEIRA",
+                        "Nota1": 10.0,
+                        "Nota2": 8.0
+                    },
+                    {
+                        "Nome": "HENRIQUE PIMENTEL MARTINS ARRUDA",
+                        "Nota1": 8.0,
+                        "Nota2": 8.0
+                    },
+                    {
+                        "Nome": "JOAO GABRIEL TAVARES PEREIRA",
+                        "Nota1": 10.0,
+                        "Nota2": 7.0
+                    },
+                    {
+                        "Nome": "JOAO HENRIQUE ANTUNES PAES TORRES",
+                        "Nota1": 10.0,
+                        "Nota2": 10.0
+                    },
+                    {
+                        "Nome": "JOAO VITOR BENIQUIO FERNANDES DE JESUS",
+                        "Nota1": 10.0,
+                        "Nota2": 3.0
+                    },
+                    {
+                        "Nome": "LAURA DALVI CALAZANS",
+                        "Nota1": 10.0,
+                        "Nota2": 10.0
+                    },
+                    {
+                        "Nome": "LUCA FRIETAS LANES VICENTINI",
+                        "Nota1": 10.0,
+                        "Nota2": 8.0
+                    },
+                    {
+                        "Nome": "MARIA EDUARDA FERREIRA DE OLIVEIRA OLINDO",
+                        "Nota1": 10.0,
+                        "Nota2": 10.0
+                    },
+                    {
+                        "Nome": "MEL CAMPAGNARO",
+                        "Nota1": 10.0,
+                        "Nota2": 10.0
+                    },
+                    {
+                        "Nome": "TAINA ZAGO CYPRESETE",
+                        "Nota1": 0.0,
+                        "Nota2": 0.0
+                    },
+                    {
+                        "Nome": "VALENTINA MANOELA SCHUWARTZ FERNANDES",
+                        "Nota1": 10.0,
+                        "Nota2": 10.0
+                    },
+                    {
+                        "Nome": "VICENTE KOCK LENG VENADE DA COSTA",
+                        "Nota1": 10.0,
+                        "Nota2": 8.0
+                    }
+                ]
+            },
+            {
+                "Materia": "CIENCIAS",
+                "alunos": [
+                    {
+                        "Nome": "ANA CAROLINA DE PAULA SIMOES",
+                        "Nota1": 5.5,
+                        "Nota2": 6.5
+                    },
+                    {
+                        "Nome": "BEATRIZ BAIOCO VESCOVI",
+                        "Nota1": 4.6,
+                        "Nota2": 4.2
+                    },
+                    {
+                        "Nome": "DIOGO IVAN CABALLERO OTAROLA",
+                        "Nota1": 7.0,
+                        "Nota2": 3.6
+                    },
+                    {
+                        "Nome": "ELISA SEIXAS MELHEM",
+                        "Nota1": 4.4,
+                        "Nota2": 3.9
+                    },
+                    {
+                        "Nome": "ERIK ZANDONADE DE OLIVEIRA",
+                        "Nota1": 8.8,
+                        "Nota2": 7.7
+                    },
+                    {
+                        "Nome": "GABRIELA ZUCOLOTTO DE MENEZES",
+                        "Nota1": 5.1,
+                        "Nota2": 5.4
+                    },
+                    {
+                        "Nome": "GUILHERME DUARTE MADEIRA",
+                        "Nota1": 8.1,
+                        "Nota2": 6.1
+                    },
+                    {
+                        "Nome": "HENRIQUE PIMENTEL MARTINS ARRUDA",
+                        "Nota1": 5.5,
+                        "Nota2": 5.9
+                    },
+                    {
+                        "Nome": "JOAO GABRIEL TAVARES PEREIRA",
+                        "Nota1": 2.4,
+                        "Nota2": 6.5
+                    },
+                    {
+                        "Nome": "JOAO HENRIQUE ANTUNES PAES TORRES",
+                        "Nota1": 2.0,
+                        "Nota2": 2.3
+                    },
+                    {
+                        "Nome": "JOAO VITOR BENIQUIO FERNANDES DE JESUS",
+                        "Nota1": 6.7,
+                        "Nota2": 4.9
+                    },
+                    {
+                        "Nome": "LAURA DALVI CALAZANS",
+                        "Nota1": 4.7,
+                        "Nota2": 4.6
+                    },
+                    {
+                        "Nome": "LUCA FRIETAS LANES VICENTINI",
+                        "Nota1": 4.5,
+                        "Nota2": 3.2
+                    },
+                    {
+                        "Nome": "MARIA EDUARDA FERREIRA DE OLIVEIRA OLINDO",
+                        "Nota1": 5.8,
+                        "Nota2": 7.2
+                    },
+                    {
+                        "Nome": "MEL CAMPAGNARO",
+                        "Nota1": 5.8,
+                        "Nota2": 7.2
+                    },
+                    {
+                        "Nome": "TAINA ZAGO CYPRESETE",
+                        "Nota1": 0.0,
+                        "Nota2": 0.0
+                    },
+                    {
+                        "Nome": "VALENTINA MANOELA SCHUWARTZ FERNANDES",
+                        "Nota1": 6.1,
+                        "Nota2": 7.1
+                    },
+                    {
+                        "Nome": "VICENTE KOCK LENG VENADE DA COSTA",
+                        "Nota1": 3.7,
+                        "Nota2": 5.2
+                    }
+                ]
+            },
+            {
+                "Materia": "ESPANHOL",
+                "alunos": [
+                    {
+                        "Nome": "ANA CAROLINA DE PAULA SIMOES",
+                        "Nota1": 5.5,
+                        "Nota2": 6.5
+                    },
+                    {
+                        "Nome": "BEATRIZ BAIOCO VESCOVI",
+                        "Nota1": 4.6,
+                        "Nota2": 4.2
+                    },
+                    {
+                        "Nome": "DIOGO IVAN CABALLERO OTAROLA",
+                        "Nota1": 7.0,
+                        "Nota2": 3.6
+                    },
+                    {
+                        "Nome": "ELISA SEIXAS MELHEM",
+                        "Nota1": 4.4,
+                        "Nota2": 3.9
+                    },
+                    {
+                        "Nome": "ERIK ZANDONADE DE OLIVEIRA",
+                        "Nota1": 8.8,
+                        "Nota2": 7.7
+                    },
+                    {
+                        "Nome": "GABRIELA ZUCOLOTTO DE MENEZES",
+                        "Nota1": 5.1,
+                        "Nota2": 5.4
+                    },
+                    {
+                        "Nome": "GUILHERME DUARTE MADEIRA",
+                        "Nota1": 8.1,
+                        "Nota2": 6.1
+                    },
+                    {
+                        "Nome": "HENRIQUE PIMENTEL MARTINS ARRUDA",
+                        "Nota1": 5.5,
+                        "Nota2": 5.9
+                    },
+                    {
+                        "Nome": "JOAO GABRIEL TAVARES PEREIRA",
+                        "Nota1": 2.4,
+                        "Nota2": 6.5
+                    },
+                    {
+                        "Nome": "JOAO HENRIQUE ANTUNES PAES TORRES",
+                        "Nota1": 2.0,
+                        "Nota2": 2.3
+                    },
+                    {
+                        "Nome": "JOAO VITOR BENIQUIO FERNANDES DE JESUS",
+                        "Nota1": 6.7,
+                        "Nota2": 4.9
+                    },
+                    {
+                        "Nome": "LAURA DALVI CALAZANS",
+                        "Nota1": 4.7,
+                        "Nota2": 4.6
+                    },
+                    {
+                        "Nome": "LUCA FRIETAS LANES VICENTINI",
+                        "Nota1": 4.5,
+                        "Nota2": 3.2
+                    },
+                    {
+                        "Nome": "MARIA EDUARDA FERREIRA DE OLIVEIRA OLINDO",
+                        "Nota1": 5.8,
+                        "Nota2": 7.2
+                    },
+                    {
+                        "Nome": "MEL CAMPAGNARO",
+                        "Nota1": 5.8,
+                        "Nota2": 7.2
+                    },
+                    {
+                        "Nome": "TAINA ZAGO CYPRESETE",
+                        "Nota1": 0.0,
+                        "Nota2": 0.0
+                    },
+                    {
+                        "Nome": "VALENTINA MANOELA SCHUWARTZ FERNANDES",
+                        "Nota1": 6.1,
+                        "Nota2": 7.1
+                    },
+                    {
+                        "Nome": "VICENTE KOCK LENG VENADE DA COSTA",
+                        "Nota1": 3.7,
+                        "Nota2": 5.2
+                    }
+                ]
+            },
+            {
+                "Materia": "FILOSOFIA",
+                "alunos": [
+                    {
+                        "Nome": "ANA CAROLINA DE PAULA SIMOES",
+                        "Nota1": 5.5,
+                        "Nota2": 6.5
+                    },
+                    {
+                        "Nome": "BEATRIZ BAIOCO VESCOVI",
+                        "Nota1": 4.6,
+                        "Nota2": 4.2
+                    },
+                    {
+                        "Nome": "DIOGO IVAN CABALLERO OTAROLA",
+                        "Nota1": 7.0,
+                        "Nota2": 3.6
+                    },
+                    {
+                        "Nome": "ELISA SEIXAS MELHEM",
+                        "Nota1": 4.4,
+                        "Nota2": 3.9
+                    },
+                    {
+                        "Nome": "ERIK ZANDONADE DE OLIVEIRA",
+                        "Nota1": 8.8,
+                        "Nota2": 7.7
+                    },
+                    {
+                        "Nome": "GABRIELA ZUCOLOTTO DE MENEZES",
+                        "Nota1": 5.1,
+                        "Nota2": 5.4
+                    },
+                    {
+                        "Nome": "GUILHERME DUARTE MADEIRA",
+                        "Nota1": 8.1,
+                        "Nota2": 6.1
+                    },
+                    {
+                        "Nome": "HENRIQUE PIMENTEL MARTINS ARRUDA",
+                        "Nota1": 5.5,
+                        "Nota2": 5.9
+                    },
+                    {
+                        "Nome": "JOAO GABRIEL TAVARES PEREIRA",
+                        "Nota1": 2.4,
+                        "Nota2": 6.5
+                    },
+                    {
+                        "Nome": "JOAO HENRIQUE ANTUNES PAES TORRES",
+                        "Nota1": 2.0,
+                        "Nota2": 2.3
+                    },
+                    {
+                        "Nome": "JOAO VITOR BENIQUIO FERNANDES DE JESUS",
+                        "Nota1": 6.7,
+                        "Nota2": 4.9
+                    },
+                    {
+                        "Nome": "LAURA DALVI CALAZANS",
+                        "Nota1": 4.7,
+                        "Nota2": 4.6
+                    },
+                    {
+                        "Nome": "LUCA FRIETAS LANES VICENTINI",
+                        "Nota1": 4.5,
+                        "Nota2": 3.2
+                    },
+                    {
+                        "Nome": "MARIA EDUARDA FERREIRA DE OLIVEIRA OLINDO",
+                        "Nota1": 5.8,
+                        "Nota2": 7.2
+                    },
+                    {
+                        "Nome": "MEL CAMPAGNARO",
+                        "Nota1": 5.8,
+                        "Nota2": 7.2
+                    },
+                    {
+                        "Nome": "TAINA ZAGO CYPRESETE",
+                        "Nota1": 0.0,
+                        "Nota2": 0.0
+                    },
+                    {
+                        "Nome": "VALENTINA MANOELA SCHUWARTZ FERNANDES",
+                        "Nota1": 6.1,
+                        "Nota2": 7.1
+                    },
+                    {
+                        "Nome": "VICENTE KOCK LENG VENADE DA COSTA",
+                        "Nota1": 3.7,
+                        "Nota2": 5.2
+                    }
+                ]
+            },
+            {
+                "Materia": "GEOGRAFIA",
+                "alunos": [
+                    {
+                        "Nome": "ANA CAROLINA DE PAULA SIMOES",
+                        "Nota1": 5.5,
+                        "Nota2": 6.5
+                    },
+                    {
+                        "Nome": "BEATRIZ BAIOCO VESCOVI",
+                        "Nota1": 4.6,
+                        "Nota2": 4.2
+                    },
+                    {
+                        "Nome": "DIOGO IVAN CABALLERO OTAROLA",
+                        "Nota1": 7.0,
+                        "Nota2": 3.6
+                    },
+                    {
+                        "Nome": "ELISA SEIXAS MELHEM",
+                        "Nota1": 4.4,
+                        "Nota2": 3.9
+                    },
+                    {
+                        "Nome": "ERIK ZANDONADE DE OLIVEIRA",
+                        "Nota1": 8.8,
+                        "Nota2": 7.7
+                    },
+                    {
+                        "Nome": "GABRIELA ZUCOLOTTO DE MENEZES",
+                        "Nota1": 5.1,
+                        "Nota2": 5.4
+                    },
+                    {
+                        "Nome": "GUILHERME DUARTE MADEIRA",
+                        "Nota1": 8.1,
+                        "Nota2": 6.1
+                    },
+                    {
+                        "Nome": "HENRIQUE PIMENTEL MARTINS ARRUDA",
+                        "Nota1": 5.5,
+                        "Nota2": 5.9
+                    },
+                    {
+                        "Nome": "JOAO GABRIEL TAVARES PEREIRA",
+                        "Nota1": 2.4,
+                        "Nota2": 6.5
+                    },
+                    {
+                        "Nome": "JOAO HENRIQUE ANTUNES PAES TORRES",
+                        "Nota1": 2.0,
+                        "Nota2": 2.3
+                    },
+                    {
+                        "Nome": "JOAO VITOR BENIQUIO FERNANDES DE JESUS",
+                        "Nota1": 6.7,
+                        "Nota2": 4.9
+                    },
+                    {
+                        "Nome": "LAURA DALVI CALAZANS",
+                        "Nota1": 4.7,
+                        "Nota2": 4.6
+                    },
+                    {
+                        "Nome": "LUCA FRIETAS LANES VICENTINI",
+                        "Nota1": 4.5,
+                        "Nota2": 3.2
+                    },
+                    {
+                        "Nome": "MARIA EDUARDA FERREIRA DE OLIVEIRA OLINDO",
+                        "Nota1": 5.8,
+                        "Nota2": 7.2
+                    },
+                    {
+                        "Nome": "MEL CAMPAGNARO",
+                        "Nota1": 5.8,
+                        "Nota2": 7.2
+                    },
+                    {
+                        "Nome": "TAINA ZAGO CYPRESETE",
+                        "Nota1": 0.0,
+                        "Nota2": 0.0
+                    },
+                    {
+                        "Nome": "VALENTINA MANOELA SCHUWARTZ FERNANDES",
+                        "Nota1": 6.1,
+                        "Nota2": 7.1
+                    },
+                    {
+                        "Nome": "VICENTE KOCK LENG VENADE DA COSTA",
+                        "Nota1": 3.7,
+                        "Nota2": 5.2
+                    }
+                ]
+            },
+            {
+                "Materia": "HISTORIA",
+                "alunos": [
+                    {
+                        "Nome": "ANA CAROLINA DE PAULA SIMOES",
+                        "Nota1": 5.5,
+                        "Nota2": 6.5
+                    },
+                    {
+                        "Nome": "BEATRIZ BAIOCO VESCOVI",
+                        "Nota1": 4.6,
+                        "Nota2": 4.2
+                    },
+                    {
+                        "Nome": "DIOGO IVAN CABALLERO OTAROLA",
+                        "Nota1": 7.0,
+                        "Nota2": 3.6
+                    },
+                    {
+                        "Nome": "ELISA SEIXAS MELHEM",
+                        "Nota1": 4.4,
+                        "Nota2": 3.9
+                    },
+                    {
+                        "Nome": "ERIK ZANDONADE DE OLIVEIRA",
+                        "Nota1": 8.8,
+                        "Nota2": 7.7
+                    },
+                    {
+                        "Nome": "GABRIELA ZUCOLOTTO DE MENEZES",
+                        "Nota1": 5.1,
+                        "Nota2": 5.4
+                    },
+                    {
+                        "Nome": "GUILHERME DUARTE MADEIRA",
+                        "Nota1": 8.1,
+                        "Nota2": 6.1
+                    },
+                    {
+                        "Nome": "HENRIQUE PIMENTEL MARTINS ARRUDA",
+                        "Nota1": 5.5,
+                        "Nota2": 5.9
+                    },
+                    {
+                        "Nome": "JOAO GABRIEL TAVARES PEREIRA",
+                        "Nota1": 2.4,
+                        "Nota2": 6.5
+                    },
+                    {
+                        "Nome": "JOAO HENRIQUE ANTUNES PAES TORRES",
+                        "Nota1": 2.0,
+                        "Nota2": 2.3
+                    },
+                    {
+                        "Nome": "JOAO VITOR BENIQUIO FERNANDES DE JESUS",
+                        "Nota1": 6.7,
+                        "Nota2": 4.9
+                    },
+                    {
+                        "Nome": "LAURA DALVI CALAZANS",
+                        "Nota1": 4.7,
+                        "Nota2": 4.6
+                    },
+                    {
+                        "Nome": "LUCA FRIETAS LANES VICENTINI",
+                        "Nota1": 4.5,
+                        "Nota2": 3.2
+                    },
+                    {
+                        "Nome": "MARIA EDUARDA FERREIRA DE OLIVEIRA OLINDO",
+                        "Nota1": 5.8,
+                        "Nota2": 7.2
+                    },
+                    {
+                        "Nome": "MEL CAMPAGNARO",
+                        "Nota1": 5.8,
+                        "Nota2": 7.2
+                    },
+                    {
+                        "Nome": "TAINA ZAGO CYPRESETE",
+                        "Nota1": 0.0,
+                        "Nota2": 0.0
+                    },
+                    {
+                        "Nome": "VALENTINA MANOELA SCHUWARTZ FERNANDES",
+                        "Nota1": 6.1,
+                        "Nota2": 7.1
+                    },
+                    {
+                        "Nome": "VICENTE KOCK LENG VENADE DA COSTA",
+                        "Nota1": 3.7,
+                        "Nota2": 5.2
+                    }
+                ]
+            },
+            {
+                "Materia": "INGLES",
+                "alunos": [
+                    {
+                        "Nome": "ANA CAROLINA DE PAULA SIMOES",
+                        "Nota1": 5.5,
+                        "Nota2": 6.5
+                    },
+                    {
+                        "Nome": "BEATRIZ BAIOCO VESCOVI",
+                        "Nota1": 4.6,
+                        "Nota2": 4.2
+                    },
+                    {
+                        "Nome": "DIOGO IVAN CABALLERO OTAROLA",
+                        "Nota1": 7.0,
+                        "Nota2": 3.6
+                    },
+                    {
+                        "Nome": "ELISA SEIXAS MELHEM",
+                        "Nota1": 4.4,
+                        "Nota2": 3.9
+                    },
+                    {
+                        "Nome": "ERIK ZANDONADE DE OLIVEIRA",
+                        "Nota1": 8.8,
+                        "Nota2": 7.7
+                    },
+                    {
+                        "Nome": "GABRIELA ZUCOLOTTO DE MENEZES",
+                        "Nota1": 5.1,
+                        "Nota2": 5.4
+                    },
+                    {
+                        "Nome": "GUILHERME DUARTE MADEIRA",
+                        "Nota1": 8.1,
+                        "Nota2": 6.1
+                    },
+                    {
+                        "Nome": "HENRIQUE PIMENTEL MARTINS ARRUDA",
+                        "Nota1": 5.5,
+                        "Nota2": 5.9
+                    },
+                    {
+                        "Nome": "JOAO GABRIEL TAVARES PEREIRA",
+                        "Nota1": 2.4,
+                        "Nota2": 6.5
+                    },
+                    {
+                        "Nome": "JOAO HENRIQUE ANTUNES PAES TORRES",
+                        "Nota1": 2.0,
+                        "Nota2": 2.3
+                    },
+                    {
+                        "Nome": "JOAO VITOR BENIQUIO FERNANDES DE JESUS",
+                        "Nota1": 6.7,
+                        "Nota2": 4.9
+                    },
+                    {
+                        "Nome": "LAURA DALVI CALAZANS",
+                        "Nota1": 4.7,
+                        "Nota2": 4.6
+                    },
+                    {
+                        "Nome": "LUCA FRIETAS LANES VICENTINI",
+                        "Nota1": 4.5,
+                        "Nota2": 3.2
+                    },
+                    {
+                        "Nome": "MARIA EDUARDA FERREIRA DE OLIVEIRA OLINDO",
+                        "Nota1": 5.8,
+                        "Nota2": 7.2
+                    },
+                    {
+                        "Nome": "MEL CAMPAGNARO",
+                        "Nota1": 5.8,
+                        "Nota2": 7.2
+                    },
+                    {
+                        "Nome": "TAINA ZAGO CYPRESETE",
+                        "Nota1": 0.0,
+                        "Nota2": 0.0
+                    },
+                    {
+                        "Nome": "VALENTINA MANOELA SCHUWARTZ FERNANDES",
+                        "Nota1": 6.1,
+                        "Nota2": 7.1
+                    },
+                    {
+                        "Nome": "VICENTE KOCK LENG VENADE DA COSTA",
+                        "Nota1": 3.7,
+                        "Nota2": 5.2
+                    }
+                ]
+            },
+            {
+                "Materia": "LINGUA PORTUGUESA",
+                "alunos": [
+                    {
+                        "Nome": "ANA CAROLINA DE PAULA SIMOES",
+                        "Nota1": 5.5,
+                        "Nota2": 6.5
+                    },
+                    {
+                        "Nome": "BEATRIZ BAIOCO VESCOVI",
+                        "Nota1": 4.6,
+                        "Nota2": 4.2
+                    },
+                    {
+                        "Nome": "DIOGO IVAN CABALLERO OTAROLA",
+                        "Nota1": 7.0,
+                        "Nota2": 3.6
+                    },
+                    {
+                        "Nome": "ELISA SEIXAS MELHEM",
+                        "Nota1": 4.4,
+                        "Nota2": 3.9
+                    },
+                    {
+                        "Nome": "ERIK ZANDONADE DE OLIVEIRA",
+                        "Nota1": 8.8,
+                        "Nota2": 7.7
+                    },
+                    {
+                        "Nome": "GABRIELA ZUCOLOTTO DE MENEZES",
+                        "Nota1": 5.1,
+                        "Nota2": 5.4
+                    },
+                    {
+                        "Nome": "GUILHERME DUARTE MADEIRA",
+                        "Nota1": 8.1,
+                        "Nota2": 6.1
+                    },
+                    {
+                        "Nome": "HENRIQUE PIMENTEL MARTINS ARRUDA",
+                        "Nota1": 5.5,
+                        "Nota2": 5.9
+                    },
+                    {
+                        "Nome": "JOAO GABRIEL TAVARES PEREIRA",
+                        "Nota1": 2.4,
+                        "Nota2": 6.5
+                    },
+                    {
+                        "Nome": "JOAO HENRIQUE ANTUNES PAES TORRES",
+                        "Nota1": 2.0,
+                        "Nota2": 2.3
+                    },
+                    {
+                        "Nome": "JOAO VITOR BENIQUIO FERNANDES DE JESUS",
+                        "Nota1": 6.7,
+                        "Nota2": 4.9
+                    },
+                    {
+                        "Nome": "LAURA DALVI CALAZANS",
+                        "Nota1": 4.7,
+                        "Nota2": 4.6
+                    },
+                    {
+                        "Nome": "LUCA FRIETAS LANES VICENTINI",
+                        "Nota1": 4.5,
+                        "Nota2": 3.2
+                    },
+                    {
+                        "Nome": "MARIA EDUARDA FERREIRA DE OLIVEIRA OLINDO",
+                        "Nota1": 5.8,
+                        "Nota2": 7.2
+                    },
+                    {
+                        "Nome": "MEL CAMPAGNARO",
+                        "Nota1": 5.8,
+                        "Nota2": 7.2
+                    },
+                    {
+                        "Nome": "TAINA ZAGO CYPRESETE",
+                        "Nota1": 0.0,
+                        "Nota2": 0.0
+                    },
+                    {
+                        "Nome": "VALENTINA MANOELA SCHUWARTZ FERNANDES",
+                        "Nota1": 6.1,
+                        "Nota2": 7.1
+                    },
+                    {
+                        "Nome": "VICENTE KOCK LENG VENADE DA COSTA",
+                        "Nota1": 3.7,
+                        "Nota2": 5.2
+                    }
+                ]
+            },
+            {
+                "Materia": "MATEMATICA",
+                "alunos": [
+                    {
+                        "Nome": "ANA CAROLINA DE PAULA SIMOES",
+                        "Nota1": 5.5,
+                        "Nota2": 6.5
+                    },
+                    {
+                        "Nome": "BEATRIZ BAIOCO VESCOVI",
+                        "Nota1": 4.6,
+                        "Nota2": 4.2
+                    },
+                    {
+                        "Nome": "DIOGO IVAN CABALLERO OTAROLA",
+                        "Nota1": 7.0,
+                        "Nota2": 3.6
+                    },
+                    {
+                        "Nome": "ELISA SEIXAS MELHEM",
+                        "Nota1": 4.4,
+                        "Nota2": 3.9
+                    },
+                    {
+                        "Nome": "ERIK ZANDONADE DE OLIVEIRA",
+                        "Nota1": 8.8,
+                        "Nota2": 7.7
+                    },
+                    {
+                        "Nome": "GABRIELA ZUCOLOTTO DE MENEZES",
+                        "Nota1": 5.1,
+                        "Nota2": 5.4
+                    },
+                    {
+                        "Nome": "GUILHERME DUARTE MADEIRA",
+                        "Nota1": 8.1,
+                        "Nota2": 6.1
+                    },
+                    {
+                        "Nome": "HENRIQUE PIMENTEL MARTINS ARRUDA",
+                        "Nota1": 5.5,
+                        "Nota2": 5.9
+                    },
+                    {
+                        "Nome": "JOAO GABRIEL TAVARES PEREIRA",
+                        "Nota1": 2.4,
+                        "Nota2": 6.5
+                    },
+                    {
+                        "Nome": "JOAO HENRIQUE ANTUNES PAES TORRES",
+                        "Nota1": 2.0,
+                        "Nota2": 2.3
+                    },
+                    {
+                        "Nome": "JOAO VITOR BENIQUIO FERNANDES DE JESUS",
+                        "Nota1": 6.7,
+                        "Nota2": 4.9
+                    },
+                    {
+                        "Nome": "LAURA DALVI CALAZANS",
+                        "Nota1": 4.7,
+                        "Nota2": 4.6
+                    },
+                    {
+                        "Nome": "LUCA FRIETAS LANES VICENTINI",
+                        "Nota1": 4.5,
+                        "Nota2": 3.2
+                    },
+                    {
+                        "Nome": "MARIA EDUARDA FERREIRA DE OLIVEIRA OLINDO",
+                        "Nota1": 5.8,
+                        "Nota2": 7.2
+                    },
+                    {
+                        "Nome": "MEL CAMPAGNARO",
+                        "Nota1": 5.8,
+                        "Nota2": 7.2
+                    },
+                    {
+                        "Nome": "TAINA ZAGO CYPRESETE",
+                        "Nota1": 0.0,
+                        "Nota2": 0.0
+                    },
+                    {
+                        "Nome": "VALENTINA MANOELA SCHUWARTZ FERNANDES",
+                        "Nota1": 6.1,
+                        "Nota2": 7.1
+                    },
+                    {
+                        "Nome": "VICENTE KOCK LENG VENADE DA COSTA",
+                        "Nota1": 3.7,
+                        "Nota2": 5.2
+                    }
+                ]
+            }
+
+        ]
+    },
+    {
+        "Turma": "9AM",
+        "Aulas": [
+            {
+                "Materia": "ARTES",
+                "alunos": [
+                    {
+                        "Nome": "ARTHUR PAGONOZZI DITCHFIELD",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "AUGUSTO CAO GIESTAS DE OLIVEIRA",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "CAROLINE DE OLIVEIRA COSTA",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "CLARA RIBEIRO SOUZA DE LIMA FREITAS",
+                        "Nota1": "0.0",
+                        "Nota2": " "
+                    },
+                    {
+                        "Nome": "FELIPE LIMA DE MAGALHAES CASTRO",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "GABRIELA SALIBA DE ALMEIDA",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "GIOVANA LEITE DE CASTRO MOARES",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "ISABELA VIGUINI DAHER",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "ISADORA AMORIM",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "JOAO VICTOR COVRE LIMA",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "JULIA DECOTTIGNES BERTOLLO",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "JULIA MOTTA PASSOS",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "LIVIA SARMENGHI DUARTE",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "MARCIO PROVEDEL DALLA BERNADINA",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "MARIANA RANGEL SUEIRO DE CARVALHO",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "MURILO PATRICIO NASCIMENTO",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "SOPHIA AYMEE PERUCH RODRIGUES",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "VITOR KALIL DE FREITAS",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    }
+
+                ]
+            },
+            {
+                "Materia": "CIENCIAS",
+                "alunos": [
+                    {
+                        "Nome": "ARTHUR PAGONOZZI DITCHFIELD",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "AUGUSTO CAO GIESTAS DE OLIVEIRA",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "CAROLINE DE OLIVEIRA COSTA",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "CLARA RIBEIRO SOUZA DE LIMA FREITAS",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "FELIPE LIMA DE MAGALHAES CASTRO",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "GABRIELA SALIBA DE ALMEIDA",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "GIOVANA LEITE DE CASTRO MOARES",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "ISABELA VIGUINI DAHER",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "ISADORA AMORIM",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "JOAO VICTOR COVRE LIMA",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "JULIA DECOTTIGNES BERTOLLO",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "JULIA MOTTA PASSOS",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "LIVIA SARMENGHI DUARTE",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "MARCIO PROVEDEL DALLA BERNADINA",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "MARIANA RANGEL SUEIRO DE CARVALHO",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "MURILO PATRICIO NASCIMENTO",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "SOPHIA AYMEE PERUCH RODRIGUES",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "VITOR KALIL DE FREITAS",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    }
+
+                ]
+            },
+            {
+                "Materia": "EDUCACAO FISICA",
+                "alunos": [
+                    {
+                        "Nome": "ARTHUR PAGONOZZI DITCHFIELD",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "AUGUSTO CAO GIESTAS DE OLIVEIRA",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "CAROLINE DE OLIVEIRA COSTA",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "CLARA RIBEIRO SOUZA DE LIMA FREITAS",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "FELIPE LIMA DE MAGALHAES CASTRO",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "GABRIELA SALIBA DE ALMEIDA",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "GIOVANA LEITE DE CASTRO MOARES",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "ISABELA VIGUINI DAHER",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "ISADORA AMORIM",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "JOAO VICTOR COVRE LIMA",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "JULIA DECOTTIGNES BERTOLLO",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "JULIA MOTTA PASSOS",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "LIVIA SARMENGHI DUARTE",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "MARCIO PROVEDEL DALLA BERNADINA",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "MARIANA RANGEL SUEIRO DE CARVALHO",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "MURILO PATRICIO NASCIMENTO",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "SOPHIA AYMEE PERUCH RODRIGUES",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "VITOR KALIL DE FREITAS",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    }
+
+                ]
+            },
+            {
+                "Materia": "ESPANHOL",
+                "alunos": [
+                    {
+                        "Nome": "ARTHUR PAGONOZZI DITCHFIELD",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "AUGUSTO CAO GIESTAS DE OLIVEIRA",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "CAROLINE DE OLIVEIRA COSTA",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "CLARA RIBEIRO SOUZA DE LIMA FREITAS",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "FELIPE LIMA DE MAGALHAES CASTRO",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "GABRIELA SALIBA DE ALMEIDA",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "GIOVANA LEITE DE CASTRO MOARES",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "ISABELA VIGUINI DAHER",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "ISADORA AMORIM",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "JOAO VICTOR COVRE LIMA",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "JULIA DECOTTIGNES BERTOLLO",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "JULIA MOTTA PASSOS",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "LIVIA SARMENGHI DUARTE",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "MARCIO PROVEDEL DALLA BERNADINA",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "MARIANA RANGEL SUEIRO DE CARVALHO",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "MURILO PATRICIO NASCIMENTO",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "SOPHIA AYMEE PERUCH RODRIGUES",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "VITOR KALIL DE FREITAS",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    }
+
+                ]
+            },
+            {
+                "Materia": "FILOSOFIA",
+                "alunos": [
+                    {
+                        "Nome": "ARTHUR PAGONOZZI DITCHFIELD",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "AUGUSTO CAO GIESTAS DE OLIVEIRA",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "CAROLINE DE OLIVEIRA COSTA",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "CLARA RIBEIRO SOUZA DE LIMA FREITAS",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "FELIPE LIMA DE MAGALHAES CASTRO",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "GABRIELA SALIBA DE ALMEIDA",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "GIOVANA LEITE DE CASTRO MOARES",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "ISABELA VIGUINI DAHER",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "ISADORA AMORIM",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "JOAO VICTOR COVRE LIMA",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "JULIA DECOTTIGNES BERTOLLO",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "JULIA MOTTA PASSOS",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "LIVIA SARMENGHI DUARTE",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "MARCIO PROVEDEL DALLA BERNADINA",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "MARIANA RANGEL SUEIRO DE CARVALHO",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "MURILO PATRICIO NASCIMENTO",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "SOPHIA AYMEE PERUCH RODRIGUES",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "VITOR KALIL DE FREITAS",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    }
+
+                ]
+            },
+            {
+                "Materia": "GEOGRAFIA",
+                "alunos": [
+                    {
+                        "Nome": "ARTHUR PAGONOZZI DITCHFIELD",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "AUGUSTO CAO GIESTAS DE OLIVEIRA",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "CAROLINE DE OLIVEIRA COSTA",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "CLARA RIBEIRO SOUZA DE LIMA FREITAS",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "FELIPE LIMA DE MAGALHAES CASTRO",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "GABRIELA SALIBA DE ALMEIDA",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "GIOVANA LEITE DE CASTRO MOARES",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "ISABELA VIGUINI DAHER",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "ISADORA AMORIM",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "JOAO VICTOR COVRE LIMA",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "JULIA DECOTTIGNES BERTOLLO",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "JULIA MOTTA PASSOS",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "LIVIA SARMENGHI DUARTE",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "MARCIO PROVEDEL DALLA BERNADINA",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "MARIANA RANGEL SUEIRO DE CARVALHO",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "MURILO PATRICIO NASCIMENTO",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "SOPHIA AYMEE PERUCH RODRIGUES",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "VITOR KALIL DE FREITAS",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    }
+
+                ]
+            },
+            {
+                "Materia": "HISTORIA",
+                "alunos": [
+                    {
+                        "Nome": "ARTHUR PAGONOZZI DITCHFIELD",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "AUGUSTO CAO GIESTAS DE OLIVEIRA",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "CAROLINE DE OLIVEIRA COSTA",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "CLARA RIBEIRO SOUZA DE LIMA FREITAS",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "FELIPE LIMA DE MAGALHAES CASTRO",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "GABRIELA SALIBA DE ALMEIDA",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "GIOVANA LEITE DE CASTRO MOARES",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "ISABELA VIGUINI DAHER",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "ISADORA AMORIM",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "JOAO VICTOR COVRE LIMA",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "JULIA DECOTTIGNES BERTOLLO",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "JULIA MOTTA PASSOS",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "LIVIA SARMENGHI DUARTE",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "MARCIO PROVEDEL DALLA BERNADINA",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "MARIANA RANGEL SUEIRO DE CARVALHO",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "MURILO PATRICIO NASCIMENTO",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "SOPHIA AYMEE PERUCH RODRIGUES",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "VITOR KALIL DE FREITAS",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    }
+
+                ]
+            },
+            {
+                "Materia": "INGLES",
+                "alunos": [
+                    {
+                        "Nome": "ARTHUR PAGONOZZI DITCHFIELD",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "AUGUSTO CAO GIESTAS DE OLIVEIRA",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "CAROLINE DE OLIVEIRA COSTA",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "CLARA RIBEIRO SOUZA DE LIMA FREITAS",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "FELIPE LIMA DE MAGALHAES CASTRO",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "GABRIELA SALIBA DE ALMEIDA",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "GIOVANA LEITE DE CASTRO MOARES",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "ISABELA VIGUINI DAHER",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "ISADORA AMORIM",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "JOAO VICTOR COVRE LIMA",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "JULIA DECOTTIGNES BERTOLLO",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "JULIA MOTTA PASSOS",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "LIVIA SARMENGHI DUARTE",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "MARCIO PROVEDEL DALLA BERNADINA",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "MARIANA RANGEL SUEIRO DE CARVALHO",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "MURILO PATRICIO NASCIMENTO",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "SOPHIA AYMEE PERUCH RODRIGUES",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "VITOR KALIL DE FREITAS",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    }
+
+                ]
+            },
+            {
+                "Materia": "LINGUA PORTUGUESA",
+                "alunos": [
+                    {
+                        "Nome": "ARTHUR PAGONOZZI DITCHFIELD",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "AUGUSTO CAO GIESTAS DE OLIVEIRA",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "CAROLINE DE OLIVEIRA COSTA",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "CLARA RIBEIRO SOUZA DE LIMA FREITAS",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "FELIPE LIMA DE MAGALHAES CASTRO",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "GABRIELA SALIBA DE ALMEIDA",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "GIOVANA LEITE DE CASTRO MOARES",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "ISABELA VIGUINI DAHER",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "ISADORA AMORIM",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "JOAO VICTOR COVRE LIMA",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "JULIA DECOTTIGNES BERTOLLO",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "JULIA MOTTA PASSOS",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "LIVIA SARMENGHI DUARTE",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "MARCIO PROVEDEL DALLA BERNADINA",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "MARIANA RANGEL SUEIRO DE CARVALHO",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "MURILO PATRICIO NASCIMENTO",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "SOPHIA AYMEE PERUCH RODRIGUES",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "VITOR KALIL DE FREITAS",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    }
+
+                ]
+            },
+            {
+                "Materia": "MATEMATICA",
+                "alunos": [
+                    {
+                        "Nome": "ARTHUR PAGONOZZI DITCHFIELD",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "AUGUSTO CAO GIESTAS DE OLIVEIRA",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "CAROLINE DE OLIVEIRA COSTA",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "CLARA RIBEIRO SOUZA DE LIMA FREITAS",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "FELIPE LIMA DE MAGALHAES CASTRO",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "GABRIELA SALIBA DE ALMEIDA",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "GIOVANA LEITE DE CASTRO MOARES",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "ISABELA VIGUINI DAHER",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "ISADORA AMORIM",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "JOAO VICTOR COVRE LIMA",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "JULIA DECOTTIGNES BERTOLLO",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "JULIA MOTTA PASSOS",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "LIVIA SARMENGHI DUARTE",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "MARCIO PROVEDEL DALLA BERNADINA",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "MARIANA RANGEL SUEIRO DE CARVALHO",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "MURILO PATRICIO NASCIMENTO",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "SOPHIA AYMEE PERUCH RODRIGUES",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    },
+                    {
+                        "Nome": "VITOR KALIL DE FREITAS",
+                        "Nota1": "0.0",
+                        "Nota2": "0.0"
+                    }
+
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,13 @@
+/Users/MonteiroMaker/Documents/Breads/Repo/listaAlunos/listaAlunos/bin/Debug/netcoreapp2.2/listaAlunos.deps.json
+/Users/MonteiroMaker/Documents/Breads/Repo/listaAlunos/listaAlunos/bin/Debug/netcoreapp2.2/listaAlunos.runtimeconfig.json
+/Users/MonteiroMaker/Documents/Breads/Repo/listaAlunos/listaAlunos/bin/Debug/netcoreapp2.2/listaAlunos.runtimeconfig.dev.json
+/Users/MonteiroMaker/Documents/Breads/Repo/listaAlunos/listaAlunos/bin/Debug/netcoreapp2.2/listaAlunos.dll
+/Users/MonteiroMaker/Documents/Breads/Repo/listaAlunos/listaAlunos/bin/Debug/netcoreapp2.2/listaAlunos.pdb
+/Users/MonteiroMaker/Documents/Breads/Repo/listaAlunos/listaAlunos/obj/Debug/netcoreapp2.2/listaAlunos.csprojAssemblyReference.cache
+/Users/MonteiroMaker/Documents/Breads/Repo/listaAlunos/listaAlunos/obj/Debug/netcoreapp2.2/listaAlunos.csproj.CoreCompileInputs.cache
+/Users/MonteiroMaker/Documents/Breads/Repo/listaAlunos/listaAlunos/obj/Debug/netcoreapp2.2/listaAlunos.AssemblyInfoInputs.cache
+/Users/MonteiroMaker/Documents/Breads/Repo/listaAlunos/listaAlunos/obj/Debug/netcoreapp2.2/listaAlunos.AssemblyInfo.cs
+/Users/MonteiroMaker/Documents/Breads/Repo/listaAlunos/listaAlunos/obj/Debug/netcoreapp2.2/listaAlunos.dll
+/Users/MonteiroMaker/Documents/Breads/Repo/listaAlunos/listaAlunos/obj/Debug/netcoreapp2.2/listaAlunos.pdb
+/Users/MonteiroMaker/Documents/Breads/Repo/listaAlunos/listaAlunos/bin/Debug/netcoreapp2.2/9BM.json
+/Users/MonteiroMaker/Documents/Breads/Repo/listaAlunos/listaAlunos/bin/Debug/netcoreapp2.2/listaAlunos.json

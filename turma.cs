@@ -1,54 +1,42 @@
-using System;
-class Turma
+﻿using System;
+using System.Collections.Generic;
+using Newtonsoft.Json;
+
+namespace listaAlunos
 {
-    private string nomeTurma;
-    private int quantidadeAlunos;
-    private float mediaPontos;
-    private float pontuacaoTurma;
-    private float maiorNota;
-    private float menorNota;
-
-    public Turma(string nomeTurma, int quantidadeAlunos, float mediaPontos, float pontuacaoTurma, float maiorNota, float menorNota)
+    public class Turma
     {
-        this.nomeTurma = nomeTurma;
-        this.quantidadeAlunos = quantidadeAlunos;
-        this.mediaPontos = mediaPontos;
-        this.pontuacaoTurma = pontuacaoTurma;
-        this.maiorNota = maiorNota;
-        this.menorNota = menorNota;
-    }
-    public Turma(){}
+        public object Aulas { get; internal set; }
+        [JsonProperty ("Nome")]
+        public string Nome { get; set; }
 
-    public string getNomeTurma(){
-            return nomeTurma;
-    }
-    public void setNomeTurma(string nomeTurma)
-    {
-        this.nomeTurma = nomeTurma;
-    }
-    public int getQuantidadeAlunos(){
-        return quantidadeAlunos;
-    }
-    public void setQuantidadeAlunos(int quantidadeAlunos)
-    {
-        this.quantidadeAlunos = quantidadeAlunos;
-    }
+        public object Nota1 { get; set; }
+        public object Nota2 { get; set; }
+        public string Materia { get; set; }
+        //    public List<Aluno> Alunos { get; set; }
 
-    //poderia pegar do JSON esse valor
-    public float getPountuacaoTurma(){
-        return pontuacaoTurma;
-    }
+        //public class Aluno
+        //{
+        //    public string Nome { get; set; }
+        //    public object Nota1 { get; set; }
+        //    public object Nota2 { get; set; }
+        //}
 
-    //calc Media
-    public float getMediaPontos(){
-        //Mudar por quantidade de alunos da turma listado no JSON;
-        mediaPontos = pontuacaoTurma / 18;
-        return mediaPontos;
-    }
-    public float getMaiorNota(){
-        return maiorNota;
-    }
-    public float getMenorNota(){
-        return menorNota;
+        //public class Aula
+        //{
+        //    public string Materia { get; set; }
+        //    public List<Aluno> Alunos { get; set; }
+        //}
+
+        //public class RootObject
+        //{
+        //    public string Turma { get; set; }
+        //    public List<Aula> Aulas { get; set; }
+        //    public string Materia { get; set; }
+        //    public List<Aluno> Alunos { get; set; }
+        //    public string Nome { get; set; }
+        //    public object Nota1 { get; set; }
+        //    public object Nota2 { get; set; }
+        //}
     }
 }
