@@ -4,6 +4,9 @@ using System.IO;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Converters;
 using Newtonsoft.Json.Serialization;
+using Newtonsoft.Json.Schema;
+using static System.Console;
+using System.Data;
 
 namespace listaAlunos
 {
@@ -11,41 +14,70 @@ namespace listaAlunos
     {
         public static void Main(string[] args)
         {
-            //var json = File.ReadAllText(AppDomain.BaseDirectory + "@\listaAlunos.json");
-            /*var js = new DataContractJsonSerialization(Encoding.UTF8.GetBytes(json));
-            var pessoa = (List<Aluno>)js.ReadObject(ms);*/
-            //var Alunos = JsonConvert.DeserializeObject < List<listaAlunos>(alunos);
-            //var json = File.ReadAllText(@"C:\Users\Rodrigo\source\repos\listaAlunos\listaAlunos\Serialization\9BM.json");
-            //var json = File.ReadAllText(path: @"/Users/MonteiroMaker/Documents/Breads/Repo/listaAlunos/listaAlunos/9BM.json");
-            //int status = deserialized[0].status;
-            var json = File.ReadAllText(AppDomain.CurrentDomain.BaseDirectory + @"listaAlunos.json");
-            //var trm = JsonConvert.DeserializeObject<List<Turma>>(json);
-            //var Turma = (List<Turma>)json.ReadObject(ms);*/
-            var turma = JsonConvert.DeserializeObject<List<Turma>>(json);
+            string testezao = "listaAlunos.json";
+            var json = File.ReadAllText(AppDomain.CurrentDomain.BaseDirectory + @testezao);
+            DataSet dataSet = JsonConvert.DeserializeObject<DataSet>(json);
 
-            Console.WriteLine(json);
-
-            //Console.WriteLine(json.Length);
-
-            //turma[1].Nome = "Daniel";
-        
-
-            //Console.WriteLine("Nome: " + turma[1].Nome);
-            //Console.WriteLine("Capacity: " + turma.Capacity);
-            //Console.WriteLine("Count: " + turma.Count);
-            //Console.WriteLine("A turma é: " + turma[0].Nome);
-
-            
-            //foreach (item in turma)
+            DataTable dataTable = dataSet.Tables["Purtuguex"];
+            //float notaTotal;
+            Console.WriteLine(dataTable.Rows.Count);
+            // 2
+            float n1, n2;
+            //foreach (DataRow row in dataTable.Rows)
             //{
-            //    Console.WriteLine(item);
+            //    //Console.WriteLine(row["Nome"] + " - " + row["p1"]);
+            //    var x = row["Nome"];
+            //    Console.WriteLine(x);
+            //    //if (x == "Daniel Barreto Alves")
+            //    //{
+            //    //    Console.WriteLine("Funfou");
+            //    //}
+                
+
             //}
-            //_ = (string)Turma[1].Aulas;
+            for (int i = 0; i < dataTable.Rows.Count; i++)
+            {
+                // your index is in i
+                var row = dataTable.Rows[i];
+                Console.WriteLine(row["Nome"]);
+               
+            }
 
-            //Console.WriteLine("Nome: " + Turma[1].Nome);
-            //Console.WriteLine(Turma[1].Aulas);
+            //dataTable.Columns[0]() =;
+
+            // 0 - item 0
+            // 1 - item 1
 
 
+
+
+
+
+
+            //Account account = JsonConvert.DeserializeObject<Account>(json);
+
+
+
+
+
+
+            //Account account = JsonConvert.DeserializeObject<Account>(json);
+
+            ////Console.WriteLine("Nome: " + account.Nome);
+            ////Console.WriteLine("Nota1: " + account.Nota1);
+            ////Console.WriteLine("Nota2: " + account.Nota2);
+            ////if(account.Nota1 + account.Nota2 > 6)
+            ////{
+            //foreach (object o in account.A1)
+            //{
+            //    Console.WriteLine(o);
+            //}
+            //List<string> names = new List<string>();
+            //}
+            // james@example.com
         }
     }
 }
+
+       
+
