@@ -36,7 +36,7 @@ namespace listaAlunos
                 var findMateria = materiaTable.Rows[i];
                 //string getMateria = ()
                 //se der errado eu crio o find materia
-                if((string)findMateria["Nome"] == nome)
+                if ((string)findMateria["Nome"] == nome)
                 {
                     nome = (string)findMateria["Nome"];
 
@@ -52,7 +52,49 @@ namespace listaAlunos
             return nome;
         }
 
-        
+
+
+        public double ReturnP1(string nome, string turma, string materia)
+        {
+            var json = File.ReadAllText(AppDomain.CurrentDomain.BaseDirectory + @turma);
+            DataSet dataSet = JsonConvert.DeserializeObject<DataSet>(json);
+            DataTable materiaTable = dataSet.Tables[materia];
+
+            for (int i = 0; i < materiaTable.Rows.Count; i++)
+            {
+                var row = materiaTable.Rows[i];
+                string checkName = (string)row["Nome"];
+                if (checkName == nome)
+                {
+                    p1 = (double)row["p1"];
+
+                }
+            }
+
+            return p1;
+
+        }
+
+        public double ReturnP2(string nome, string turma, string materia)
+        {
+            var json = File.ReadAllText(AppDomain.CurrentDomain.BaseDirectory + @turma);
+            DataSet dataSet = JsonConvert.DeserializeObject<DataSet>(json);
+            DataTable materiaTable = dataSet.Tables[materia];
+
+            for (int i = 0; i < materiaTable.Rows.Count; i++)
+            {
+                var row = materiaTable.Rows[i];
+                string checkName = (string)row["Nome"];
+                if (checkName == nome)
+                {
+                    p2 = (double)row["p2"];
+
+                }
+            }
+
+            return p2;
+
+        }
 
 
     }
