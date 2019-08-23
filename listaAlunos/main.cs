@@ -14,10 +14,10 @@ namespace listaAlunos
     {
         public static void Main(string[] args)
         {
-            Turmas trm = new Turmas();
+            Aluno trm = new Aluno();
             string materia;
             string nome;
-
+            string testezao = "listaAlunos.json";
             //Console.WriteLine("Digite uma materia");
             //materia = Console.ReadLine();
 
@@ -29,8 +29,8 @@ namespace listaAlunos
             nome = (string)Console.ReadLine();
             Console.WriteLine("Materia");
             materia = (string)Console.ReadLine();
-
-            trm.fakeMain(materia, nome);
+            
+            trm.fakeMain(testezao, materia, nome);
         }
     }
 }

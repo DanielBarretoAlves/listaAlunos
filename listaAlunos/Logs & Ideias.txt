@@ -1,0 +1,154 @@
+﻿var json = File.ReadAllText(AppDomain.CurrentDomain.BaseDirectory + @testezao);
+        DataSet dataSet = JsonConvert.DeserializeObject<DataSet>(json);
+
+        DataTable dataTable = dataSet.Tables[materia];
+
+
+
+
+
+
+
+
+
+
+
+        public void fakeMain(string materia, string nome)
+    {
+        string testezao = "listaAlunos.json";
+        var json = File.ReadAllText(AppDomain.CurrentDomain.BaseDirectory + @testezao);
+        DataSet dataSet = JsonConvert.DeserializeObject<DataSet>(json);
+
+        DataTable dataTable = dataSet.Tables[materia];
+
+        //Console.WriteLine(dataTable.Rows.Count);
+        
+        for (int i = 0; i < dataTable.Rows.Count; i++)
+        {
+            var row = dataTable.Rows[i];
+            string checkName = (string)row["Nome"];
+            if(checkName == nome)
+            {
+
+                
+                Console.WriteLine(row["Nome"]);
+                double p1 = (double)row["p1"];
+                double p2 = (double)row["p2"];
+                double media = (p1 + p2)/ 2;
+                Console.WriteLine("A media do(a) aluno(a) " + row["Nome"] + ": " + media);
+                if (media >= 6.0)
+                {
+                    Console.WriteLine("Aprovado(a)");
+                }
+                else
+                {
+                    Console.WriteLine("Reprovou");
+                }
+
+            }
+
+
+
+
+
+            public string GetNome(string nome, string turma, string materia)
+        {
+            //string turmaJson = "listaAlunos.json";
+            var json = File.ReadAllText(AppDomain.CurrentDomain.BaseDirectory + @turma);
+            DataSet dataSet = JsonConvert.DeserializeObject<DataSet>(json);
+            DataTable materiaTable = dataSet.Tables[materia];
+
+
+            //DataTable dataTable = dataSet.Tables[nome];
+            for (int i = 0; i < materiaTable.Rows.Count; i++)
+            {
+
+                var findMateria = materiaTable.Rows[i];
+                //string getMateria = ()
+                //se der errado eu crio o find materia
+                if((string)findMateria["Nome"] == nome)
+                {
+                    nome = (string)findMateria["Nome"];
+
+                }
+                else
+                {
+                    Console.WriteLine("Nome invalido");
+                    nome = null;
+                }
+
+
+            }
+            return nome;
+        }
+
+
+
+
+
+
+        Unhandled Exception: System.IO.FileNotFoundException: Could not find file '/Users/MonteiroMaker/Documents/Breads/Repo/listaAlunos/listaAlunos/bin/Debug/netcoreapp2.2/9BM.json'.
+   at Interop.ThrowExceptionForIoErrno(ErrorInfo errorInfo, String path, Boolean isDirectory, Func`2 errorRewriter)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String path, OpenFlags flags, Int32 mode)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize)
+   at System.IO.File.InternalReadAllText(String path, Encoding encoding)
+   at System.IO.File.ReadAllText(String path)
+   at Materias.gerarMateriaMedia(String turma, String materia) in /Users/MonteiroMaker/Documents/Breads/Repo/listaAlunos/listaAlunos/Materias.cs:line 67
+   at Materias.escolherMaterias(String turma) in /Users/MonteiroMaker/Documents/Breads/Repo/listaAlunos/listaAlunos/Materias.cs:line 56
+   at listaAlunos.Program.Main(String[] args) in /Users/MonteiroMaker/Documents/Breads/Repo/listaAlunos/listaAlunos/main.cs:line 31
+
+
+
+
+   Unhandled Exception: System.IO.FileNotFoundException: Could not find file '/Users/MonteiroMaker/Documents/Breads/Repo/listaAlunos/listaAlunos/bin/Debug/netcoreapp2.2/9BM.json'.
+   at Interop.ThrowExceptionForIoErrno(ErrorInfo errorInfo, String path, Boolean isDirectory, Func`2 errorRewriter)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String path, OpenFlags flags, Int32 mode)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize)
+   at System.IO.File.InternalReadAllText(String path, Encoding encoding)
+   at System.IO.File.ReadAllText(String path)
+   at Materias.gerarMateriaMedia(String turma, String materia) in /Users/MonteiroMaker/Documents/Breads/Repo/listaAlunos/listaAlunos/Materias.cs:line 67
+   at Materias.escolherMaterias(String turma) in /Users/MonteiroMaker/Documents/Breads/Repo/listaAlunos/listaAlunos/Materias.cs:line 56
+   at listaAlunos.Program.Main(String[] args) in /Users/MonteiroMaker/Documents/Breads/Repo/listaAlunos/listaAlunos/main.cs:line 31
+
+
+
+
+
+
+
+
+
+
+
+
+   Unhandled Exception: System.IO.FileNotFoundException: Could not find file '/Users/MonteiroMaker/Documents/Breads/Repo/listaAlunos/listaAlunos/bin/Debug/netcoreapp2.2/9BM.json'.
+   at Interop.ThrowExceptionForIoErrno(ErrorInfo errorInfo, String path, Boolean isDirectory, Func`2 errorRewriter)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String path, OpenFlags flags, Int32 mode)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize)
+   at System.IO.File.InternalReadAllText(String path, Encoding encoding)
+   at System.IO.File.ReadAllText(String path)
+   at Materias.gerarMateriaMedia(String turma, String materia) in /Users/MonteiroMaker/Documents/Breads/Repo/listaAlunos/listaAlunos/Materias.cs:line 67
+   at Materias.escolherMaterias(String turma) in /Users/MonteiroMaker/Documents/Breads/Repo/listaAlunos/listaAlunos/Materias.cs:line 56
+   at listaAlunos.Program.Main(String[] args) in /Users/MonteiroMaker/Documents/Breads/Repo/listaAlunos/listaAlunos/main.cs:line 31
+
+   ------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+   Unhandled Exception: System.IO.FileNotFoundException: Could not find file '/Users/MonteiroMaker/Documents/Breads/Repo/listaAlunos/listaAlunos/bin/Debug/netcoreapp2.2/@9BM.json'.
+   at Interop.ThrowExceptionForIoErrno(ErrorInfo errorInfo, String path, Boolean isDirectory, Func`2 errorRewriter)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String path, OpenFlags flags, Int32 mode)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize)
+   at System.IO.File.InternalReadAllText(String path, Encoding encoding)
+   at System.IO.File.ReadAllText(String path)
+   at Materias.gerarMateriaMedia(String turma, String materia) in /Users/MonteiroMaker/Documents/Breads/Repo/listaAlunos/listaAlunos/Materias.cs:line 67
+   at Materias.escolherMaterias(String turma) in /Users/MonteiroMaker/Documents/Breads/Repo/listaAlunos/listaAlunos/Materias.cs:line 56
+   at listaAlunos.Program.Main(String[] args) in /Users/MonteiroMaker/Documents/Breads/Repo/listaAlunos/listaAlunos/main.cs:line 31
+
+
+   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Press any key to continue...

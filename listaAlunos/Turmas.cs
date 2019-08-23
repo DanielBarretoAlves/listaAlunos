@@ -8,7 +8,7 @@ using Newtonsoft.Json.Schema;
 using static System.Console;
 using System.Data;
 
-public class Turmas
+public class Aluno
 {
 
     string nomeAluno;
@@ -17,37 +17,10 @@ public class Turmas
     double n2;
 
 
-    public void metodo(string materia)
+    public void fakeMain(string turma, string materia, string nome)
     {
-        string arquivo = "listaAlunos.json";
-        var json = File.ReadAllText(AppDomain.CurrentDomain.BaseDirectory + @arquivo);
-        DataSet dataSet = JsonConvert.DeserializeObject<DataSet>(json);
-
-
-        DataTable dataTable = dataSet.Tables[materia];
-
-        Console.WriteLine(dataTable.Rows.Count);
-
-        for (int i = 0; i < dataTable.Rows.Count; i++)
-        {
-
-            var row = dataTable.Rows[i];
-            Console.WriteLine(row["Nome"]);
-            double x = (double)row["p1"];
-            double y = (double)row["p2"];
-            if ((x + y) / 2 > 6.0)
-            {
-                Console.WriteLine("Passou");
-            }
-
-        }
-
-    }
-
-    public void fakeMain(string materia, string nome)
-    {
-        string testezao = "listaAlunos.json";
-        var json = File.ReadAllText(AppDomain.CurrentDomain.BaseDirectory + @testezao);
+        //string testezao = "listaAlunos.json";
+        var json = File.ReadAllText(AppDomain.CurrentDomain.BaseDirectory + turma);
         DataSet dataSet = JsonConvert.DeserializeObject<DataSet>(json);
 
         DataTable dataTable = dataSet.Tables[materia];
@@ -91,6 +64,53 @@ public class Turmas
         
 
 }
+
+    public double getP1(string turma, string materia, string nome)
+    {
+        var json = File.ReadAllText(AppDomain.CurrentDomain.BaseDirectory + turma);
+        double p1 = 0.0;
+        DataSet dataSet = JsonConvert.DeserializeObject<DataSet>(json);
+
+        DataTable dataTable = dataSet.Tables[materia];
+        for (int i = 0; i < dataTable.Rows.Count; i++)
+        {
+            var row = dataTable.Rows[i];
+            string checkName = (string)row["Nome"];
+            if (checkName == nome)
+            {
+
+
+
+
+                p1 = (double)row["p1"];
+
+            }
+        }
+        return p1;
+    }
+    public double getP2(string turma, string materia, string nome)
+    {
+        var json = File.ReadAllText(AppDomain.CurrentDomain.BaseDirectory + turma);
+        double p2 = 0.0;
+        DataSet dataSet = JsonConvert.DeserializeObject<DataSet>(json);
+
+        DataTable dataTable = dataSet.Tables[materia];
+        for (int i = 0; i < dataTable.Rows.Count; i++)
+        {
+            var row = dataTable.Rows[i];
+            string checkName = (string)row["Nome"];
+            if (checkName == nome)
+            {
+
+
+
+
+                p2 = (double)row["p2"];
+
+            }
+        }
+        return p2;
+    }
 
 }
 
