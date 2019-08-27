@@ -98,6 +98,50 @@ public class Alunos
         return isVallid;
     }
 
+    internal double mediaAluno(string turma, string materia, object v)
+    {
+        throw new NotImplementedException();
+    }
+
+    public double mediaAluno(string turma, string materia, string nome)
+    {
+        double media = 0.0;
+        var json = File.ReadAllText(AppDomain.CurrentDomain.BaseDirectory + turma);
+        
+        DataSet dataSet = JsonConvert.DeserializeObject<DataSet>(json);
+
+        DataTable dataTable = dataSet.Tables[materia];
+        for(int i = 0; i < dataTable.Rows.Count; i++)
+        {
+            var row = dataTable.Rows[i];
+            string findStudent = (string)row["Nome"];
+            if(findStudent == nome)
+            {
+                
+                media = (getP1(turma, materia, nome) + getP2(turma, materia, nome)) / 2;
+
+            }
+
+        }
+        return media;
+    }
+
+    public double compare(string turma, string materia, string nome)
+    {
+        //Compara a Diferença da Primeira Nota Com a Da Segunda
+        double diference = 0.0;
+        if(getP1(turma, materia, nome) > getP2(turma, materia, nome))
+        {
+            diference = getP1(turma, materia, nome) - getP2(turma, materia, nome);
+
+        }
+        else
+        {
+            diference = getP2(turma, materia, nome) - getP1(turma, materia, nome);
+        }
+        return diference;
+    }
+
 }
 
 
