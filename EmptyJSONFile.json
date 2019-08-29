@@ -1,0 +1,850 @@
+﻿{
+    "nomeTurma": "9naba",
+    "materias": [
+        {
+            "ARTES": [
+                {
+                    "nome": "ARTHUR PAGONOZZI DITCHFIELD",
+                    "p1": 6.0,
+                    "p2": 1.20
+                },
+                {
+                    "nome": "AUGUSTO CAO GIESTAS DE OLIVEIRA",
+                    "p1": 10.0,
+                    "p2": 5.0
+                },
+                {
+                    "nome": "CAROLINE DE OLIVEIRA COSTA",
+                    "p1": 10.0,
+                    "p2": 8.0
+                },
+                {
+                    "nome": "CLARA RIBEIRO SOUZA DE LIMA FREITAS",
+                    "p1": 10.0,
+                    "p2": 10.0
+                },
+                {
+                    "nome": "FELIPE LIMA DE MAGALHAES CASTRO",
+                    "p1": 10.0,
+                    "p2": 9.0
+                },
+                {
+                    "nome": "GIOVANA LEITE DE CASTRO MOARES",
+                    "p1": 10.0,
+                    "p2": 10.0
+                },
+                {
+                    "nome": "ISABELA VIGUINI DAHER",
+                    "p1": 10.0,
+                    "p2": 8.0
+                },
+                {
+                    "nome": "ISADORA AMORIM",
+                    "p1": 8.0,
+                    "p2": 8.0
+                },
+                {
+                    "nome": "JOAO VICTOR COVRE LIMA",
+                    "p1": 10.0,
+                    "p2": 7.0
+                },
+                {
+                    "nome": "JULIA DECOTTIGNES BERTOLLO",
+                    "p1": 10.0,
+                    "p2": 10.0
+                },
+                {
+                    "nome": "JOAO VITOR BENIQUIO FERNANDES DE JESUS",
+                    "p1": 10.0,
+                    "p2": 3.0
+                },
+                {
+                    "nome": "LAURA DALVI CALAZANS",
+                    "p1": 10.0,
+                    "p2": 10.0
+                },
+                {
+                    "nome": "LUCA FRIETAS LANES VICENTINI",
+                    "p1": 10.0,
+                    "p2": 8.0
+                },
+                {
+                    "nome": "MARIA EDUARDA FERREIRA DE OLIVEIRA OLINDO",
+                    "p1": 10.0,
+                    "p2": 10.0
+                },
+                {
+                    "nome": "MEL CAMPAGNARO",
+                    "p1": 10.0,
+                    "p2": 10.0
+                },
+                {
+                    "nome": "MURILO PATRICIO NASCIMENTO",
+                    "p1": 0.0,
+                    "p2": 0.0
+                },
+                {
+                    "nome": "SOPHIA AYMEE PERUCH RODRIGUES",
+                    "p1": 10.0,
+                    "p2": 10.0
+                },
+                {
+                    "nome": "VITOR KALIL DE FREITAS",
+                    "p1": 10.0,
+                    "p2": 8.0
+                },
+                {
+                    "Nome": "Daniel Barreto Alves",
+                    "p1": 1.0,
+                    "p2": 3.2
+                }
+            ],
+            "CIENCIAS": [
+                {
+                    "Nome": "Daniel Barreto Alves",
+                    "p1": 10.0,
+                    "p2": 9.2
+                },
+                {
+                    "nome": "ARTHUR PAGONOZZI DITCHFIELD",
+                    "p1": 5.5,
+                    "p2": 6.5
+                },
+                {
+                    "nome": "AUGUSTO CAO GIESTAS DE OLIVEIRA",
+                    "p1": 4.6,
+                    "p2": 4.2
+                },
+                {
+                    "nome": "CAROLINE DE OLIVEIRA COSTA",
+                    "p1": 7.0,
+                    "p2": 3.6
+                },
+                {
+                    "nome": "CLARA RIBEIRO SOUZA DE LIMA FREITAS",
+                    "p1": 4.4,
+                    "p2": 3.9
+                },
+                {
+                    "nome": "FELIPE LIMA DE MAGALHAES CASTRO",
+                    "p1": 8.8,
+                    "p2": 7.7
+                },
+                {
+                    "nome": "GIOVANA LEITE DE CASTRO MOARES",
+                    "p1": 5.1,
+                    "p2": 5.4
+                },
+                {
+                    "nome": "ISABELA VIGUINI DAHER",
+                    "p1": 8.1,
+                    "p2": 6.1
+                },
+                {
+                    "nome": "ISADORA AMORIM",
+                    "p1": 5.5,
+                    "p2": 5.9
+                },
+                {
+                    "nome": "JOAO VICTOR COVRE LIMA",
+                    "p1": 2.4,
+                    "p2": 6.5
+                },
+                {
+                    "nome": "JULIA DECOTTIGNES BERTOLLO",
+                    "p1": 2.0,
+                    "p2": 2.3
+                },
+                {
+                    "nome": "JOAO VITOR BENIQUIO FERNANDES DE JESUS",
+                    "p1": 6.7,
+                    "p2": 4.9
+                },
+                {
+                    "nome": "LAURA DALVI CALAZANS",
+                    "p1": 4.7,
+                    "p2": 4.6
+                },
+                {
+                    "nome": "LUCA FRIETAS LANES VICENTINI",
+                    "p1": 4.5,
+                    "p2": 3.2
+                },
+                {
+                    "nome": "MARIA EDUARDA FERREIRA DE OLIVEIRA OLINDO",
+                    "p1": 5.8,
+                    "p2": 7.2
+                },
+                {
+                    "nome": "MEL CAMPAGNARO",
+                    "p1": 5.8,
+                    "p2": 7.2
+                },
+                {
+                    "nome": "MURILO PATRICIO NASCIMENTO",
+                    "p1": 0.0,
+                    "p2": 0.0
+                },
+                {
+                    "nome": "SOPHIA AYMEE PERUCH RODRIGUES",
+                    "p1": 6.1,
+                    "p2": 7.1
+                },
+                {
+                    "nome": "VITOR KALIL DE FREITAS",
+                    "p1": 3.7,
+                    "p2": 5.2
+                }
+
+            ],
+            "ESPANHOL": [
+                {
+                    "nome": "ARTHUR PAGONOZZI DITCHFIELD",
+                    "p1": 5.5,
+                    "p2": 6.5
+                },
+                {
+                    "nome": "AUGUSTO CAO GIESTAS DE OLIVEIRA",
+                    "p1": 4.6,
+                    "p2": 4.2
+                },
+                {
+                    "nome": "CAROLINE DE OLIVEIRA COSTA",
+                    "p1": 7.0,
+                    "p2": 3.6
+                },
+                {
+                    "nome": "CLARA RIBEIRO SOUZA DE LIMA FREITAS",
+                    "p1": 4.4,
+                    "p2": 3.9
+                },
+                {
+                    "nome": "FELIPE LIMA DE MAGALHAES CASTRO",
+                    "p1": 8.8,
+                    "p2": 7.7
+                },
+                {
+                    "nome": "GIOVANA LEITE DE CASTRO MOARES",
+                    "p1": 5.1,
+                    "p2": 5.4
+                },
+                {
+                    "nome": "ISABELA VIGUINI DAHER",
+                    "p1": 8.1,
+                    "p2": 6.1
+                },
+                {
+                    "nome": "ISADORA AMORIM",
+                    "p1": 5.5,
+                    "p2": 5.9
+                },
+                {
+                    "nome": "JOAO VICTOR COVRE LIMA",
+                    "p1": 2.4,
+                    "p2": 6.5
+                },
+                {
+                    "nome": "JULIA DECOTTIGNES BERTOLLO",
+                    "p1": 2.0,
+                    "p2": 2.3
+                },
+                {
+                    "nome": "JOAO VITOR BENIQUIO FERNANDES DE JESUS",
+                    "p1": 6.7,
+                    "p2": 4.9
+                },
+                {
+                    "nome": "LAURA DALVI CALAZANS",
+                    "p1": 4.7,
+                    "p2": 4.6
+                },
+                {
+                    "nome": "LUCA FRIETAS LANES VICENTINI",
+                    "p1": 4.5,
+                    "p2": 3.2
+                },
+                {
+                    "nome": "MARIA EDUARDA FERREIRA DE OLIVEIRA OLINDO",
+                    "p1": 5.8,
+                    "p2": 7.2
+                },
+                {
+                    "nome": "MEL CAMPAGNARO",
+                    "p1": 5.8,
+                    "p2": 7.2
+                },
+                {
+                    "nome": "MURILO PATRICIO NASCIMENTO",
+                    "p1": 0.0,
+                    "p2": 0.0
+                },
+                {
+                    "nome": "SOPHIA AYMEE PERUCH RODRIGUES",
+                    "p1": 6.1,
+                    "p2": 7.1
+                },
+                {
+                    "nome": "VITOR KALIL DE FREITAS",
+                    "p1": 3.7,
+                    "p2": 5.2
+                }
+            ],
+            "FILOSOFIA": [
+                {
+                    "nome": "ARTHUR PAGONOZZI DITCHFIELD",
+                    "p1": 5.5,
+                    "p2": 6.5
+                },
+                {
+                    "nome": "AUGUSTO CAO GIESTAS DE OLIVEIRA",
+                    "p1": 4.6,
+                    "p2": 4.2
+                },
+                {
+                    "nome": "CAROLINE DE OLIVEIRA COSTA",
+                    "p1": 7.0,
+                    "p2": 3.6
+                },
+                {
+                    "nome": "CLARA RIBEIRO SOUZA DE LIMA FREITAS",
+                    "p1": 4.4,
+                    "p2": 3.9
+                },
+                {
+                    "nome": "FELIPE LIMA DE MAGALHAES CASTRO",
+                    "p1": 8.8,
+                    "p2": 7.7
+                },
+                {
+                    "nome": "GIOVANA LEITE DE CASTRO MOARES",
+                    "p1": 5.1,
+                    "p2": 5.4
+                },
+                {
+                    "nome": "ISABELA VIGUINI DAHER",
+                    "p1": 8.1,
+                    "p2": 6.1
+                },
+                {
+                    "nome": "ISADORA AMORIM",
+                    "p1": 5.5,
+                    "p2": 5.9
+                },
+                {
+                    "nome": "JOAO VICTOR COVRE LIMA",
+                    "p1": 2.4,
+                    "p2": 6.5
+                },
+                {
+                    "nome": "JULIA DECOTTIGNES BERTOLLO",
+                    "p1": 2.0,
+                    "p2": 2.3
+                },
+                {
+                    "nome": "JOAO VITOR BENIQUIO FERNANDES DE JESUS",
+                    "p1": 6.7,
+                    "p2": 4.9
+                },
+                {
+                    "nome": "LAURA DALVI CALAZANS",
+                    "p1": 4.7,
+                    "p2": 4.6
+                },
+                {
+                    "nome": "LUCA FRIETAS LANES VICENTINI",
+                    "p1": 4.5,
+                    "p2": 3.2
+                },
+                {
+                    "nome": "MARIA EDUARDA FERREIRA DE OLIVEIRA OLINDO",
+                    "p1": 5.8,
+                    "p2": 7.2
+                },
+                {
+                    "nome": "MEL CAMPAGNARO",
+                    "p1": 5.8,
+                    "p2": 7.2
+                },
+                {
+                    "nome": "MURILO PATRICIO NASCIMENTO",
+                    "p1": 0.0,
+                    "p2": 0.0
+                },
+                {
+                    "nome": "SOPHIA AYMEE PERUCH RODRIGUES",
+                    "p1": 6.1,
+                    "p2": 7.1
+                },
+                {
+                    "nome": "VITOR KALIL DE FREITAS",
+                    "p1": 3.7,
+                    "p2": 5.2
+                }
+            ],
+            "GEOGRAFIA": [
+                {
+                    "nome": "ARTHUR PAGONOZZI DITCHFIELD",
+                    "p1": 5.5,
+                    "p2": 6.5
+                },
+                {
+                    "nome": "AUGUSTO CAO GIESTAS DE OLIVEIRA",
+                    "p1": 4.6,
+                    "p2": 4.2
+                },
+                {
+                    "nome": "CAROLINE DE OLIVEIRA COSTA",
+                    "p1": 7.0,
+                    "p2": 3.6
+                },
+                {
+                    "nome": "CLARA RIBEIRO SOUZA DE LIMA FREITAS",
+                    "p1": 4.4,
+                    "p2": 3.9
+                },
+                {
+                    "nome": "FELIPE LIMA DE MAGALHAES CASTRO",
+                    "p1": 8.8,
+                    "p2": 7.7
+                },
+                {
+                    "nome": "GIOVANA LEITE DE CASTRO MOARES",
+                    "p1": 5.1,
+                    "p2": 5.4
+                },
+                {
+                    "nome": "ISABELA VIGUINI DAHER",
+                    "p1": 8.1,
+                    "p2": 6.1
+                },
+                {
+                    "nome": "ISADORA AMORIM",
+                    "p1": 5.5,
+                    "p2": 5.9
+                },
+                {
+                    "nome": "JOAO VICTOR COVRE LIMA",
+                    "p1": 2.4,
+                    "p2": 6.5
+                },
+                {
+                    "nome": "JULIA DECOTTIGNES BERTOLLO",
+                    "p1": 2.0,
+                    "p2": 2.3
+                },
+                {
+                    "nome": "JOAO VITOR BENIQUIO FERNANDES DE JESUS",
+                    "p1": 6.7,
+                    "p2": 4.9
+                },
+                {
+                    "nome": "LAURA DALVI CALAZANS",
+                    "p1": 4.7,
+                    "p2": 4.6
+                },
+                {
+                    "nome": "LUCA FRIETAS LANES VICENTINI",
+                    "p1": 4.5,
+                    "p2": 3.2
+                },
+                {
+                    "nome": "MARIA EDUARDA FERREIRA DE OLIVEIRA OLINDO",
+                    "p1": 5.8,
+                    "p2": 7.2
+                },
+                {
+                    "nome": "MEL CAMPAGNARO",
+                    "p1": 5.8,
+                    "p2": 7.2
+                },
+                {
+                    "nome": "MURILO PATRICIO NASCIMENTO",
+                    "p1": 0.0,
+                    "p2": 0.0
+                },
+                {
+                    "nome": "SOPHIA AYMEE PERUCH RODRIGUES",
+                    "p1": 6.1,
+                    "p2": 7.1
+                },
+                {
+                    "nome": "VITOR KALIL DE FREITAS",
+                    "p1": 3.7,
+                    "p2": 5.2
+
+                }],
+                "HISTORIA": [
+                    {
+                    "NOME" : "ANA CAROLINA DE PAULA SIMOES",
+                      "NOTA1" : 9.10,
+                      "NOTA2" : 7.80
+              
+                    },{
+                    "NOME" : "BEATRIZ BAIOCO VESCOVI",
+                      "NOTA1" : 6.80,
+                      "NOTA2" : 7.60
+        
+                    },{
+                    "NOME" : "DIOGO IVAN CABALLERO OTAROLA",
+                      "NOTA1" : 4.10,
+                      "NOTA2" : 8.40
+              
+                    },{
+                    "NOME" : "ELISA SEIXAS MELHEM",
+                      "NOTA1" : 6.70,
+                      "NOTA2" : 9.00
+                    },{
+                    "NOME" : "ERIK ZANDONADE DE OLIVEIRA",
+                      "NOTA1" : 9.80,
+                      "NOTA2" : 7.30
+              
+                    },{
+                    "NOME" : "GABRIELA ZUCOLOTTO DE MENEZES",
+                      "NOTA1" : 7.40,
+                      "NOTA2" : 7.80
+              
+                    },{
+                    "NOME" : "GUILHERME DUARTE MADEIRA",
+                      "NOTA1" : 8.60,
+                      "NOTA2" : 8.20
+              
+                    },{
+                    "NOME" : "HENRIQUE PIMENTEL MARTINS ARRUDA",
+                      "NOTA1" : 5.10,
+                      "NOTA2" : 5.30
+              
+                    },{
+                    "NOME" : "JOAO GABRIEL TAVARES PEREIRA",
+                      "NOTA1" : 4.10,
+                      "NOTA2" : 5.90
+              
+                    },{
+                    "NOME" : "JOAO HENRIQUE ANTUNES PAES TORRES",
+                      "NOTA1" : 7.30,
+                      "NOTA2" : 3.50
+              
+                    },{
+                    "NOME" : "JOAO VITOR BENIQUIO FERNANDES DE JESUS",
+                      "NOTA1" : 6.30,
+                      "NOTA2" : 6.50
+              
+                    },{
+                    "NOME" : "LAURA DALVI CALAZANS",
+                      "NOTA1" : 8.70,
+                      "NOTA2" : 9.50
+              
+                    },{
+                    "NOME" : "LUCA FRIETAS LANES VICENTINI",
+                      "NOTA1" : 7.30,
+                      "NOTA2" : 7.30
+              
+                    },{
+                    "NOME" : "MARIA EDUARDA FERREIRA DE OLIVEIRA OLINDO",
+                      "NOTA1" : 6.0,
+                      "NOTA2" : 6.05
+              
+                    },{
+                    "NOME" : "MEL CAMPAGNARO",
+                      "NOTA1" : 8.10,
+                      "NOTA2" : 6.60
+              
+                    },{
+                    "NOME" : "TAINA ZAGO CYPRESETE",
+                      "NOTA1" : 0.0,
+                      "NOTA2" : 0.0
+              
+                    },{
+                    "NOME" : "VALENTINA MANOELA SCHUWARTZ FERNANDES",
+                      "NOTA1" : 8.20,
+                      "NOTA2" : 8.40
+              
+                    },{
+                    "NOME" : "VICENTE KOCK LENG VENADE DA COSTA",
+                      "NOTA1" : 7.70,
+                      "NOTA2" : 7.40
+              
+                    }
+                  ],
+                  "INGLES": [
+                      {
+                    "NOME" : "ANA CAROLINA DE PAULA SIMOES",
+                      "NOTA1" : 10.0,
+                      "NOTA2" : 9.90
+              
+                    },{
+                    "NOME" : "BEATRIZ BAIOCO VESCOVI",
+                      "NOTA1" : 6.05,
+                      "NOTA2" : 6.47
+              
+                    },{
+                    "NOME" : "DIOGO IVAN CABALLERO OTAROLA",
+                      "NOTA1" : 8.15,
+                      "NOTA2" : 6.80
+              
+                    },{
+                    "NOME" : "ELISA SEIXAS MELHEM",
+                      "NOTA1" : 9.10,
+                      "NOTA2" : 9.80
+            
+                    },{
+                    "NOME" : "ERIK ZANDONADE DE OLIVEIRA",
+                      "NOTA1" : 8.45,
+                      "NOTA2" : 7.50
+              
+                    },{
+                    "NOME" : "GABRIELA ZUCOLOTTO DE MENEZES",
+                      "NOTA1" : 7.90,
+                      "NOTA2" : 7.00
+              
+                    },{
+                    "NOME" : "GUILHERME DUARTE MADEIRA",
+                      "NOTA1" : 7.35,
+                      "NOTA2" : 7.97
+              
+                    },{
+                    "NOME" : "HENRIQUE PIMENTEL MARTINS ARRUDA",
+                      "NOTA1" : 8.70,
+                      "NOTA2" : 8.22
+              
+                    },{
+                    "NOME" : "JOAO GABRIEL TAVARES PEREIRA",
+                     "NOTA1" :  8.10,
+                      "NOTA2" : 8.20
+              
+                    },{
+                   "NOME" : "JOAO HENRIQUE ANTUNES PAES TORRES",
+                      "NOTA1" : 8.75,
+                     "NOTA2" :  6.50
+              
+                    },{
+                    "NOME" : "JOAO VITOR BENIQUIO FERNANDES DE JESUS",
+                      "NOTA1" : 7.00,
+                      "NOTA2" : 5.82
+              
+                    },{
+                    "NOME" : "LAURA DALVI CALAZANS",
+                      "NOTA1" : 9.40,
+                      "NOTA2" : 9.60
+              
+                    },{
+                    "NOME" : "LUCA FRIETAS LANES VICENTINI",
+                      "NOTA1" : 7.70,
+                      "NOTA2" : 6.87
+              
+                    },{
+                    "NOME" : "MARIA EDUARDA FERREIRA DE OLIVEIRA OLINDO",
+                      "NOTA1" : 7.55,
+                      "NOTA2" : 9.50
+              
+                    },{
+                    "NOME" : "MEL CAMPAGNARO",
+                      "NOTA1" : 7.55,
+                      "NOTA2" : 9.50
+              
+                    },{
+                    "NOME" : "TAINA ZAGO CYPRESETE",
+                      "NOTA1" : 0,
+                      "NOTA2" : 0
+              
+                    },{
+                    "NOME" : "VALENTINA MANOELA SCHUWARTZ FERNANDES",
+                     "NOTA1" : 10.00,
+                     "NOTA2" : 9.80
+              
+                    },{
+                    "NOME" : "VICENTE KOCK LENG VENADE DA COSTA",
+                      "NOTA1" : 8.35,
+                      "NOTA2" : 7.97
+              
+                    }
+                  ],
+                  "LINGUA PORTUGUESA": [
+                      {
+                    "NOME" : "ANA CAROLINA DE PAULA SIMOES",
+                      "NOTA1" : 5.70,
+                      "NOTA2" : 9.50
+              
+                    },{
+                    "NOME" : "BEATRIZ BAIOCO VESCOVI" ,
+                      "NOTA1" : 6.90,
+                      "NOTA2" : 7.50
+              
+                    },{
+                    "NOME" : "DIOGO IVAN CABALLERO OTAROLA",
+                      "NOTA1" : 4.10,
+                      "NOTA2" : 9.00
+              
+                    },{
+                    "NOME" : "ELISA SEIXAS MELHEM" ,
+                      "NOTA1" : 6.40,
+                      "NOTA2" : 9.30
+              
+                    },{
+                    "NOME" : "ERIK ZANDONADE DE OLIVEIRA" ,
+                      "NOTA1" : 5.80,
+                      "NOTA2" : 9.40
+              
+                    },{
+                    "NOME" : "GABRIELA ZUCOLOTTO DE MENEZES" ,
+                      "NOTA1" : 4.50,
+                      "NOTA2" : 7.00
+              
+                    },{
+                    "NOME" : "GUILHERME DUARTE MADEIRA" ,
+                      "NOTA1" : 4.30,
+                      "NOTA2" : 9.60
+              
+                    },{
+                    "NOME" : "HENRIQUE PIMENTEL MARTINS ARRUDA",
+                      "NOTA1" : 5.60,
+                     "NOTA2" : 6.80
+              
+                    },{
+                   "NOME" : "JOAO GABRIEL TAVARES PEREIRA" ,
+                      "NOTA1" : 5.20,
+                      "NOTA2" : 7.60
+              
+                    },{
+                    "NOME" : "JOAO HENRIQUE ANTUNES PAES TORRES",
+                      "NOTA1" : 3.40,
+                      "NOTA2" : 5.30
+              
+                    },{
+                    "NOME" : "JOAO VITOR BENIQUIO FERNANDES DE JESUS" ,
+                      "NOTA1" : 5.20,
+                      "NOTA2" : 2.10
+              
+                    },{
+                    "NOME" : "LAURA DALVI CALAZANS",
+                      "NOTA1" : 5.30,
+                      "NOTA2" : 7.50
+              
+                    },{
+                    "NOME" : "LUCA FRIETAS LANES VICENTINI",
+                      "NOTA1" : 4.00,
+                      "NOTA2" : 6.20
+              
+                    },{
+                    "NOME" : "MARIA EDUARDA FERREIRA DE OLIVEIRA OLINDO",
+                      "NOTA1" : 5.80,
+                      "NOTA2" : 4.40
+              
+                    },{
+                    "NOME" : "MEL CAMPAGNARO",
+                      "NOTA1" : 6.30,
+                     "NOTA2" : 7.70
+              
+                    },{
+                      "NOME" : "TAINA ZAGO CYPRESETE",
+                      "NOTA1":0.0,
+                      "NOTA2": 0.0
+              
+                    },{
+                       "NOME" : "VALENTINA MANOELA SCHUWARTZ FERNANDES",
+                      "NOTA1" : 7.10,
+                      "NOTA2" : 9.30
+              
+                    },{
+                       "NOME" : "VICENTE KOCK LENG VENADE DA COSTA",
+                      "NOTA1" : 5.20,
+                      "NOTA2" : 9.20
+              
+                    }
+                  ],
+                  "MATEMATICA": [
+                      {
+                    "NOME" : "ANA CAROLINA DE PAULA SIMOES",
+                      "NOTA1" : 8.20,
+                      "NOTA2" : 5.30
+                    },{
+                    "NOME" : "BEATRIZ BAIOCO VESCOVI",
+                      "NOTA1" : 6.40,
+                      "NOTA2" : 4.10
+              
+                    },{
+                       "NOME" : "DIOGO IVAN CABALLERO OTAROLA",
+                      "NOTA1" : 6.20,
+                      "NOTA2" : 5.70
+              
+                    },{
+                    "NOME" : "ELISA SEIXAS MELHEM",
+                      "NOTA1" : 6.10,
+                      "NOTA2" : 4.50
+              
+                    },{
+                    "NOME" : "ERIK ZANDONADE DE OLIVEIRA",
+                      "NOTA1" : 8.90,
+                      "NOTA2" : 7.20
+              
+                    },{
+                    "NOME" : "GABRIELA ZUCOLOTTO DE MENEZES",
+                      "NOTA1" : 7.80,
+                      "NOTA2" : 5.10
+              
+                    },{
+                    "NOME" : "GUILHERME DUARTE MADEIRA",
+                      "NOTA1" : 8.70,
+                      "NOTA2" : 6.00
+              
+                    },{
+                    "NOME" : "HENRIQUE PIMENTEL MARTINS ARRUDA", 
+                      "NOTA1" : 6.40,
+                      "NOTA2" : 8.40
+              
+                    },{
+                     "NOME" : "JOAO GABRIEL TAVARES PEREIRA" ,
+                      "NOTA1" : 5.10,
+                      "NOTA2" : 3.70
+              
+                    },{
+                    "NOME" : "JOAO HENRIQUE ANTUNES PAES TORRES" ,
+                      "NOTA1" : 5.30,
+                      "NOTA2" : 3.10
+              
+                    },{
+                    "NOME" : "JOAO VITOR BENIQUIO FERNANDES DE JESUS" ,
+                      "NOTA1" : 5.70,
+                      "NOTA2" : 6.00
+              
+                    },{
+                    "NOME" : "LAURA DALVI CALAZANS" ,
+                      "NOTA1" : 3.40,
+                      "NOTA2" : 4.90
+              
+                    },{
+                      "NOME" : "LUCA FRIETAS LANES VICENTINI" ,
+                     "NOTA1" : 6.40,
+                     "NOTA2" : 4.10
+              
+                    },{
+                       "NOME" : "MARIA EDUARDA FERREIRA DE OLIVEIRA OLINDO" ,
+                      "NOTA1" : 5.20,
+                      "NOTA2" : 5.60
+              
+                    },{
+                    "NOME" : "MEL CAMPAGNARO" ,
+                      "NOTA1" : 8.80,
+                      "NOTA2" : 7.20
+              
+                    },{
+                       "NOME" : "TAINA ZAGO CYPRESETE",
+                      "NOTA1" : 0.0,
+                      "NOTA2" : 0.0
+              
+                    },{
+                       "NOME" : "VALENTINA MANOELA SCHUWARTZ FERNANDES" ,
+                      "NOTA1" : 9.40,
+                      "NOTA2" : 7.10
+              
+                    },{
+                       "NOME" : "VICENTE KOCK LENG VENADE DA COSTA", 
+                      "NOTA1" : 7.30,
+                      "NOTA2" : 6.80
+              
+                    }
+                ]
+
+    }]
+    
+}
+    
