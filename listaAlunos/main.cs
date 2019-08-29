@@ -14,23 +14,45 @@ namespace listaAlunos
     {
         public static void Main(string[] args)
         {
-            Turmas trm = new Turmas();
-            string materia;
-            string nome;
+            Alunos All = new Alunos();
+            Materia mat = new Materia();
+            string materia = "ARTES";
+            //string nome;
+            string testezao = "listaAlunos.json";
+            string json2 = "EmptyJSONFile.json";
+            bool key = false;
+            int escolha;
 
-            //Console.WriteLine("Digite uma materia");
-            //materia = Console.ReadLine();
+            while(key!= true)
+            {
+                Console.WriteLine("0 - Sair");
+                Console.WriteLine("1 - Media de Uma Materia");
+                Console.WriteLine("2 - Media de Um Aluno");
+                Console.WriteLine("3 - Rendimento");
+                escolha = int.Parse(Console.ReadLine());
+                if (escolha == 0)
+                {
+                    key = true;
+                }
+                else if (escolha == 1)
+                {
+
+                    Console.WriteLine("Media da Sala:" + mat.getMediaMateria(json2, mat.getMateria()));
+                }else if(escolha == 2)
+                {
+                    Console.WriteLine("Media do Aluno: " + All.mediaAluno(json2, mat.getMateria(), mat.getNomeAluno(json2, mat.getMateria())));
+                }else if (escolha == 3)
+                {
+                    Console.WriteLine("Rendimento: " + All.getRendimento(testezao, mat.getMateria(), mat.getNomeAluno(testezao, mat.getMateria())));
+                }
 
 
-            //trm.metodo(materia);
+            }
 
-            Console.WriteLine("Nome:");
-            //materia = null;
-            nome = (string)Console.ReadLine();
-            Console.WriteLine("Materia");
-            materia = (string)Console.ReadLine();
-
-            trm.fakeMain(materia, nome);
+            
+            //Console.WriteLine("Media : " + All.mediaAluno(testezao, materia, mat.getNomeAluno(testezao, materia)));
+            
+            
         }
     }
 }
