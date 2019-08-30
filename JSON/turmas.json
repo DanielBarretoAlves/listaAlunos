@@ -1,0 +1,6106 @@
+﻿{
+    "9BM": [{
+        "ARTES": [{
+            "nome":"ANA CAROLINA DE PAULA SIMOES",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"BEATRIZ BAIOCO VESCOVI",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"DIOGO IVAN CABALLERO OTAROLA",
+                "p1":"10.0",
+                "p2":"8.0"
+                },{
+            "nome":"ELISA SEIXAS MELHEM",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"ERIK ZANDONADE DE OLIVEIRA",
+                "p1":"10.0",
+                "p2":"9.0"
+                },{
+            "nome":"GABRIELA ZUCOLOTTO DE MENEZES",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"GUILHERME DUARTE MADEIRA",
+                "p1":"10.0",
+                "p2":"8.0"
+                },{
+            "nome":"HENRIQUE PIMENTEL MARTINS ARRUDA",
+                "p1":"8.0",
+                "p2":"8.0"
+                },{
+            "nome":"JOAO GABRIEL TAVARES PEREIRA",
+                "p1":"10.0",
+                "p2":"7.0"
+                },{
+            "nome":"JOAO HENRIQUE ANTUNES PAES TORRES",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"JOAO VITOR BENIQUIO FERNANDES DE JESUS",
+                "p1":"10.0",
+                "p2":"3.0"
+                },{
+            "nome":"LAURA DALVI CALAZANS",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"LUCA FRIETAS LANES VICENTINI",
+                "p1":"10.0",
+                "p2":"8.0"
+                },{
+            "nome":"MARIA EDUARDA FERREIRA DE OLIVEIRA OLINDO",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"MEL CAMPAGNARO",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"TAINA ZAGO CYPRESETE",
+                "p1":"0.0",
+                "p2":"0.0"
+                },{
+            "nome":"VALENTINA MANOELA SCHUWARTZ FERNANDES",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"VICENTE KOCK LENG VENADE DA COSTA",
+                "p1":"10.0",
+                "p2":"8.0"
+                }   ],
+        "CIENCIAS": [{
+            "nome":"ANA CAROLINA DE PAULA SIMOES",
+                "p1":"5.50",
+                "p2":"6.5"
+                },{
+            "nome":"BEATRIZ BAIOCO VESCOVI",
+                "p1":"4.60",
+                "p2":"4.20"
+                },{
+            "nome":"DIOGO IVAN CABALLERO OTAROLA",
+                "p1":"7.0",
+                "p2":"3.60"
+                },{
+            "nome":"ELISA SEIXAS MELHEM",
+                "p1":"4.40",
+                "p2":"3.90"
+                },{
+            "nome":"ERIK ZANDONADE DE OLIVEIRA",
+                "p1":"8.80",
+                "p2":"7.70"
+                },{
+            "nome":"GABRIELA ZUCOLOTTO DE MENEZES",
+                "p1":"5.10",
+                "p2":"5.40"
+                },{
+            "nome":"GUILHERME DUARTE MADEIRA",
+                "p1":"8.10",
+                "p2":"6.10"
+                },{
+            "nome":"HENRIQUE PIMENTEL MARTINS ARRUDA",
+                "p1":"5.50",
+                "p2":"5.90"
+                },{
+            "nome":"JOAO GABRIEL TAVARES PEREIRA",
+                "p1":"2.40",
+                "p2":"6.50"
+                },{
+            "nome":"JOAO HENRIQUE ANTUNES PAES TORRES",
+                "p1":"2.0",
+                "p2":"2.30"
+                },{
+            "nome":"JOAO VITOR BENIQUIO FERNANDES DE JESUS",
+                "p1":"6.70",
+                "p2":"4.90"
+                },{
+            "nome":"LAURA DALVI CALAZANS",
+                "p1":"4.70",
+                "p2":"4.60"
+                },{
+            "nome":"LUCA FRIETAS LANES VICENTINI",
+                "p1":"4.50",
+                "p2":"3.20"
+                },{
+            "nome":"MARIA EDUARDA FERREIRA DE OLIVEIRA OLINDO",
+                "p1":"5.80",
+                "p2":"7.20"
+                },{
+            "nome":"MEL CAMPAGNARO",
+                "p1":"5.80",
+                "p2":"7.20"
+                },{
+            "nome":"TAINA ZAGO CYPRESETE",
+                "p1":"0.0",
+                "p2":"0.0"
+                },{
+            "nome":"VALENTINA MANOELA SCHUWARTZ FERNANDES",
+                "p1":"6.10",
+                "p2":"7.10"
+                },{
+            "nome":"VICENTE KOCK LENG VENADE DA COSTA",
+                "p1":"3.70",
+                "p2":"5.20"
+                }   ],
+        "ESPANHOL": [{
+            "nome":"ANA CAROLINA DE PAULA SIMOES",
+                "p1":"8.10",
+                "p2":"6.50"
+                },{
+            "nome":"BEATRIZ BAIOCO VESCOVI",
+                "p1":"7.50",
+                "p2":"7.50"
+                },{
+            "nome":"DIOGO IVAN CABALLERO OTAROLA",
+                "p1":"8.10",
+                "p2":"6.00"
+                },{
+            "nome":"ELISA SEIXAS MELHEM",
+                "p1":"8.20",
+                "p2":"7.70"
+                },{
+            "nome":"ERIK ZANDONADE DE OLIVEIRA",
+                "p1":"7.60",
+                "p2":"6.50"
+                },{
+            "nome":"GABRIELA ZUCOLOTTO DE MENEZES",
+                "p1":"8.60",
+                "p2":"7.50"
+                },{
+            "nome":"GUILHERME DUARTE MADEIRA",
+                "p1":"8.60",
+                "p2":"6.60"
+                },{
+            "nome":"HENRIQUE PIMENTEL MARTINS ARRUDA",
+                "p1":"8.00",
+                "p2":"8.20"
+                },{
+            "nome":"JOAO GABRIEL TAVARES PEREIRA",
+                "p1":"7.70",
+                "p2":"6.50"
+                },{
+            "nome":"JOAO HENRIQUE ANTUNES PAES TORRES",
+                "p1":"6.10",
+                "p2":"6.20"
+                },{
+            "nome":"JOAO VITOR BENIQUIO FERNANDES DE JESUS",
+                "p1":"7.0",
+                "p2":"7.70"
+                },{
+            "nome":"LAURA DALVI CALAZANS",
+                "p1":"7.0",
+                "p2":"7.0"
+                },{
+            "nome":"LUCA FRIETAS LANES VICENTINI",
+                "p1":"9.0",
+                "p2":"6.50"
+                },{
+            "nome":"MARIA EDUARDA FERREIRA DE OLIVEIRA OLINDO",
+                "p1":"7.70",
+                "p2":"6.0"
+                },{
+            "nome":"MEL CAMPAGNARO",
+                "p1":"8.0",
+                "p2":"7.10"
+                },{
+            "nome":"TAINA ZAGO CYPRESETE",
+                "p1":"0",
+                "p2":"0"
+                },{
+            "nome":"VALENTINA MANOELA SCHUWARTZ FERNANDES",
+                "p1":"7.50",
+                "p2":"8.50"
+                },{
+            "nome":"VICENTE KOCK LENG VENADE DA COSTA",
+                "p1":"8.50",
+                "p2":"6.0"       }],
+        "FILOSOFIA": [{
+            "nome":"ANA CAROLINA DE PAULA SIMOES",
+                "p1":"8.90",
+                "p2":"7.50"
+                },{
+            "nome":"BEATRIZ BAIOCO VESCOVI",
+                "p1":"7.50",
+                "p2":"4.70"
+                },{
+            "nome":"DIOGO IVAN CABALLERO OTAROLA",
+                "p1":"6.50",
+                "p2":"4.70"
+                },{
+            "nome":"ELISA SEIXAS MELHEM",
+                "p1":"6.90",
+                "p2":"8.00"
+                },{
+            "nome":"ERIK ZANDONADE DE OLIVEIRA",
+                "p1":"9.00",
+                "p2":"7.70"
+                },{
+            "nome":"GABRIELA ZUCOLOTTO DE MENEZES",
+                "p1":"8.00",
+                "p2":"6.00"
+                },{
+            "nome":"GUILHERME DUARTE MADEIRA",
+                "p1":"",
+                "p2":"8.00"
+                },{
+            "nome":"HENRIQUE PIMENTEL MARTINS ARRUDA",
+                "p1":"5.50",
+                "p2":"6.00"
+                },{
+            "nome":"JOAO GABRIEL TAVARES PEREIRA",
+                "p1":"7.50",
+                "p2":"5.80"
+                },{
+            "nome":"JOAO HENRIQUE ANTUNES PAES TORRES",
+                "p1":"8.00",
+                "p2":"4.70"
+                },{
+            "nome":"JOAO VITOR BENIQUIO FERNANDES DE JESUS",
+                "p1":"",
+                "p2":"5.20"
+                },{
+            "nome":"LAURA DALVI CALAZANS",
+                "p1":"7.40",
+                "p2":"8.00"
+                },{
+            "nome":"LUCA FRIETAS LANES VICENTINI",
+                "p1":"7.90",
+                "p2":"7.80"
+                },{
+            "nome":"MARIA EDUARDA FERREIRA DE OLIVEIRA OLINDO",
+                "p1":"5.00",
+                "p2":"5.70"
+                },{
+            "nome":"MEL CAMPAGNARO",
+                "p1":"7.50",
+                "p2":"8.00"
+                },{
+            "nome":"TAINA ZAGO CYPRESETE",
+                "p1":"",
+                "p2":"8.00"
+                },{
+            "nome":"VALENTINA MANOELA SCHUWARTZ FERNANDES",
+                "p1":"8.40",
+                "p2":"7.00"
+                },{
+            "nome":"VICENTE KOCK LENG VENADE DA COSTA",
+                "p1":"8.50",
+                "p2":"7.50"       }],
+        "GEOGRAFIA": [{
+            "nome":"ANA CAROLINA DE PAULA SIMOES",
+                "p1":"8.10",
+                "p2":"10.00"
+                },{
+            "nome":"BEATRIZ BAIOCO VESCOVI",
+                "p1":"6.00",
+                "p2":"6.00"
+                },{
+            "nome":"DIOGO IVAN CABALLERO OTAROLA",
+                "p1":"4.50",
+                "p2":"5.00"
+                },{
+            "nome":"ELISA SEIXAS MELHEM",
+                "p1":"4.90",
+                "p2":"3.80"
+                },{
+            "nome":"ERIK ZANDONADE DE OLIVEIRA",
+                "p1":"7.50",
+                "p2":"8.60"
+                },{
+            "nome":"GABRIELA ZUCOLOTTO DE MENEZES",
+                "p1":"7.50",
+                "p2":"9.00"
+                },{
+            "nome":"GUILHERME DUARTE MADEIRA",
+                "p1":"8.00",
+                "p2":"9.00"
+                },{
+            "nome":"HENRIQUE PIMENTEL MARTINS ARRUDA",
+                "p1":"5.00",
+                "p2":"6.50"
+                },{
+            "nome":"JOAO GABRIEL TAVARES PEREIRA",
+                "p1":"7.00",
+                "p2":"4.50"
+                },{
+            "nome":"JOAO HENRIQUE ANTUNES PAES TORRES",
+                "p1":"2.00",
+                "p2":"0.50"
+                },{
+            "nome":"JOAO VITOR BENIQUIO FERNANDES DE JESUS",
+                "p1":"7.50",
+                "p2":"1.50"
+                },{
+            "nome":"LAURA DALVI CALAZANS",
+                "p1":"6.00",
+                "p2":"9.00"
+                },{
+            "nome":"LUCA FRIETAS LANES VICENTINI",
+                "p1":"7.80",
+                "p2":"9.00"
+                },{
+            "nome":"MARIA EDUARDA FERREIRA DE OLIVEIRA OLINDO",
+                "p1":"4.80",
+                "p2":"5.00"
+                },{
+            "nome":"MEL CAMPAGNARO",
+                "p1":"9.00",
+                "p2":"7.00"
+                },{
+            "nome":"TAINA ZAGO CYPRESETE",
+                "p1":"",
+                "p2":""
+                },{
+            "nome":"VALENTINA MANOELA SCHUWARTZ FERNANDES",
+                "p1":"7.50",
+                "p2":"9.00"
+                },{
+            "nome":"VICENTE KOCK LENG VENADE DA COSTA",
+                "p1":"4.50",
+                "p2":"7.50"
+                }],
+        "HISTORIA": [{
+            "nome":"ANA CAROLINA DE PAULA SIMOES",
+                "p1":"9.10",
+                "p2":"7.80"
+                },{
+            "nome":"BEATRIZ BAIOCO VESCOVI",
+                "p1":"6.80",
+                "p2":"7.60"
+                },{
+            "nome":"DIOGO IVAN CABALLERO OTAROLA",
+                "p1":"4.10",
+                "p2":"8.40"
+                },{
+            "nome":"ELISA SEIXAS MELHEM",
+                "p1":"6.70",
+                "p2":"9.00"
+                },{
+            "nome":"ERIK ZANDONADE DE OLIVEIRA",
+                "p1":"9.80",
+                "p2":"7.30"
+                },{
+            "nome":"GABRIELA ZUCOLOTTO DE MENEZES",
+                "p1":"7.40",
+                "p2":"7.80"
+                },{
+            "nome":"GUILHERME DUARTE MADEIRA",
+                "p1":"8.60",
+                "p2":"8.20"
+                },{
+            "nome":"HENRIQUE PIMENTEL MARTINS ARRUDA",
+                "p1":"5.10",
+                "p2":"5.30"
+                },{
+            "nome":"JOAO GABRIEL TAVARES PEREIRA",
+                "p1":"4.10",
+                "p2":"5.90"
+                },{
+            "nome":"JOAO HENRIQUE ANTUNES PAES TORRES",
+                "p1":"7.30",
+                "p2":"3.50"
+                },{
+            "nome":"JOAO VITOR BENIQUIO FERNANDES DE JESUS",
+                "p1":"6.30",
+                "p2":"6.50"
+                },{
+            "nome":"LAURA DALVI CALAZANS",
+                "p1":"8.70",
+                "p2":"9.50"
+                },{
+            "nome":"LUCA FRIETAS LANES VICENTINI",
+                "p1":"7.30",
+                "p2":"7.30"
+                },{
+            "nome":"MARIA EDUARDA FERREIRA DE OLIVEIRA OLINDO",
+                "p1":"6.0",
+                "p2":"6.05"
+                },{
+            "nome":"MEL CAMPAGNARO",
+                "p1":"8.10",
+                "p2":"6.60"
+                },{
+            "nome":"TAINA ZAGO CYPRESETE",
+                "p1":"0.0",
+                "p2":"0.0"
+                },{
+            "nome":"VALENTINA MANOELA SCHUWARTZ FERNANDES",
+                "p1":"8.20",
+                "p2":"8.40"
+                },{
+            "nome":"VICENTE KOCK LENG VENADE DA COSTA",
+                "p1":"7.70",
+                "p2":"7.40"       }],
+        "INGLES": [{
+            "nome":"ANA CAROLINA DE PAULA SIMOES",
+                "p1":"10.0",
+                "p2":"9.90"
+                },{
+            "nome":"BEATRIZ BAIOCO VESCOVI",
+                "p1":"6.05",
+                "p2":"6,47"
+                },{
+            "nome":"DIOGO IVAN CABALLERO OTAROLA",
+                "p1":"8.15",
+                "p2":"6.80"
+                },{
+            "nome":"ELISA SEIXAS MELHEM",
+                "p1":"9.10",
+                "p2":"9.80"
+                },{
+            "nome":"ERIK ZANDONADE DE OLIVEIRA",
+                "p1":"8.45",
+                "p2":"7.50"
+                },{
+            "nome":"GABRIELA ZUCOLOTTO DE MENEZES",
+                "p1":"7.90",
+                "p2":"7.02"
+                },{
+            "nome":"GUILHERME DUARTE MADEIRA",
+                "p1":"7.35",
+                "p2":"7.97"
+                },{
+            "nome":"HENRIQUE PIMENTEL MARTINS ARRUDA",
+                "p1":"8.70",
+                "p2":"8.22"
+                },{
+            "nome":"JOAO GABRIEL TAVARES PEREIRA",
+                "p1":"8.10",
+                "p2":"8.20"
+                },{
+            "nome":"JOAO HENRIQUE ANTUNES PAES TORRES",
+                "p1":"8.75",
+                "p2":"6.50"
+                },{
+            "nome":"JOAO VITOR BENIQUIO FERNANDES DE JESUS",
+                "p1":"7.00",
+                "p2":"5.82"
+                },{
+            "nome":"LAURA DALVI CALAZANS",
+                "p1":"9.40",
+                "p2":"9.60"
+                },{
+            "nome":"LUCA FRIETAS LANES VICENTINI",
+                "p1":"7.70",
+                "p2":"6.87"
+                },{
+            "nome":"MARIA EDUARDA FERREIRA DE OLIVEIRA OLINDO",
+                "p1":"7.55",
+                "p2":"9.50"
+                },{
+            "nome":"MEL CAMPAGNARO",
+                "p1":"7.55",
+                "p2":"9.50"
+                },{
+            "nome":"TAINA ZAGO CYPRESETE",
+                "p1":"0",
+                "p2":"0"
+                },{
+            "nome":"VALENTINA MANOELA SCHUWARTZ FERNANDES",
+                "p1":"10.00",
+                "p2":"9.80"
+                },{
+            "nome":"VICENTE KOCK LENG VENADE DA COSTA",
+                "p1":"8.35",
+                "p2":"7.97"       }],
+        "PORTUGUES": [{
+            "nome":"ANA CAROLINA DE PAULA SIMOES",
+                "p1":"5.70",
+                "p2":"9.50"
+                },{
+            "nome":"BEATRIZ BAIOCO VESCOVI",
+                "p1":"6.90",
+                "p2":"7.50"
+                },{
+            "nome":"DIOGO IVAN CABALLERO OTAROLA",
+                "p1":"4.10",
+                "p2":"9.00"
+                },{
+            "nome":"ELISA SEIXAS MELHEM",
+                "p1":"6.40",
+                "p2":"9.30"
+                },{
+            "nome":"ERIK ZANDONADE DE OLIVEIRA",
+                "p1":"5.80",
+                "p2":"9.40"
+                },{
+            "nome":"GABRIELA ZUCOLOTTO DE MENEZES",
+                "p1":"4.50",
+                "p2":"7.00"
+                },{
+            "nome":"GUILHERME DUARTE MADEIRA",
+                "p1":"4.30",
+                "p2":"9.60"
+                },{
+            "nome":"HENRIQUE PIMENTEL MARTINS ARRUDA",
+                "p1":"5.60",
+                "p2":"6.80"
+                },{
+            "nome":"JOAO GABRIEL TAVARES PEREIRA",
+                "p1":"5.20",
+                "p2":"7.60"
+                },{
+            "nome":"JOAO HENRIQUE ANTUNES PAES TORRES",
+                "p1":"3.40",
+                "p2":"5.30"
+                },{
+            "nome":"JOAO VITOR BENIQUIO FERNANDES DE JESUS",
+                "p1":"5.20",
+                "p2":"2.10"
+                },{
+            "nome":"LAURA DALVI CALAZANS",
+                "p1":"5.30",
+                "p2":"7.50"
+                },{
+            "nome":"LUCA FRIETAS LANES VICENTINI",
+                "p1":"4.00",
+                "p2":"6.20"
+                },{
+            "nome":"MARIA EDUARDA FERREIRA DE OLIVEIRA OLINDO",
+                "p1":"5.80",
+                "p2":"4.40"
+                },{
+            "nome":"MEL CAMPAGNARO",
+                "p1":"6.30",
+                "p2":"7.70"
+                },{
+            "nome":"TAINA ZAGO CYPRESETE",
+                "p1":"0.0",
+                "p2":"0.0"
+                },{
+            "nome":"VALENTINA MANOELA SCHUWARTZ FERNANDES",
+                "p1":"7.10",
+                "p2":"9.30"
+                },{
+            "nome":"VICENTE KOCK LENG VENADE DA COSTA",
+                "p1":"5.20",
+                "p2":"9.20"       }],
+        "MATEMATICA": [{
+            "nome":"ANA CAROLINA DE PAULA SIMOES",
+                "p1":"8.20",
+                "p2":"5.30"
+                },{
+            "nome":"BEATRIZ BAIOCO VESCOVI",
+                "p1":"6.40",
+                "p2":"4.10"
+                },{
+            "nome":"DIOGO IVAN CABALLERO OTAROLA",
+                "p1":"6.20",
+                "p2":"5.70"
+                },{
+            "nome":"ELISA SEIXAS MELHEM",
+                "p1":"6.10",
+                "p2":"4.50"
+                },{
+            "nome":"ERIK ZANDONADE DE OLIVEIRA",
+                "p1":"8.90",
+                "p2":"7.20"
+                },{
+            "nome":"GABRIELA ZUCOLOTTO DE MENEZES",
+                "p1":"7.80",
+                "p2":"5.10"
+                },{
+            "nome":"GUILHERME DUARTE MADEIRA",
+                "p1":"8.70",
+                "p2":"6.00"
+                },{
+            "nome":"HENRIQUE PIMENTEL MARTINS ARRUDA",
+                "p1":"6.40",
+                "p2":"8.40"
+                },{
+            "nome":"JOAO GABRIEL TAVARES PEREIRA",
+                "p1":"5.10",
+                "p2":"3.70"
+                },{
+            "nome":"JOAO HENRIQUE ANTUNES PAES TORRES",
+                "p1":"5.30",
+                "p2":"3.10"
+                },{
+            "nome":"JOAO VITOR BENIQUIO FERNANDES DE JESUS",
+                "p1":"5.70",
+                "p2":"6.00"
+                },{
+            "nome":"LAURA DALVI CALAZANS",
+                "p1":"3.40",
+                "p2":"4.90"
+                },{
+            "nome":"LUCA FRIETAS LANES VICENTINI",
+                "p1":"6.40",
+                "p2":"4.10"
+                },{
+            "nome":"MARIA EDUARDA FERREIRA DE OLIVEIRA OLINDO",
+                "p1":"5.20",
+                "p2":"5.60"
+                },{
+            "nome":"MEL CAMPAGNARO",
+                "p1":"8.80",
+                "p2":"7.20"
+                },{
+            "nome":"TAINA ZAGO CYPRESETE",
+                "p1":"0.0",
+                "p2":"0.0"
+                },{
+            "nome":"VALENTINA MANOELA SCHUWARTZ FERNANDES",
+                "p1":"9.40",
+                "p2":"7.10"
+                },{
+            "nome":"VICENTE KOCK LENG VENADE DA COSTA",
+                "p1":"7.30",
+                "p2":"6.80"
+                }]
+        }],
+    "9AM": [{
+        "ARTES": [{
+            "nome":"ARTHUR PAGONOZZI DITCHFIELD",
+                "p1":"6.0",
+                "p2":"1.20"
+                },{
+            "nome":"AUGUSTO CAO GIESTAS DE OLIVEIRA",
+                "p1":"10.0",
+                "p2":"5.0"
+                },{
+            "nome":"CAROLINE DE OLIVEIRA COSTA",
+                "p1":"10.0",
+                "p2":"7.30"
+                },{
+            "nome":"CLARA RIBEIRO SOUZA DE LIMA FREITAS",
+                "p1":"10.0",
+                "p2":"7.50"
+                },{
+            "nome":"FELIPE LIMA DE MAGALHAES CASTRO",
+                "p1":"10.0",
+                "p2":"4.25"
+                },{
+            "nome":"GABRIELA SALIBA DE ALMEIDA",
+                "p1":"10.0",
+                "p2":"3.75"
+                },{
+            "nome":"GIOVANA LEITE DE CASTRO MOARES",
+                "p1":"10.0",
+                "p2":"5.55"
+                },{
+            "nome":"ISABELA VIGUINI DAHER",
+                "p1":"10.0",
+                "p2":"6.25"
+                },{
+            "nome":"ISADORA AMORIM",
+                "p1":"10.0",
+                "p2":"7.0"
+                },{
+            "nome":"JOAO VICTOR COVRE LIMA",
+                "p1":"10.0",
+                "p2":"7.80"
+                },{
+            "nome":"LAURA DALVI CALAZANS",
+                "p1":"10.0",
+                "p2":"5.75"
+                },{
+            "nome":"LUCA FRIETAS LANES VICENTINI",
+                "p1":"10.0",
+                "p2":"6.80"
+                },{
+            "nome":"MARIA EDUARDA FERREIRA DE OLIVEIRA OLINDO",
+                "p1":"10.0",
+                "p2":"5.80"
+                },{
+            "nome":"MEL CAMPAGNARO",
+                "p1":"10.0",
+                "p2":"2.75"
+                },{
+            "nome":"TAINA ZAGO CYPRESETE",
+                "p1":"10.0",
+                "p2":"4.02"
+                },{
+            "nome":"MURILO PATRICIO NASCIMENTO",
+                "p1":"10.0",
+                "p2":"7.40"
+                },{
+            "nome":"SOPHIA AYMEE PERUCH RODRIGUES",
+                "p1":"0.0",
+                "p2":"0.0"
+                },{
+            "nome":"VITOR KALIL DE FREITAS",
+                "p1":"10.0",
+                "p2":"5.75"
+                }],
+        "CIENCIAS": [{
+            "nome":"ARTHUR PAGONOZZI DITCHFIELD",
+                "p1":"6.0",
+                "p2":"6.0"
+                },{
+            "nome":"AUGUSTO CAO GIESTAS DE OLIVEIRA",
+                "p1":"5.40",
+                "p2":"6.70"
+                },{
+            "nome":"CAROLINE DE OLIVEIRA COSTA",
+                "p1":"5.50",
+                "p2":"7.90"
+                },{
+            "nome":"CLARA RIBEIRO SOUZA DE LIMA FREITAS",
+                "p1":"2.60",
+                "p2":"5.10"
+                },{
+            "nome":"FELIPE LIMA DE MAGALHAES CASTRO",
+                "p1":"5.20",
+                "p2":"5.10"
+                },{
+            "nome":"GABRIELA SALIBA DE ALMEIDA",
+                "p1":"1.80",
+                "p2":"3.00"
+                },{
+            "nome":"GIOVANA LEITE DE CASTRO MOARES",
+                "p1":"5.70",
+                "p2":"6.60"
+                },{
+            "nome":"ISABELA VIGUINI DAHER",
+                "p1":"6.20",
+                "p2":"4.80"
+                },{
+            "nome":"ISADORA AMORIM",
+                "p1":"4.70",
+                "p2":"4.90"
+                },{
+            "nome":"JOAO VICTOR COVRE LIMA",
+                "p1":"3.10",
+                "p2":"2.80"
+                },{
+            "nome":"LAURA DALVI CALAZANS",
+                "p1":"4.40",
+                "p2":"5.70"
+                },{
+            "nome":"LUCA FRIETAS LANES VICENTINI",
+                "p1":"5.40",
+                "p2":"7.10"
+                },{
+            "nome":"MARIA EDUARDA FERREIRA DE OLIVEIRA OLINDO",
+                "p1":"2.10",
+                "p2":"2.90"
+                },{
+            "nome":"MEL CAMPAGNARO",
+                "p1":"2.10",
+                "p2":"1.90"
+                },{
+            "nome":"TAINA ZAGO CYPRESETE",
+                "p1":"3.90",
+                "p2":"3.30"
+                },{
+            "nome":"MURILO PATRICIO NASCIMENTO",
+                "p1":"8.0",
+                "p2":"8.10"
+                },{
+            "nome":"SOPHIA AYMEE PERUCH RODRIGUES",
+                "p1":"0.0",
+                "p2":"0.0"
+                },{
+            "nome":"VITOR KALIL DE FREITAS",
+                "p1":"5.80",
+                "p2":"5.0"
+                }],
+        "EDUCACAO FISICA": [{
+            "nome":"ARTHUR PAGONOZZI DITCHFIELD",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"AUGUSTO CAO GIESTAS DE OLIVEIRA",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"CAROLINE DE OLIVEIRA COSTA",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"CLARA RIBEIRO SOUZA DE LIMA FREITAS",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"FELIPE LIMA DE MAGALHAES CASTRO",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"GABRIELA SALIBA DE ALMEIDA",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"GIOVANA LEITE DE CASTRO MOARES",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"ISABELA VIGUINI DAHER",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"ISADORA AMORIM",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"JOAO VICTOR COVRE LIMA",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"LAURA DALVI CALAZANS",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"LUCA FRIETAS LANES VICENTINI",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"MARIA EDUARDA FERREIRA DE OLIVEIRA OLINDO",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"MEL CAMPAGNARO",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"TAINA ZAGO CYPRESETE",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"MURILO PATRICIO NASCIMENTO",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"SOPHIA AYMEE PERUCH RODRIGUES",
+                "p1":"0.0",
+                "p2":"0.0"
+                },{
+            "nome":"VITOR KALIL DE FREITAS",
+                "p1":"10.0",
+                "p2":"10.0"
+                }],
+        "ESPANHOL": [{
+            "nome":"ALUNO",
+                "p1":"5.0",
+                "p2":"6.50"
+                },{
+            "nome":"ARTHUR PAGONOZZI DITCHFIELD",
+                "p1":"9.50",
+                "p2":"8.20"
+                },{
+            "nome":"AUGUSTO CAO GIESTAS DE OLIVEIRA",
+                "p1":"8.10",
+                "p2":"8.0"
+                },{
+            "nome":"CAROLINE DE OLIVEIRA COSTA",
+                "p1":"8.10",
+                "p2":"8.0"
+                },{
+            "nome":"CLARA RIBEIRO SOUZA DE LIMA FREITAS",
+                "p1":"7.10",
+                "p2":"7.0"
+                },{
+            "nome":"FELIPE LIMA DE MAGALHAES CASTRO",
+                "p1":"7.50",
+                "p2":"6.50"
+                },{
+            "nome":"GABRIELA SALIBA DE ALMEIDA",
+                "p1":"6.60",
+                "p2":"5.70"
+                },{
+            "nome":"GIOVANA LEITE DE CASTRO MOARES",
+                "p1":"9.10",
+                "p2":"8.10"
+                },{
+            "nome":"ISABELA VIGUINI DAHER",
+                "p1":"9.0",
+                "p2":"8.0"
+                },{
+            "nome":"ISADORA AMORIM",
+                "p1":"7.10",
+                "p2":"5.20"
+                },{
+            "nome":"JOAO VICTOR COVRE LIMA",
+                "p1":"7.20",
+                "p2":"8.70"
+                },{
+            "nome":"LAURA DALVI CALAZANS",
+                "p1":"6.50",
+                "p2":"6.0"
+                },{
+            "nome":"LUCA FRIETAS LANES VICENTINI",
+                "p1":"8.0",
+                "p2":"6.50"
+                },{
+            "nome":"MARIA EDUARDA FERREIRA DE OLIVEIRA OLINDO",
+                "p1":"7.0",
+                "p2":"5.0"
+                },{
+            "nome":"MEL CAMPAGNARO",
+                "p1":"5.60",
+                "p2":"6.50"
+                },{
+            "nome":"TAINA ZAGO CYPRESETE",
+                "p1":"8.0",
+                "p2":"7.50"
+                },{
+            "nome":"MURILO PATRICIO NASCIMENTO",
+                "p1":"8.60",
+                "p2":"9.20"
+                },{
+            "nome":"SOPHIA AYMEE PERUCH RODRIGUES",
+                "p1":"0.0",
+                "p2":"0.0"
+                },{
+            "nome":"VITOR KALIL DE FREITAS",
+                "p1":"6.10",
+                "p2":"6.0"
+                }],
+        "FILOSOFIA": [{
+            "nome":"ARTHUR PAGONOZZI DITCHFIELD",
+                "p1":"7.50",
+                "p2":"3.50"
+                },{
+            "nome":"AUGUSTO CAO GIESTAS DE OLIVEIRA",
+                "p1":"7.80",
+                "p2":"6.0"
+                },{
+            "nome":"CAROLINE DE OLIVEIRA COSTA",
+                "p1":"9.0",
+                "p2":"7.0"
+                },{
+            "nome":"CLARA RIBEIRO SOUZA DE LIMA FREITAS",
+                "p1":"7.0",
+                "p2":"7.0"
+                },{
+            "nome":"FELIPE LIMA DE MAGALHAES CASTRO",
+                "p1":"8.60",
+                "p2":"5.60"
+                },{
+            "nome":"GABRIELA SALIBA DE ALMEIDA",
+                "p1":"6.0",
+                "p2":"2.50"
+                },{
+            "nome":"GIOVANA LEITE DE CASTRO MOARES",
+                "p1":"9.50",
+                "p2":"4.0"
+                },{
+            "nome":"ISABELA VIGUINI DAHER",
+                "p1":"7.50",
+                "p2":"5.70"
+                },{
+            "nome":"ISADORA AMORIM",
+                "p1":"7.0",
+                "p2":"4.70"
+                },{
+            "nome":"JOAO VICTOR COVRE LIMA",
+                "p1":"5.50",
+                "p2":"4.0"
+                },{
+            "nome":"LAURA DALVI CALAZANS",
+                "p1":"8.0",
+                "p2":"6.0"
+                },{
+            "nome":"LUCA FRIETAS LANES VICENTINI",
+                "p1":"8.30",
+                "p2":"5.0"
+                },{
+            "nome":"MARIA EDUARDA FERREIRA DE OLIVEIRA OLINDO",
+                "p1":"5.50",
+                "p2":"2.80"
+                },{
+            "nome":"MEL CAMPAGNARO",
+                "p1":"7.50",
+                "p2":"4.20"
+                },{
+            "nome":"TAINA ZAGO CYPRESETE",
+                "p1":"8.0",
+                "p2":"7.30"
+                },{
+            "nome":"MURILO PATRICIO NASCIMENTO",
+                "p1":"7.50",
+                "p2":"8.0"
+                },{
+            "nome":"SOPHIA AYMEE PERUCH RODRIGUES",
+                "p1":"0.0",
+                "p2":"0.0"
+                },{
+            "nome":"VITOR KALIL DE FREITAS",
+                "p1":"7.40",
+                "p2":"6.0"
+                }],
+        "GEOGRAFIA": [{
+            "nome":"ARTHUR PAGONOZZI DITCHFIELD",
+                "p1":"6.0",
+                "p2":"7.20"
+                },{
+            "nome":"AUGUSTO CAO GIESTAS DE OLIVEIRA",
+                "p1":"7.0",
+                "p2":"7.0"
+                },{
+            "nome":"CAROLINE DE OLIVEIRA COSTA",
+                "p1":"8.50",
+                "p2":"6.30"
+                },{
+            "nome":"CLARA RIBEIRO SOUZA DE LIMA FREITAS",
+                "p1":"7.0",
+                "p2":"8.0"
+                },{
+            "nome":"FELIPE LIMA DE MAGALHAES CASTRO",
+                "p1":"4.20",
+                "p2":"7.0"
+                },{
+            "nome":"GABRIELA SALIBA DE ALMEIDA",
+                "p1":"5.50",
+                "p2":"0.20"
+                },{
+            "nome":"GIOVANA LEITE DE CASTRO MOARES",
+                "p1":"7.0",
+                "p2":"7.10"
+                },{
+            "nome":"ISABELA VIGUINI DAHER",
+                "p1":"6.70",
+                "p2":"9.0"
+                },{
+            "nome":"ISADORA AMORIM",
+                "p1":"5.20",
+                "p2":"6.50"
+                },{
+            "nome":"JOAO VICTOR COVRE LIMA",
+                "p1":"3.50",
+                "p2":"3.60"
+                },{
+            "nome":"LAURA DALVI CALAZANS",
+                "p1":"3.50",
+                "p2":"3.50"
+                },{
+            "nome":"LUCA FRIETAS LANES VICENTINI",
+                "p1":"3.30",
+                "p2":"4.20"
+                },{
+            "nome":"MARIA EDUARDA FERREIRA DE OLIVEIRA OLINDO",
+                "p1":"2.0",
+                "p2":"1.25"
+                },{
+            "nome":"MEL CAMPAGNARO",
+                "p1":"1.25",
+                "p2":"0.0"
+                },{
+            "nome":"TAINA ZAGO CYPRESETE",
+                "p1":"3.50",
+                "p2":"8.30"
+                },{
+            "nome":"MURILO PATRICIO NASCIMENTO",
+                "p1":"10.0",
+                "p2":"9.70"
+                },{
+            "nome":"SOPHIA AYMEE PERUCH RODRIGUES",
+                "p1":"0.0",
+                "p2":"0.0"
+                },{
+            "nome":"VITOR KALIL DE FREITAS",
+                "p1":"4.0",
+                "p2":"4.30"
+                }],
+        "HISTORIA": [{
+            "nome":"ARTHUR PAGONOZZI DITCHFIELD",
+                "p1":"4.30",
+                "p2":"8.20"
+                },{
+            "nome":"AUGUSTO CAO GIESTAS DE OLIVEIRA",
+                "p1":"6.60",
+                "p2":"7.30"
+                },{
+            "nome":"CAROLINE DE OLIVEIRA COSTA",
+                "p1":"7.70",
+                "p2":"0.0"
+                },{
+            "nome":"CLARA RIBEIRO SOUZA DE LIMA FREITAS",
+                "p1":"6.10",
+                "p2":"6.30"
+                },{
+            "nome":"FELIPE LIMA DE MAGALHAES CASTRO",
+                "p1":"7.60",
+                "p2":"5.0"
+                },{
+            "nome":"GABRIELA SALIBA DE ALMEIDA",
+                "p1":"4.50",
+                "p2":"4.70"
+                },{
+            "nome":"GIOVANA LEITE DE CASTRO MOARES",
+                "p1":"5.10",
+                "p2":"8.30"
+                },{
+            "nome":"ISABELA VIGUINI DAHER",
+                "p1":"8.10",
+                "p2":"8.30"
+                },{
+            "nome":"ISADORA AMORIM",
+                "p1":"5.20",
+                "p2":"8.30"
+                },{
+            "nome":"JOAO VICTOR COVRE LIMA",
+                "p1":"7.0",
+                "p2":"5.80"
+                },{
+            "nome":"LAURA DALVI CALAZANS",
+                "p1":"8.10",
+                "p2":"7.70"
+                },{
+            "nome":"LUCA FRIETAS LANES VICENTINI",
+                "p1":"8.10",
+                "p2":"7.70"
+                },{
+            "nome":"MARIA EDUARDA FERREIRA DE OLIVEIRA OLINDO",
+                "p1":"6.0",
+                "p2":"5.55"
+                },{
+            "nome":"MEL CAMPAGNARO",
+                "p1":"2.50",
+                "p2":"8.70"
+                },{
+            "nome":"TAINA ZAGO CYPRESETE",
+                "p1":"3.50",
+                "p2":"6.30"
+                },{
+            "nome":"MURILO PATRICIO NASCIMENTO",
+                "p1":"9.0",
+                "p2":"10.0"
+                },{
+            "nome":"SOPHIA AYMEE PERUCH RODRIGUES",
+                "p1":"0.0",
+                "p2":"0.0"
+                },{
+            "nome":"VITOR KALIL DE FREITAS",
+                "p1":"5.40",
+                "p2":"8.20"
+                }],
+        "INGLES": [{
+            "nome":"ARTHUR PAGONOZZI DITCHFIELD",
+                "p1":"6.0",
+                "p2":"7.60"
+                },{
+            "nome":"AUGUSTO CAO GIESTAS DE OLIVEIRA",
+                "p1":"9.0",
+                "p2":"8.80"
+                },{
+            "nome":"CAROLINE DE OLIVEIRA COSTA",
+                "p1":"4.55",
+                "p2":"9.90"
+                },{
+            "nome":"CLARA RIBEIRO SOUZA DE LIMA FREITAS",
+                "p1":"9.40",
+                "p2":"7.70"
+                },{
+            "nome":"FELIPE LIMA DE MAGALHAES CASTRO",
+                "p1":"10.0",
+                "p2":"8.90"
+                },{
+            "nome":"GABRIELA SALIBA DE ALMEIDA",
+                "p1":"7.85",
+                "p2":"8.80"
+                },{
+            "nome":"GIOVANA LEITE DE CASTRO MOARES",
+                "p1":"8.15",
+                "p2":"8.10"
+                },{
+            "nome":"ISABELA VIGUINI DAHER",
+                "p1":"8.80",
+                "p2":"8.62"
+                },{
+            "nome":"ISADORA AMORIM",
+                "p1":"8.15",
+                "p2":"9.30"
+                },{
+            "nome":"JOAO VICTOR COVRE LIMA",
+                "p1":"8.75",
+                "p2":"9.60"
+                },{
+            "nome":"LAURA DALVI CALAZANS",
+                "p1":"8.75",
+                "p2":"7.80"
+                },{
+            "nome":"LUCA FRIETAS LANES VICENTINI",
+                "p1":"9.40",
+                "p2":"7.80"
+                },{
+            "nome":"MARIA EDUARDA FERREIRA DE OLIVEIRA OLINDO",
+                "p1":"8.15",
+                "p2":"8.20"
+                },{
+            "nome":"MEL CAMPAGNARO",
+                "p1":"6.0",
+                "p2":"4.60"
+                },{
+            "nome":"TAINA ZAGO CYPRESETE",
+                "p1":"10.0",
+                "p2":"8.25"
+                },{
+            "nome":"MURILO PATRICIO NASCIMENTO",
+                "p1":"8.05",
+                "p2":"9.06"
+                },{
+            "nome":"SOPHIA AYMEE PERUCH RODRIGUES",
+                "p1":"0.0",
+                "p2":"0.0"
+                },{
+            "nome":"VITOR KALIL DE FREITAS",
+                "p1":"7.10",
+                "p2":"5.77"
+                }],
+        "PORTUGUES": [{
+            "nome":"ARTHUR PAGONOZZI DITCHFIELD",
+                "p1":"6.0",
+                "p2":"10.0"
+                },{
+            "nome":"AUGUSTO CAO GIESTAS DE OLIVEIRA",
+                "p1":"6.70",
+                "p2":"9.50"
+                },{
+            "nome":"CAROLINE DE OLIVEIRA COSTA",
+                "p1":"5.20",
+                "p2":"9.75"
+                },{
+            "nome":"CLARA RIBEIRO SOUZA DE LIMA FREITAS",
+                "p1":"2.80",
+                "p2":"7.95"
+                },{
+            "nome":"FELIPE LIMA DE MAGALHAES CASTRO",
+                "p1":"6.50",
+                "p2":"9.05"
+                },{
+            "nome":"GABRIELA SALIBA DE ALMEIDA",
+                "p1":"4.60",
+                "p2":"8.80"
+                },{
+            "nome":"GIOVANA LEITE DE CASTRO MOARES",
+                "p1":"7.80",
+                "p2":"7.90"
+                },{
+            "nome":"ISABELA VIGUINI DAHER",
+                "p1":"8.40",
+                "p2":"9.60"
+                },{
+            "nome":"ISADORA AMORIM",
+                "p1":"5.20",
+                "p2":"8.0"
+                },{
+            "nome":"JOAO VICTOR COVRE LIMA",
+                "p1":"3.40",
+                "p2":"1.40"
+                },{
+            "nome":"LAURA DALVI CALAZANS",
+                "p1":"4.0",
+                "p2":"9.05"
+                },{
+            "nome":"LUCA FRIETAS LANES VICENTINI",
+                "p1":"7.0",
+                "p2":"9.0"
+                },{
+            "nome":"MARIA EDUARDA FERREIRA DE OLIVEIRA OLINDO",
+                "p1":"3.80",
+                "p2":"8.40"
+                },{
+            "nome":"MEL CAMPAGNARO",
+                "p1":"3.40",
+                "p2":"6.10"
+                },{
+            "nome":"TAINA ZAGO CYPRESETE",
+                "p1":"4.10",
+                "p2":"1.0"
+                },{
+            "nome":"MURILO PATRICIO NASCIMENTO",
+                "p1":"8.50",
+                "p2":"9.70"
+                },{
+            "nome":"SOPHIA AYMEE PERUCH RODRIGUES",
+                "p1":"0.0",
+                "p2":"0.0"
+                },{
+            "nome":"VITOR KALIL DE FREITAS",
+                "p1":"5.0",
+                "p2":"7.85"
+                }],
+        "MATEMATICA": [{
+            "nome":"ARTHUR PAGONOZZI DITCHFIELD",
+                "p1":"6.0",
+                "p2":"6.0"
+                },{
+            "nome":"AUGUSTO CAO GIESTAS DE OLIVEIRA",
+                "p1":"6.0",
+                "p2":"6.70"
+                },{
+            "nome":"CAROLINE DE OLIVEIRA COSTA",
+                "p1":"7.90",
+                "p2":"9.40"
+                },{
+            "nome":"CLARA RIBEIRO SOUZA DE LIMA FREITAS",
+                "p1":"4.0",
+                "p2":"4.70"
+                },{
+            "nome":"FELIPE LIMA DE MAGALHAES CASTRO",
+                "p1":"4.0",
+                "p2":"7.60"
+                },{
+            "nome":"GABRIELA SALIBA DE ALMEIDA",
+                "p1":"3.10",
+                "p2":"3.30"
+                },{
+            "nome":"GIOVANA LEITE DE CASTRO MOARES",
+                "p1":"7.30",
+                "p2":"9.40"
+                },{
+            "nome":"ISABELA VIGUINI DAHER",
+                "p1":"7.30",
+                "p2":"7.60"
+                },{
+            "nome":"ISADORA AMORIM",
+                "p1":"6.30",
+                "p2":"6.50"
+                },{
+            "nome":"JOAO VICTOR COVRE LIMA",
+                "p1":"4.80",
+                "p2":"4.40"
+                },{
+            "nome":"LAURA DALVI CALAZANS",
+                "p1":"4.30",
+                "p2":"6.60"
+                },{
+            "nome":"LUCA FRIETAS LANES VICENTINI",
+                "p1":"5.0",
+                "p2":"5.0"
+                },{
+            "nome":"MARIA EDUARDA FERREIRA DE OLIVEIRA OLINDO",
+                "p1":"1.60",
+                "p2":"1.70"
+                },{
+            "nome":"MEL CAMPAGNARO",
+                "p1":"3.20",
+                "p2":"4.60"
+                },{
+            "nome":"TAINA ZAGO CYPRESETE",
+                "p1":"1.30",
+                "p2":"3.0"
+                },{
+            "nome":"MURILO PATRICIO NASCIMENTO",
+                "p1":"6.20",
+                "p2":"8.60"
+                },{
+            "nome":"SOPHIA AYMEE PERUCH RODRIGUES",
+                "p1":"0.0",
+                "p2":"0.0"
+                },{
+            "nome":"VITOR KALIL DE FREITAS",
+                "p1":"4.50",
+                "p2":"5.0"
+                }]
+        }],
+    "7BM": [{
+        "ARTES": [{
+            "nome":"ALINE MILBRATZ DE CASTRO",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"AMANDA RODRIGUES SOARES",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"ARTHUR DE FREITAS DAS NEVES",
+                "p1":"8.0",
+                "p2":"8.0"
+                },{
+            "nome":"ATILA MOREIRA DE CASTILHO FILHO",
+                "p1":"8.0",
+                "p2":"9.0"
+                },{
+            "nome":"DANDARA VICTORIA THOMAZELLI GANGA",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"DAVI MARTINS BORTLON",
+                "p1":"8.0",
+                "p2":"9.0"
+                },{
+            "nome":"GABIREL GIANORDOLI BOTECCHIA",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"GABRIELA GONCALVES FARIA",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"GUSTAVO CARIELLO RUSCHI",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"IASMIN PASOLINI BARROS SOUZA",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"ISADORA ITHIO PIAZZINI NEVES",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"JULIA FROTA MONTEIRO SPANHOL",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"LUIZ AFONSO SCHMITE FERREIRA",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"LUIZA COELHO ZANQUETTO",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"SARAH GUSMAN CELESTINO",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"SERGIO DANIEL CAMPONEZ LEAL",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"VICTORIA BRAGA BAGNI",
+                "p1":"10.0",
+                "p2":"10.0"
+                }],
+        "CIENCIAS": [{
+            "nome":"ALINE MILBRATZ DE CASTRO",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"AMANDA RODRIGUES SOARES",
+                "p1":"9.20",
+                "p2":"9.90"
+                },{
+            "nome":"ARTHUR DE FREITAS DAS NEVES",
+                "p1":"10.0",
+                "p2":"7.0"
+                },{
+            "nome":"ATILA MOREIRA DE CASTILHO FILHO",
+                "p1":"8.50",
+                "p2":"4.50"
+                },{
+            "nome":"DANDARA VICTORIA THOMAZELLI GANGA",
+                "p1":"6.0",
+                "p2":"6.0"
+                },{
+            "nome":"DAVI MARTINS BORTLON",
+                "p1":"9.40",
+                "p2":"10.0"
+                },{
+            "nome":"GABIREL GIANORDOLI BOTECCHIA",
+                "p1":"7.0",
+                "p2":"4.70"
+                },{
+            "nome":"GABRIELA GONCALVES FARIA",
+                "p1":"5.70",
+                "p2":"6.50"
+                },{
+            "nome":"GUSTAVO CARIELLO RUSCHI",
+                "p1":"9.10",
+                "p2":"7.30"
+                },{
+            "nome":"IASMIN PASOLINI BARROS SOUZA",
+                "p1":"9.20",
+                "p2":"8.80"
+                },{
+            "nome":"ISADORA ITHIO PIAZZINI NEVES",
+                "p1":"7.10",
+                "p2":"8.60"
+                },{
+            "nome":"JULIA FROTA MONTEIRO SPANHOL",
+                "p1":"6.90",
+                "p2":"4.80"
+                },{
+            "nome":"LUIZ AFONSO SCHMITE FERREIRA",
+                "p1":"2.80",
+                "p2":"8.80"
+                },{
+            "nome":"LUIZA COELHO ZANQUETTO",
+                "p1":"8.90",
+                "p2":"8.80"
+                },{
+            "nome":"SARAH GUSMAN CELESTINO",
+                "p1":"5.40",
+                "p2":"4.80"
+                },{
+            "nome":"SERGIO DANIEL CAMPONEZ LEAL",
+                "p1":"8.30",
+                "p2":"7.80"
+                },{
+            "nome":"VICTORIA BRAGA BAGNI",
+                "p1":"7.10",
+                "p2":"5.30"
+                }],
+        "EDUCACAO FISICA": [{
+            "nome":"ALINE MILBRATZ DE CASTRO",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"AMANDA RODRIGUES SOARES",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"ARTHUR DE FREITAS DAS NEVES",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"ATILA MOREIRA DE CASTILHO FILHO",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"DANDARA VICTORIA THOMAZELLI GANGA",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"DAVI MARTINS BORTLON",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"GABIREL GIANORDOLI BOTECCHIA",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"GABRIELA GONCALVES FARIA",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"GUSTAVO CARIELLO RUSCHI",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"IASMIN PASOLINI BARROS SOUZA",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"ISADORA ITHIO PIAZZINI NEVES",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"JULIA FROTA MONTEIRO SPANHOL",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"LUIZ AFONSO SCHMITE FERREIRA",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"LUIZA COELHO ZANQUETTO",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"SARAH GUSMAN CELESTINO",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"SERGIO DANIEL CAMPONEZ LEAL",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"VICTORIA BRAGA BAGNI",
+                "p1":"10.0",
+                "p2":"10.0"
+                }],
+        "ESPANHOL": [{
+            "nome":"ALINE MILBRATZ DE CASTRO",
+                "p1":"9.0",
+                "p2":"8.0"
+                },{
+            "nome":"AMANDA RODRIGUES SOARES",
+                "p1":"8.50",
+                "p2":"7.50"
+                },{
+            "nome":"ARTHUR DE FREITAS DAS NEVES",
+                "p1":"7.60",
+                "p2":"6.50"
+                },{
+            "nome":"ATILA MOREIRA DE CASTILHO FILHO",
+                "p1":"7.50",
+                "p2":"5.0"
+                },{
+            "nome":"DANDARA VICTORIA THOMAZELLI GANGA",
+                "p1":"5.0",
+                "p2":"10.0"
+                },{
+            "nome":"DAVI MARTINS BORTLON",
+                "p1":"10.0",
+                "p2":"9.60"
+                },{
+            "nome":"GABIREL GIANORDOLI BOTECCHIA",
+                "p1":"5.20",
+                "p2":"7.0"
+                },{
+            "nome":"GABRIELA GONCALVES FARIA",
+                "p1":"6.50",
+                "p2":"5.0"
+                },{
+            "nome":"GUSTAVO CARIELLO RUSCHI",
+                "p1":"9.50",
+                "p2":"9.50"
+                },{
+            "nome":"IASMIN PASOLINI BARROS SOUZA",
+                "p1":"8.10",
+                "p2":"9.20"
+                },{
+            "nome":"ISADORA ITHIO PIAZZINI NEVES",
+                "p1":"6.70",
+                "p2":"8.10"
+                },{
+            "nome":"JULIA FROTA MONTEIRO SPANHOL",
+                "p1":"5.50",
+                "p2":"5.20"
+                },{
+            "nome":"LUIZ AFONSO SCHMITE FERREIRA",
+                "p1":"5.70",
+                "p2":"7.0"
+                },{
+            "nome":"LUIZA COELHO ZANQUETTO",
+                "p1":"7.60",
+                "p2":"8.50"
+                },{
+            "nome":"SARAH GUSMAN CELESTINO",
+                "p1":"7.0",
+                "p2":"6.0"
+                },{
+            "nome":"SERGIO DANIEL CAMPONEZ LEAL",
+                "p1":"8.20",
+                "p2":"8.20"
+                },{
+            "nome":"VICTORIA BRAGA BAGNI",
+                "p1":"7.50",
+                "p2":"5.0"
+                }],
+        "FILOSOFIA": [{
+            "nome":"ALINE MILBRATZ DE CASTRO",
+                "p1":"10.0",
+                "p2":"9.50"
+                },{
+            "nome":"AMANDA RODRIGUES SOARES",
+                "p1":"9.30",
+                "p2":"9.0"
+                },{
+            "nome":"ARTHUR DE FREITAS DAS NEVES",
+                "p1":"10.0",
+                "p2":"9.0"
+                },{
+            "nome":"ATILA MOREIRA DE CASTILHO FILHO",
+                "p1":"4.40",
+                "p2":"8.0"
+                },{
+            "nome":"DANDARA VICTORIA THOMAZELLI GANGA",
+                "p1":"9.10",
+                "p2":"9.0"
+                },{
+            "nome":"DAVI MARTINS BORTLON",
+                "p1":"7.10",
+                "p2":"8.0"
+                },{
+            "nome":"GABIREL GIANORDOLI BOTECCHIA",
+                "p1":"5.0",
+                "p2":"8.0"
+                },{
+            "nome":"GABRIELA GONCALVES FARIA",
+                "p1":"8.0",
+                "p2":"10.0"
+                },{
+            "nome":"GUSTAVO CARIELLO RUSCHI",
+                "p1":"8.60",
+                "p2":"9.50"
+                },{
+            "nome":"IASMIN PASOLINI BARROS SOUZA",
+                "p1":"9.20",
+                "p2":"9.50"
+                },{
+            "nome":"ISADORA ITHIO PIAZZINI NEVES",
+                "p1":"9.20",
+                "p2":"9.50"
+                },{
+            "nome":"JULIA FROTA MONTEIRO SPANHOL",
+                "p1":"5.50",
+                "p2":"9.0"
+                },{
+            "nome":"LUIZ AFONSO SCHMITE FERREIRA",
+                "p1":"6.50",
+                "p2":"8.50"
+                },{
+            "nome":"LUIZA COELHO ZANQUETTO",
+                "p1":"10.0",
+                "p2":"9.50"
+                },{
+            "nome":"SARAH GUSMAN CELESTINO",
+                "p1":"5.40",
+                "p2":"8.50"
+                },{
+            "nome":"SERGIO DANIEL CAMPONEZ LEAL",
+                "p1":"6.30",
+                "p2":"9.50"
+                },{
+            "nome":"VICTORIA BRAGA BAGNI",
+                "p1":"6.70",
+                "p2":"9.50"
+                }],
+        "GEOGRAFIA": [{
+            "nome":"ALINE MILBRATZ DE CASTRO",
+                "p1":"6.20",
+                "p2":"9.70"
+                },{
+            "nome":"AMANDA RODRIGUES SOARES",
+                "p1":"8.90",
+                "p2":"8.20"
+                },{
+            "nome":"ARTHUR DE FREITAS DAS NEVES",
+                "p1":"7.30",
+                "p2":"8.70"
+                },{
+            "nome":"ATILA MOREIRA DE CASTILHO FILHO",
+                "p1":"5.30",
+                "p2":"5.0"
+                },{
+            "nome":"DANDARA VICTORIA THOMAZELLI GANGA",
+                "p1":"6.0",
+                "p2":"6.0"
+                },{
+            "nome":"DAVI MARTINS BORTLON",
+                "p1":"9.10",
+                "p2":"10.0"
+                },{
+            "nome":"GABIREL GIANORDOLI BOTECCHIA",
+                "p1":"3.50",
+                "p2":"3.20"
+                },{
+            "nome":"GABRIELA GONCALVES FARIA",
+                "p1":"4.60",
+                "p2":"6.0"
+                },{
+            "nome":"GUSTAVO CARIELLO RUSCHI",
+                "p1":"6.10",
+                "p2":"8.0"
+                },{
+            "nome":"IASMIN PASOLINI BARROS SOUZA",
+                "p1":"9.10",
+                "p2":"9.10"
+                },{
+            "nome":"ISADORA ITHIO PIAZZINI NEVES",
+                "p1":"7.20",
+                "p2":"4.50"
+                },{
+            "nome":"JULIA FROTA MONTEIRO SPANHOL",
+                "p1":"5.10",
+                "p2":"7.30"
+                },{
+            "nome":"LUIZ AFONSO SCHMITE FERREIRA",
+                "p1":"2.80",
+                "p2":"4.90"
+                },{
+            "nome":"LUIZA COELHO ZANQUETTO",
+                "p1":"9.0",
+                "p2":"9.20"
+                },{
+            "nome":"SARAH GUSMAN CELESTINO",
+                "p1":"5.0",
+                "p2":"7.80"
+                },{
+            "nome":"SERGIO DANIEL CAMPONEZ LEAL",
+                "p1":"8.40",
+                "p2":"5.80"
+                },{
+            "nome":"VICTORIA BRAGA BAGNI",
+                "p1":"5.0",
+                "p2":"8.0"
+                }],
+        "HISTORIA": [{
+            "nome":"ALINE MILBRATZ DE CASTRO",
+                "p1":"9.50",
+                "p2":"7.90"
+                },{
+            "nome":"AMANDA RODRIGUES SOARES",
+                "p1":"9.25",
+                "p2":"7.25"
+                },{
+            "nome":"ARTHUR DE FREITAS DAS NEVES",
+                "p1":"7.0",
+                "p2":"7.80"
+                },{
+            "nome":"ATILA MOREIRA DE CASTILHO FILHO",
+                "p1":"7.90",
+                "p2":"6.25"
+                },{
+            "nome":"DANDARA VICTORIA THOMAZELLI GANGA",
+                "p1":"7.0",
+                "p2":"7.0"
+                },{
+            "nome":"DAVI MARTINS BORTLON",
+                "p1":"9.50",
+                "p2":"9.0"
+                },{
+            "nome":"GABIREL GIANORDOLI BOTECCHIA",
+                "p1":"5.50",
+                "p2":"3.75"
+                },{
+            "nome":"GABRIELA GONCALVES FARIA",
+                "p1":"8.0",
+                "p2":"3.25"
+                },{
+            "nome":"GUSTAVO CARIELLO RUSCHI",
+                "p1":"9.50",
+                "p2":"7.50"
+                },{
+            "nome":"IASMIN PASOLINI BARROS SOUZA",
+                "p1":"9.50",
+                "p2":"7.60"
+                },{
+            "nome":"ISADORA ITHIO PIAZZINI NEVES",
+                "p1":"6.15",
+                "p2":"4.20"
+                },{
+            "nome":"JULIA FROTA MONTEIRO SPANHOL",
+                "p1":"7.75",
+                "p2":"3.0"
+                },{
+            "nome":"LUIZ AFONSO SCHMITE FERREIRA",
+                "p1":"3.50",
+                "p2":"2.75"
+                },{
+            "nome":"LUIZA COELHO ZANQUETTO",
+                "p1":"9.0",
+                "p2":"9.50"
+                },{
+            "nome":"SARAH GUSMAN CELESTINO",
+                "p1":"4.50",
+                "p2":"4.75"
+                },{
+            "nome":"SERGIO DANIEL CAMPONEZ LEAL",
+                "p1":"6.50",
+                "p2":"7.55"
+                },{
+            "nome":"VICTORIA BRAGA BAGNI",
+                "p1":"5.0",
+                "p2":"8.30"
+                }],
+        "INGLES": [{
+            "nome":"ALINE MILBRATZ DE CASTRO",
+                "p1":"8.20",
+                "p2":"7.95"
+                },{
+            "nome":"AMANDA RODRIGUES SOARES",
+                "p1":"8.40",
+                "p2":"8.20"
+                },{
+            "nome":"ARTHUR DE FREITAS DAS NEVES",
+                "p1":"6.0",
+                "p2":"6.05"
+                },{
+            "nome":"ATILA MOREIRA DE CASTILHO FILHO",
+                "p1":"8.75",
+                "p2":"7.54"
+                },{
+            "nome":"DANDARA VICTORIA THOMAZELLI GANGA",
+                "p1":"6.0",
+                "p2":"6.0"
+                },{
+            "nome":"DAVI MARTINS BORTLON",
+                "p1":"10.0",
+                "p2":"9.40"
+                },{
+            "nome":"GABIREL GIANORDOLI BOTECCHIA",
+                "p1":"6.20",
+                "p2":"7.63"
+                },{
+            "nome":"GABRIELA GONCALVES FARIA",
+                "p1":"8.20",
+                "p2":"8.35"
+                },{
+            "nome":"GUSTAVO CARIELLO RUSCHI",
+                "p1":"9.70",
+                "p2":"7.55"
+                },{
+            "nome":"IASMIN PASOLINI BARROS SOUZA",
+                "p1":"6.05",
+                "p2":"7.30"
+                },{
+            "nome":"ISADORA ITHIO PIAZZINI NEVES",
+                "p1":"10.0",
+                "p2":""
+                },{
+            "nome":"JULIA FROTA MONTEIRO SPANHOL",
+                "p1":"8.60",
+                "p2":"8.66"
+                },{
+            "nome":"LUIZ AFONSO SCHMITE FERREIRA",
+                "p1":"7.75",
+                "p2":"7.62"
+                },{
+            "nome":"LUIZA COELHO ZANQUETTO",
+                "p1":"7.80",
+                "p2":"8.25"
+                },{
+            "nome":"SARAH GUSMAN CELESTINO",
+                "p1":"9.50",
+                "p2":"8.60"
+                },{
+            "nome":"SERGIO DANIEL CAMPONEZ LEAL",
+                "p1":"9.10",
+                "p2":"10.0"
+                },{
+            "nome":"VICTORIA BRAGA BAGNI",
+                "p1":"7.70",
+                "p2":"6.60"
+                }],
+        "PORTUGUES": [{
+            "nome":"ALINE MILBRATZ DE CASTRO",
+                "p1":"9.30",
+                "p2":"7.20"
+                },{
+            "nome":"AMANDA RODRIGUES SOARES",
+                "p1":"8.75",
+                "p2":"8.90"
+                },{
+            "nome":"ARTHUR DE FREITAS DAS NEVES",
+                "p1":"8.35",
+                "p2":"6.85"
+                },{
+            "nome":"ATILA MOREIRA DE CASTILHO FILHO",
+                "p1":"7.10",
+                "p2":"5.15"
+                },{
+            "nome":"DANDARA VICTORIA THOMAZELLI GANGA",
+                "p1":"6.0",
+                "p2":"6.0"
+                },{
+            "nome":"DAVI MARTINS BORTLON",
+                "p1":"9.70",
+                "p2":"9.45"
+                },{
+            "nome":"GABIREL GIANORDOLI BOTECCHIA",
+                "p1":"6.15",
+                "p2":"5.25"
+                },{
+            "nome":"GABRIELA GONCALVES FARIA",
+                "p1":"7.25",
+                "p2":"4.20"
+                },{
+            "nome":"GUSTAVO CARIELLO RUSCHI",
+                "p1":"9.35",
+                "p2":"8.80"
+                },{
+            "nome":"IASMIN PASOLINI BARROS SOUZA",
+                "p1":"9.25",
+                "p2":"9.65"
+                },{
+            "nome":"ISADORA ITHIO PIAZZINI NEVES",
+                "p1":"7.10",
+                "p2":"6.15"
+                },{
+            "nome":"JULIA FROTA MONTEIRO SPANHOL",
+                "p1":"6.0",
+                "p2":"7.60"
+                },{
+            "nome":"LUIZ AFONSO SCHMITE FERREIRA",
+                "p1":"6.65",
+                "p2":"5.30"
+                },{
+            "nome":"LUIZA COELHO ZANQUETTO",
+                "p1":"8.90",
+                "p2":"8.40"
+                },{
+            "nome":"SARAH GUSMAN CELESTINO",
+                "p1":"7.50",
+                "p2":"3.75"
+                },{
+            "nome":"SERGIO DANIEL CAMPONEZ LEAL",
+                "p1":"8.15",
+                "p2":"7.0"
+                },{
+            "nome":"VICTORIA BRAGA BAGNI",
+                "p1":"7.0",
+                "p2":"7.30"
+                }],
+        "MATEMATICA": [{
+            "nome":"ALINE MILBRATZ DE CASTRO",
+                "p1":"8.10",
+                "p2":"6.80"
+                },{
+            "nome":"AMANDA RODRIGUES SOARES",
+                "p1":"7.0",
+                "p2":"9.0"
+                },{
+            "nome":"ARTHUR DE FREITAS DAS NEVES",
+                "p1":"6.0",
+                "p2":"6.0"
+                },{
+            "nome":"ATILA MOREIRA DE CASTILHO FILHO",
+                "p1":"5.20",
+                "p2":"4.10"
+                },{
+            "nome":"DANDARA VICTORIA THOMAZELLI GANGA",
+                "p1":"6.0",
+                "p2":"6.0"
+                },{
+            "nome":"DAVI MARTINS BORTLON",
+                "p1":"8.10",
+                "p2":"8.20"
+                },{
+            "nome":"GABIREL GIANORDOLI BOTECCHIA",
+                "p1":"4.30",
+                "p2":"2.80"
+                },{
+            "nome":"GABRIELA GONCALVES FARIA",
+                "p1":"5.50",
+                "p2":"4.50"
+                },{
+            "nome":"GUSTAVO CARIELLO RUSCHI",
+                "p1":"9.50",
+                "p2":"8.0"
+                },{
+            "nome":"IASMIN PASOLINI BARROS SOUZA",
+                "p1":"7.40",
+                "p2":"7.90"
+                },{
+            "nome":"ISADORA ITHIO PIAZZINI NEVES",
+                "p1":"5.0",
+                "p2":"5.20"
+                },{
+            "nome":"JULIA FROTA MONTEIRO SPANHOL",
+                "p1":"6.0",
+                "p2":"3.10"
+                },{
+            "nome":"LUIZ AFONSO SCHMITE FERREIRA",
+                "p1":"4.0",
+                "p2":"4.50"
+                },{
+            "nome":"LUIZA COELHO ZANQUETTO",
+                "p1":"8.40",
+                "p2":"8.10"
+                },{
+            "nome":"SARAH GUSMAN CELESTINO",
+                "p1":"5.0",
+                "p2":"3.20"
+                },{
+            "nome":"SERGIO DANIEL CAMPONEZ LEAL",
+                "p1":"8.60",
+                "p2":"8.30"
+                },{
+            "nome":"VICTORIA BRAGA BAGNI",
+                "p1":"5.20",
+                "p2":"6.40"
+                }]
+        }],
+    "7AM": [{
+        "ARTES": [{
+            "nome":"ALICE POLESE TEIXEIRA DE CARVALHO",
+                "p1":"9.80",
+                "p2":"10.0"
+                },{
+            "nome":"ANDRE ABREU FLAMINIO",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"ANNA CLARA SANTOS BORGES",
+                "p1":"8.50",
+                "p2":"9.00"
+                },{
+            "nome":"CAIO FERRI CASINI",
+                "p1":"9.00",
+                "p2":"10.0"
+                },{
+            "nome":"DANILO FIGUEIREDO DE ANDRADE CAMPOS",
+                "p1":"7.00",
+                "p2":"7.00"
+                },{
+            "nome":"FILIPO REISEN SALVIATO SALVI",
+                "p1":"7.00",
+                "p2":"7.00"
+                },{
+            "nome":"FRANCISCO QUARENTEI NUNES",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"GABRIELA MERLO DESSAUNE",
+                "p1":"9.00",
+                "p2":"9.00"
+                },{
+            "nome":"IGOR PECANHA FERNANDES HAUTEQUESTT",
+                "p1":"9.50",
+                "p2":"9.50"
+                },{
+            "nome":"LAVINIA ROGGE PALAZZO",
+                "p1":"8.00",
+                "p2":"8.00"
+                },{
+            "nome":"LUIZA PEDROSA SARCINELLI",
+                "p1":"9.00",
+                "p2":"9.00"
+                },{
+            "nome":"MARIA FERNANDA SALIBA DE ALMEIDA",
+                "p1":"8.00",
+                "p2":"8.00"
+                },{
+            "nome":"MARIA LUISA PITANGA MADUREIRA",
+                "p1":"8.50",
+                "p2":"8.50"
+                },{
+            "nome":"MARIANA COELHO SILVA",
+                "p1":"9.50",
+                "p2":"9.50"
+                },{
+            "nome":"SOFIA CAMPO DALLORTO NATHANAILIDIS",
+                "p1":"9.00",
+                "p2":"9.00"
+                },{
+            "nome":"VITOR WAICHERT LYRIO DE PAULA",
+                "p1":"9.00",
+                "p2":"9.00"
+                }],
+        "CIENCIAS": [{
+            "nome":"ALICE POLESE TEIXEIRA DE CARVALHO",
+                "p1":"8.20",
+                "p2":"8.20"
+                },{
+            "nome":"ANDRE ABREU FLAMINIO",
+                "p1":"8.90",
+                "p2":"8.80"
+                },{
+            "nome":"ANNA CLARA SANTOS BORGES",
+                "p1":"10.0",
+                "p2":"9.80"
+                },{
+            "nome":"CAIO FERRI CASINI",
+                "p1":"9.60",
+                "p2":"9.00"
+                },{
+            "nome":"DANILO FIGUEIREDO DE ANDRADE CAMPOS",
+                "p1":"10.0",
+                "p2":"9.00"
+                },{
+            "nome":"FILIPO REISEN SALVIATO SALVI",
+                "p1":"7.50",
+                "p2":"6.30"
+                },{
+            "nome":"FRANCISCO QUARENTEI NUNES",
+                "p1":"10.0",
+                "p2":"8.60"
+                },{
+            "nome":"GABRIELA MERLO DESSAUNE",
+                "p1":"7.80",
+                "p2":"8.70"
+                },{
+            "nome":"IGOR PECANHA FERNANDES HAUTEQUESTT",
+                "p1":"9.30",
+                "p2":"7.30"
+                },{
+            "nome":"LAVINIA ROGGE PALAZZO",
+                "p1":"6.50",
+                "p2":"6.20"
+                },{
+            "nome":"LUIZA PEDROSA SARCINELLI",
+                "p1":"10.0",
+                "p2":"9.90"
+                },{
+            "nome":"MARIA FERNANDA SALIBA DE ALMEIDA",
+                "p1":"9.30",
+                "p2":"7.20"
+                },{
+            "nome":"MARIA LUISA PITANGA MADUREIRA",
+                "p1":"9.70",
+                "p2":"9.80"
+                },{
+            "nome":"MARIANA COELHO SILVA",
+                "p1":"8.30",
+                "p2":"9.00"
+                },{
+            "nome":"SOFIA CAMPO DALLORTO NATHANAILIDIS",
+                "p1":"8.20",
+                "p2":"8.30"
+                },{
+            "nome":"VITOR WAICHERT LYRIO DE PAULA",
+                "p1":"6.80",
+                "p2":"5.80"
+                }],
+        "EDUCACAO FISICA": [{
+            "nome":"ALICE POLESE TEIXEIRA DE CARVALHO",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"ANDRE ABREU FLAMINIO",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"ANNA CLARA SANTOS BORGES",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"CAIO FERRI CASINI",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"DANILO FIGUEIREDO DE ANDRADE CAMPOS",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"FILIPO REISEN SALVIATO SALVI",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"FRANCISCO QUARENTEI NUNES",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"GABRIELA MERLO DESSAUNE",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"IGOR PECANHA FERNANDES HAUTEQUESTT",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"LAVINIA ROGGE PALAZZO",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"LUIZA PEDROSA SARCINELLI",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"MARIA FERNANDA SALIBA DE ALMEIDA",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"MARIA LUISA PITANGA MADUREIRA",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"MARIANA COELHO SILVA",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"SOFIA CAMPO DALLORTO NATHANAILIDIS",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"VITOR WAICHERT LYRIO DE PAULA",
+                "p1":"10.0",
+                "p2":"10.0"
+                }],
+        "ESPANHOL": [{
+            "nome":"ALICE POLESE TEIXEIRA DE CARVALHO",
+                "p1":"9.20",
+                "p2":"9.10"
+                },{
+            "nome":"ANDRE ABREU FLAMINIO",
+                "p1":"8.50",
+                "p2":"9.00"
+                },{
+            "nome":"ANNA CLARA SANTOS BORGES",
+                "p1":"8.60",
+                "p2":"9.70"
+                },{
+            "nome":"CAIO FERRI CASINI",
+                "p1":"8.50",
+                "p2":"9.20"
+                },{
+            "nome":"DANILO FIGUEIREDO DE ANDRADE CAMPOS",
+                "p1":"8.00",
+                "p2":"7.50"
+                },{
+            "nome":"FILIPO REISEN SALVIATO SALVI",
+                "p1":"5.20",
+                "p2":"6.20"
+                },{
+            "nome":"FRANCISCO QUARENTEI NUNES",
+                "p1":"9.50",
+                "p2":"8.70"
+                },{
+            "nome":"GABRIELA MERLO DESSAUNE",
+                "p1":"7.10",
+                "p2":"7.70"
+                },{
+            "nome":"IGOR PECANHA FERNANDES HAUTEQUESTT",
+                "p1":"7.60",
+                "p2":"6.50"
+                },{
+            "nome":"LAVINIA ROGGE PALAZZO",
+                "p1":"7.00",
+                "p2":"7.50"
+                },{
+            "nome":"LUIZA PEDROSA SARCINELLI",
+                "p1":"9.50",
+                "p2":"9.50"
+                },{
+            "nome":"MARIA FERNANDA SALIBA DE ALMEIDA",
+                "p1":"9.00",
+                "p2":"6.50"
+                },{
+            "nome":"MARIA LUISA PITANGA MADUREIRA",
+                "p1":"8.60",
+                "p2":"9.50"
+                },{
+            "nome":"MARIANA COELHO SILVA",
+                "p1":"8.50",
+                "p2":"7.50"
+                },{
+            "nome":"SOFIA CAMPO DALLORTO NATHANAILIDIS",
+                "p1":"8.50",
+                "p2":"8.70"
+                },{
+            "nome":"VITOR WAICHERT LYRIO DE PAULA",
+                "p1":"4.00",
+                "p2":"4.50"
+                }],
+        "FILOSOFIA": [{
+            "nome":"ALICE POLESE TEIXEIRA DE CARVALHO",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"ANDRE ABREU FLAMINIO",
+                "p1":"9.50",
+                "p2":"10.0"
+                },{
+            "nome":"ANNA CLARA SANTOS BORGES",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"CAIO FERRI CASINI",
+                "p1":"10.0",
+                "p2":"9.50"
+                },{
+            "nome":"DANILO FIGUEIREDO DE ANDRADE CAMPOS",
+                "p1":"9.80",
+                "p2":"9.50"
+                },{
+            "nome":"FILIPO REISEN SALVIATO SALVI",
+                "p1":"8.50",
+                "p2":"8.00"
+                },{
+            "nome":"FRANCISCO QUARENTEI NUNES",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"GABRIELA MERLO DESSAUNE",
+                "p1":"7.50",
+                "p2":"9.00"
+                },{
+            "nome":"IGOR PECANHA FERNANDES HAUTEQUESTT",
+                "p1":"7.10",
+                "p2":"8.00"
+                },{
+            "nome":"LAVINIA ROGGE PALAZZO",
+                "p1":"3.30",
+                "p2":"9.00"
+                },{
+            "nome":"LUIZA PEDROSA SARCINELLI",
+                "p1":"10.0",
+                "p2":"9.50"
+                },{
+            "nome":"MARIA FERNANDA SALIBA DE ALMEIDA",
+                "p1":"8.00",
+                "p2":"9.00"
+                },{
+            "nome":"MARIA LUISA PITANGA MADUREIRA",
+                "p1":"10.0",
+                "p2":"9.00"
+                },{
+            "nome":"MARIANA COELHO SILVA",
+                "p1":"7.50",
+                "p2":"9.50"
+                },{
+            "nome":"SOFIA CAMPO DALLORTO NATHANAILIDIS",
+                "p1":"6.30",
+                "p2":"9.00"
+                },{
+            "nome":"VITOR WAICHERT LYRIO DE PAULA",
+                "p1":"4.90",
+                "p2":"8.00"
+                }],
+        "GEOGRAFIA": [{
+            "nome":"ALICE POLESE TEIXEIRA DE CARVALHO",
+                "p1":"7.70",
+                "p2":"9.10"
+                },{
+            "nome":"ANDRE ABREU FLAMINIO",
+                "p1":"8.00",
+                "p2":"8.50"
+                },{
+            "nome":"ANNA CLARA SANTOS BORGES",
+                "p1":"8.80",
+                "p2":"9.40"
+                },{
+            "nome":"CAIO FERRI CASINI",
+                "p1":"8.70",
+                "p2":"8.90"
+                },{
+            "nome":"DANILO FIGUEIREDO DE ANDRADE CAMPOS",
+                "p1":"8.20",
+                "p2":"8.50"
+                },{
+            "nome":"FILIPO REISEN SALVIATO SALVI",
+                "p1":"4.70",
+                "p2":"9.00"
+                },{
+            "nome":"FRANCISCO QUARENTEI NUNES",
+                "p1":"8.20",
+                "p2":"8.50"
+                },{
+            "nome":"GABRIELA MERLO DESSAUNE",
+                "p1":"7.80",
+                "p2":"6.80"
+                },{
+            "nome":"IGOR PECANHA FERNANDES HAUTEQUESTT",
+                "p1":"7.70",
+                "p2":"7.00"
+                },{
+            "nome":"LAVINIA ROGGE PALAZZO",
+                "p1":"5.80",
+                "p2":"5.00"
+                },{
+            "nome":"LUIZA PEDROSA SARCINELLI",
+                "p1":"9.90",
+                "p2":"9.70"
+                },{
+            "nome":"MARIA FERNANDA SALIBA DE ALMEIDA",
+                "p1":"4.90",
+                "p2":"5.20"
+                },{
+            "nome":"MARIA LUISA PITANGA MADUREIRA",
+                "p1":"6.70",
+                "p2":"9.00"
+                },{
+            "nome":"MARIANA COELHO SILVA",
+                "p1":"8.50",
+                "p2":"6.80"
+                },{
+            "nome":"SOFIA CAMPO DALLORTO NATHANAILIDIS",
+                "p1":"7.30",
+                "p2":"8.10"
+                },{
+            "nome":"VITOR WAICHERT LYRIO DE PAULA",
+                "p1":"4.40",
+                "p2":"6.60"
+                }]
+        ,
+        "HISTORIA": [{
+            "nome":"ALICE POLESE TEIXEIRA DE CARVALHO",
+                "p1":"9.50",
+                "p2":"9.10"
+                },{
+            "nome":"ANDRE ABREU FLAMINIO",
+                "p1":"9.50",
+                "p2":"8.65"
+                },{
+            "nome":"ANNA CLARA SANTOS BORGES",
+                "p1":"10.0",
+                "p2":"9.40"
+                },{
+            "nome":"CAIO FERRI CASINI",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"DANILO FIGUEIREDO DE ANDRADE CAMPOS",
+                "p1":"9.50",
+                "p2":"8.75"
+                },{
+            "nome":"FILIPO REISEN SALVIATO SALVI",
+                "p1":"3.25",
+                "p2":"4.00"
+                },{
+            "nome":"FRANCISCO QUARENTEI NUNES",
+                "p1":"9.50",
+                "p2":"9.50"
+                },{
+            "nome":"GABRIELA MERLO DESSAUNE",
+                "p1":"8.00",
+                "p2":"5.75"
+                },{
+            "nome":"IGOR PECANHA FERNANDES HAUTEQUESTT",
+                "p1":"6.75",
+                "p2":"7.50"
+                },{
+            "nome":"LAVINIA ROGGE PALAZZO",
+                "p1":"4.50",
+                "p2":"1.50"
+                },{
+            "nome":"LUIZA PEDROSA SARCINELLI",
+                "p1":"8.50",
+                "p2":"9.00"
+                },{
+            "nome":"MARIA FERNANDA SALIBA DE ALMEIDA",
+                "p1":"8.00",
+                "p2":"3.25"
+                },{
+            "nome":"MARIA LUISA PITANGA MADUREIRA",
+                "p1":"9.00",
+                "p2":"8.25"
+                },{
+            "nome":"MARIANA COELHO SILVA",
+                "p1":"7.40",
+                "p2":"4.50"
+                },{
+            "nome":"SOFIA CAMPO DALLORTO NATHANAILIDIS",
+                "p1":"6.00",
+                "p2":"4.75"
+                },{
+            "nome":"VITOR WAICHERT LYRIO DE PAULA",
+                "p1":"6.50",
+                "p2":"3.70"
+                }],
+        "INGLES": [{
+            "nome":"ALICE POLESE TEIXEIRA DE CARVALHO",
+                "p1":"7.50",
+                "p2":"8.30"
+                },{
+            "nome":"ANDRE ABREU FLAMINIO",
+                "p1":"8.85",
+                "p2":"9.70"
+                },{
+            "nome":"ANNA CLARA SANTOS BORGES",
+                "p1":"4.75",
+                "p2":"8.75"
+                },{
+            "nome":"CAIO FERRI CASINI",
+                "p1":"6.45",
+                "p2":"7.15"
+                },{
+            "nome":"DANILO FIGUEIREDO DE ANDRADE CAMPOS",
+                "p1":"8.40",
+                "p2":"8.15"
+                },{
+            "nome":"FILIPO REISEN SALVIATO SALVI",
+                "p1":"9.20",
+                "p2":"9.35"
+                },{
+            "nome":"FRANCISCO QUARENTEI NUNES",
+                "p1":"8.80",
+                "p2":"7.20"
+                },{
+            "nome":"GABRIELA MERLO DESSAUNE",
+                "p1":"9.60",
+                "p2":"9.80"
+                },{
+            "nome":"IGOR PECANHA FERNANDES HAUTEQUESTT",
+                "p1":"7.90",
+                "p2":"5.10"
+                },{
+            "nome":"LAVINIA ROGGE PALAZZO",
+                "p1":"6.95",
+                "p2":"8.12"
+                },{
+            "nome":"LUIZA PEDROSA SARCINELLI",
+                "p1":"9.00",
+                "p2":"9.00"
+                },{
+            "nome":"MARIA FERNANDA SALIBA DE ALMEIDA",
+                "p1":"7.30",
+                "p2":"8.00"
+                },{
+            "nome":"MARIA LUISA PITANGA MADUREIRA",
+                "p1":"5.30",
+                "p2":"6.75"
+                },{
+            "nome":"MARIANA COELHO SILVA",
+                "p1":"5.30",
+                "p2":"6.75"
+                },{
+            "nome":"SOFIA CAMPO DALLORTO NATHANAILIDIS",
+                "p1":"9.10",
+                "p2":"7.80"
+                },{
+            "nome":"VITOR WAICHERT LYRIO DE PAULA",
+                "p1":"6.00",
+                "p2":"6.00"
+                }],
+        "PORTUGUES": [{
+            "nome":"ALICE POLESE TEIXEIRA DE CARVALHO",
+                "p1":"8.85",
+                "p2":"7.00"
+                },{
+            "nome":"ANDRE ABREU FLAMINIO",
+                "p1":"8.80",
+                "p2":"8.65"
+                },{
+            "nome":"ANNA CLARA SANTOS BORGES",
+                "p1":"9.45",
+                "p2":"8.90"
+                },{
+            "nome":"CAIO FERRI CASINI",
+                "p1":"9.15",
+                "p2":"8.60"
+                },{
+            "nome":"DANILO FIGUEIREDO DE ANDRADE CAMPOS",
+                "p1":"9.30",
+                "p2":"9.65"
+                },{
+            "nome":"FILIPO REISEN SALVIATO SALVI",
+                "p1":"6.35",
+                "p2":"6.60"
+                },{
+            "nome":"FRANCISCO QUARENTEI NUNES",
+                "p1":"8.80",
+                "p2":"8.80"
+                },{
+            "nome":"GABRIELA MERLO DESSAUNE",
+                "p1":"2.50",
+                "p2":"7.00"
+                },{
+            "nome":"IGOR PECANHA FERNANDES HAUTEQUESTT",
+                "p1":"6.00",
+                "p2":"6.45"
+                },{
+            "nome":"LAVINIA ROGGE PALAZZO",
+                "p1":"6.65",
+                "p2":"3.90"
+                },{
+            "nome":"LUIZA PEDROSA SARCINELLI",
+                "p1":"9.90",
+                "p2":"9.80"
+                },{
+            "nome":"MARIA FERNANDA SALIBA DE ALMEIDA",
+                "p1":"6.30",
+                "p2":"5.60"
+                },{
+            "nome":"MARIA LUISA PITANGA MADUREIRA",
+                "p1":"9.50",
+                "p2":"8.00"
+                },{
+            "nome":"MARIANA COELHO SILVA",
+                "p1":"8.90",
+                "p2":"8.60"
+                },{
+            "nome":"SOFIA CAMPO DALLORTO NATHANAILIDIS",
+                "p1":"8.10",
+                "p2":"7.20"
+                },{
+            "nome":"VITOR WAICHERT LYRIO DE PAULA",
+                "p1":"5.55",
+                "p2":"7.20"
+                }],
+        "MATEMATICA": [{
+            "nome":"ALICE POLESE TEIXEIRA DE CARVALHO",
+                "p1":"8.50",
+                "p2":"7.20"
+                },{
+            "nome":"ANDRE ABREU FLAMINIO",
+                "p1":"8.10",
+                "p2":"8.60"
+                },{
+            "nome":"ANNA CLARA SANTOS BORGES",
+                "p1":"7.60",
+                "p2":"9.20"
+                },{
+            "nome":"CAIO FERRI CASINI",
+                "p1":"8.90",
+                "p2":"8.40"
+                },{
+            "nome":"DANILO FIGUEIREDO DE ANDRADE CAMPOS",
+                "p1":"8.70",
+                "p2":"8.30"
+                },{
+            "nome":"FILIPO REISEN SALVIATO SALVI",
+                "p1":"3.40",
+                "p2":"4.80"
+                },{
+            "nome":"FRANCISCO QUARENTEI NUNES",
+                "p1":"8.70",
+                "p2":"8.30"
+                },{
+            "nome":"GABRIELA MERLO DESSAUNE",
+                "p1":"6.70",
+                "p2":"7.30"
+                },{
+            "nome":"IGOR PECANHA FERNANDES HAUTEQUESTT",
+                "p1":"4.00",
+                "p2":"3.80"
+                },{
+            "nome":"LAVINIA ROGGE PALAZZO",
+                "p1":"4.00",
+                "p2":"3.20"
+                },{
+            "nome":"LUIZA PEDROSA SARCINELLI",
+                "p1":"9.50",
+                "p2":"9.60"
+                },{
+            "nome":"MARIA FERNANDA SALIBA DE ALMEIDA",
+                "p1":"6.30",
+                "p2":"5.00"
+                },{
+            "nome":"MARIA LUISA PITANGA MADUREIRA",
+                "p1":"8.20",
+                "p2":"8.80"
+                },{
+            "nome":"MARIANA COELHO SILVA",
+                "p1":"8.60",
+                "p2":"7.00"
+                },{
+            "nome":"SOFIA CAMPO DALLORTO NATHANAILIDIS",
+                "p1":"6.80",
+                "p2":"4.80"
+                },{
+            "nome":"VITOR WAICHERT LYRIO DE PAULA",
+                "p1":"3.30",
+                "p2":"5.80"
+                }]
+        
+        }],
+    "6AM": [{
+        "ARTES": [{
+            "nome":"ANA CLARA ROMERO SATHLER",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"ANDRE COPOLILLO FARIA",
+                "p1":"8.50",
+                "p2":"8.50"
+                },{
+            "nome":"ANDRE DE PAULA SIMOES",
+                "p1":"8.00",
+                "p2":"8.50"
+                },{
+            "nome":"BEATRIZ LARA SERRANO",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"BRUNO AGRIZZI ABAURRE",
+                "p1":"9.50",
+                "p2":"9.70"
+                },{
+            "nome":"CAIO LOZZER MARTINS",
+                "p1":"9.80",
+                "p2":"9.80"
+                },{
+            "nome":"CLAUDIA FERNANDES MASSARO",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"DANIEL LEMOS PICHAMONE",
+                "p1":"8.00",
+                "p2":"8.00"
+                },{
+            "nome":"DAVI COGO VEREZA REZENDE",
+                "p1":"9.00",
+                "p2":"9.00"
+                },{
+            "nome":"DAVI MENEZES PUPA",
+                "p1":"9.00",
+                "p2":"9.00"
+                },{
+            "nome":"GUILHERME SOARES DE OLIVEIRA",
+                "p1":"9.80",
+                "p2":"10.0"
+                },{
+            "nome":"ISADORA BONALDI VELTEN",
+                "p1":"9.80",
+                "p2":"10.0"
+                },{
+            "nome":"JOAO PEDRO LABRUNE MARTINELLI",
+                "p1":"8.50",
+                "p2":"8.50"
+                },{
+            "nome":"LAURA VARGAS LEGEY",
+                "p1":"9.80",
+                "p2":"10.0"
+                },{
+            "nome":"LORENZO VITORINO",
+                "p1":"9.00",
+                "p2":"9.00"
+                },{
+            "nome":"MARINA BOTELHO RIZZATO",
+                "p1":"9.80",
+                "p2":"9.80"
+                },{
+            "nome":"PAULA CAVALCANTE LEITE PINTO",
+                "p1":"9.80",
+                "p2":"10.0"
+                },{
+            "nome":"PEDRO DE FIGUEIREDO CORTES VAIRO",
+                "p1":"8.50",
+                "p2":"9.00"
+                },{
+            "nome":"PEDRO HENRIQUE COUTINHO VALIATI",
+                "p1":"8.00",
+                "p2":"8.00"
+                },{
+            "nome":"SOPHIA PERPETUO DE MENDONCA BORGES",
+                "p1":"9.80",
+                "p2":"9.80"
+                },{
+            "nome":"THAIS COUTINHO DUARTE LIMA",
+                "p1":"9.00",
+                "p2":"9.00"
+                },{
+            "nome":"VITOR DUARTE MADEIRA",
+                "p1":"9.00",
+                "p2":"9.50"
+                },{
+            "nome":"YASMIN FROTA MONTEIRO SPANHOL",
+                "p1":"9.50",
+                "p2":"9.50"
+                }],
+        "CIENCIAS": [{
+            "nome":"ANA CLARA ROMERO SATHLER",
+                "p1":"8.30",
+                "p2":"9.00"
+                },{
+            "nome":"ANDRE COPOLILLO FARIA",
+                "p1":"3.20",
+                "p2":"5.00"
+                },{
+            "nome":"ANDRE DE PAULA SIMOES",
+                "p1":"6.70",
+                "p2":"5.00"
+                },{
+            "nome":"BEATRIZ LARA SERRANO",
+                "p1":"9.10",
+                "p2":"9.40"
+                },{
+            "nome":"BRUNO AGRIZZI ABAURRE",
+                "p1":"8.80",
+                "p2":"8.60"
+                },{
+            "nome":"CAIO LOZZER MARTINS",
+                "p1":"6.30",
+                "p2":"7.50"
+                },{
+            "nome":"CLAUDIA FERNANDES MASSARO",
+                "p1":"9.70",
+                "p2":"9.80"
+                },{
+            "nome":"DANIEL LEMOS PICHAMONE",
+                "p1":"4.80",
+                "p2":"5.60"
+                },{
+            "nome":"DAVI COGO VEREZA REZENDE",
+                "p1":"4.50",
+                "p2":"4.00"
+                },{
+            "nome":"DAVI MENEZES PUPA",
+                "p1":"7.30",
+                "p2":"6.80"
+                },{
+            "nome":"GUILHERME SOARES DE OLIVEIRA",
+                "p1":"6.00",
+                "p2":"6.70"
+                },{
+            "nome":"ISADORA BONALDI VELTEN",
+                "p1":"8.30",
+                "p2":"7.10"
+                },{
+            "nome":"JOAO PEDRO LABRUNE MARTINELLI",
+                "p1":"8.00",
+                "p2":"6.10"
+                },{
+            "nome":"LAURA VARGAS LEGEY",
+                "p1":"7.80",
+                "p2":"8.00"
+                },{
+            "nome":"LORENZO VITORINO",
+                "p1":"7.00",
+                "p2":"8.00"
+                },{
+            "nome":"MARINA BOTELHO RIZZATO",
+                "p1":"8.80",
+                "p2":"7.40"
+                },{
+            "nome":"PAULA CAVALCANTE LEITE PINTO",
+                "p1":"8.60",
+                "p2":"7.40"
+                },{
+            "nome":"PEDRO DE FIGUEIREDO CORTES VAIRO",
+                "p1":"9.50",
+                "p2":"9.80"
+                },{
+            "nome":"PEDRO HENRIQUE COUTINHO VALIATI",
+                "p1":"8.30",
+                "p2":"7.30"
+                },{
+            "nome":"SOPHIA PERPETUO DE MENDONCA BORGES",
+                "p1":"5.00",
+                "p2":"7.00"
+                },{
+            "nome":"THAIS COUTINHO DUARTE LIMA",
+                "p1":"7.10",
+                "p2":"8.60"
+                },{
+            "nome":"VITOR DUARTE MADEIRA",
+                "p1":"9.50",
+                "p2":"7.80"
+                },{
+            "nome":"YASMIN FROTA MONTEIRO SPANHOL",
+                "p1":"7.10",
+                "p2":"5.20"
+                }],
+        "EDUCACAO FISICA": [{
+            "nome":"ANA CLARA ROMERO SATHLER",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"ANDRE COPOLILLO FARIA",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"ANDRE DE PAULA SIMOES",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"BEATRIZ LARA SERRANO",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"BRUNO AGRIZZI ABAURRE",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"CAIO LOZZER MARTINS",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"CLAUDIA FERNANDES MASSARO",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"DANIEL LEMOS PICHAMONE",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"DAVI COGO VEREZA REZENDE",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"DAVI MENEZES PUPA",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"GUILHERME SOARES DE OLIVEIRA",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"ISADORA BONALDI VELTEN",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"JOAO PEDRO LABRUNE MARTINELLI",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"LAURA VARGAS LEGEY",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"LORENZO VITORINO",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"MARINA BOTELHO RIZZATO",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"PAULA CAVALCANTE LEITE PINTO",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"PEDRO DE FIGUEIREDO CORTES VAIRO",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"PEDRO HENRIQUE COUTINHO VALIATI",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"SOPHIA PERPETUO DE MENDONCA BORGES",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"THAIS COUTINHO DUARTE LIMA",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"VITOR DUARTE MADEIRA",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"YASMIN FROTA MONTEIRO SPANHOL",
+                "p1":"10.0",
+                "p2":"10.0"
+                }],
+        "ESPANHOL": [{
+            "nome":"ANA CLARA ROMERO SATHLER",
+                "p1":"9.00",
+                "p2":"9.70"
+                },{
+            "nome":"ANDRE COPOLILLO FARIA",
+                "p1":"4.50",
+                "p2":"5.00"
+                },{
+            "nome":"ANDRE DE PAULA SIMOES",
+                "p1":"4.00",
+                "p2":"6.60"
+                },{
+            "nome":"BEATRIZ LARA SERRANO",
+                "p1":"7.60",
+                "p2":"9.60"
+                },{
+            "nome":"BRUNO AGRIZZI ABAURRE",
+                "p1":"9.50",
+                "p2":"9.50"
+                },{
+            "nome":"CAIO LOZZER MARTINS",
+                "p1":"7.50",
+                "p2":"5.50"
+                },{
+            "nome":"CLAUDIA FERNANDES MASSARO",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"DANIEL LEMOS PICHAMONE",
+                "p1":"5.30",
+                "p2":"4.53"
+                },{
+            "nome":"DAVI COGO VEREZA REZENDE",
+                "p1":"7.50",
+                "p2":"8.50"
+                },{
+            "nome":"DAVI MENEZES PUPA",
+                "p1":"8.50",
+                "p2":"9.00"
+                },{
+            "nome":"GUILHERME SOARES DE OLIVEIRA",
+                "p1":"7.20",
+                "p2":"8.50"
+                },{
+            "nome":"ISADORA BONALDI VELTEN",
+                "p1":"8.70",
+                "p2":"9.20"
+                },{
+            "nome":"JOAO PEDRO LABRUNE MARTINELLI",
+                "p1":"5.60",
+                "p2":"6.60"
+                },{
+            "nome":"LAURA VARGAS LEGEY",
+                "p1":"8.00",
+                "p2":"9.20"
+                },{
+            "nome":"LORENZO VITORINO",
+                "p1":"6.00",
+                "p2":"7.20"
+                },{
+            "nome":"MARINA BOTELHO RIZZATO",
+                "p1":"9.10",
+                "p2":"8.60"
+                },{
+            "nome":"PAULA CAVALCANTE LEITE PINTO",
+                "p1":"8.70",
+                "p2":"9.50"
+                },{
+            "nome":"PEDRO DE FIGUEIREDO CORTES VAIRO",
+                "p1":"9.10",
+                "p2":"10.0"
+                },{
+            "nome":"PEDRO HENRIQUE COUTINHO VALIATI",
+                "p1":"8.20",
+                "p2":"9.60"
+                },{
+            "nome":"SOPHIA PERPETUO DE MENDONCA BORGES",
+                "p1":"8.00",
+                "p2":"6.10"
+                },{
+            "nome":"THAIS COUTINHO DUARTE LIMA",
+                "p1":"9.00",
+                "p2":"6.00"
+                },{
+            "nome":"VITOR DUARTE MADEIRA",
+                "p1":"8.10",
+                "p2":"9.20"
+                },{
+            "nome":"YASMIN FROTA MONTEIRO SPANHOL",
+                "p1":"8.00",
+                "p2":"7.00"
+                }],
+        "FILOSOFIA": [{
+            "nome":"ANA CLARA ROMERO SATHLER",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"ANDRE COPOLILLO FARIA",
+                "p1":"5.00",
+                "p2":"9.00"
+                },{
+            "nome":"ANDRE DE PAULA SIMOES",
+                "p1":"4.90",
+                "p2":"9.00"
+                },{
+            "nome":"BEATRIZ LARA SERRANO",
+                "p1":"9.30",
+                "p2":"10.0"
+                },{
+            "nome":"BRUNO AGRIZZI ABAURRE",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"CAIO LOZZER MARTINS",
+                "p1":"8.00",
+                "p2":"8.00"
+                },{
+            "nome":"CLAUDIA FERNANDES MASSARO",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"DANIEL LEMOS PICHAMONE",
+                "p1":"4.30",
+                "p2":"8.00"
+                },{
+            "nome":"DAVI COGO VEREZA REZENDE",
+                "p1":"7.90",
+                "p2":"8.00"
+                },{
+            "nome":"DAVI MENEZES PUPA",
+                "p1":"10.0",
+                "p2":"9.50"
+                },{
+            "nome":"GUILHERME SOARES DE OLIVEIRA",
+                "p1":"8.10",
+                "p2":"9.00"
+                },{
+            "nome":"ISADORA BONALDI VELTEN",
+                "p1":"9.80",
+                "p2":"9.50"
+                },{
+            "nome":"JOAO PEDRO LABRUNE MARTINELLI",
+                "p1":"8.50",
+                "p2":"9.00"
+                },{
+            "nome":"LAURA VARGAS LEGEY",
+                "p1":"9.40",
+                "p2":"10.0"
+                },{
+            "nome":"LORENZO VITORINO",
+                "p1":"8.90",
+                "p2":"9.00"
+                },{
+            "nome":"MARINA BOTELHO RIZZATO",
+                "p1":"8.10",
+                "p2":"9.50"
+                },{
+            "nome":"PAULA CAVALCANTE LEITE PINTO",
+                "p1":"9.20",
+                "p2":"10.0"
+                },{
+            "nome":"PEDRO DE FIGUEIREDO CORTES VAIRO",
+                "p1":"9.80",
+                "p2":"9.50"
+                },{
+            "nome":"PEDRO HENRIQUE COUTINHO VALIATI",
+                "p1":"8.60",
+                "p2":"9.50"
+                },{
+            "nome":"SOPHIA PERPETUO DE MENDONCA BORGES",
+                "p1":"8.80",
+                "p2":"9.50"
+                },{
+            "nome":"THAIS COUTINHO DUARTE LIMA",
+                "p1":"9.60",
+                "p2":"9.00"
+                },{
+            "nome":"VITOR DUARTE MADEIRA",
+                "p1":"8.40",
+                "p2":"9.50"
+                },{
+            "nome":"YASMIN FROTA MONTEIRO SPANHOL",
+                "p1":"7.60",
+                "p2":"9.50"
+                }],
+        "GEOGRAFIA": [{
+            "nome":"ANA CLARA ROMERO SATHLER",
+                "p1":"8.80",
+                "p2":"8.00"
+                },{
+            "nome":"ANDRE COPOLILLO FARIA",
+                "p1":"5.00",
+                "p2":"9.00"
+                },{
+            "nome":"ANDRE DE PAULA SIMOES",
+                "p1":"5.80",
+                "p2":"5.70"
+                },{
+            "nome":"BEATRIZ LARA SERRANO",
+                "p1":"9.00",
+                "p2":"10.0"
+                },{
+            "nome":"BRUNO AGRIZZI ABAURRE",
+                "p1":"9.00",
+                "p2":"10.0"
+                },{
+            "nome":"CAIO LOZZER MARTINS",
+                "p1":"9.10",
+                "p2":"4.00"
+                },{
+            "nome":"CLAUDIA FERNANDES MASSARO",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"DANIEL LEMOS PICHAMONE",
+                "p1":"5.50",
+                "p2":"8.50"
+                },{
+            "nome":"DAVI COGO VEREZA REZENDE",
+                "p1":"5.00",
+                "p2":"6.00"
+                },{
+            "nome":"DAVI MENEZES PUPA",
+                "p1":"9.00",
+                "p2":"8.50"
+                },{
+            "nome":"GUILHERME SOARES DE OLIVEIRA",
+                "p1":"7.10",
+                "p2":"6.00"
+                },{
+            "nome":"ISADORA BONALDI VELTEN",
+                "p1":"9.20",
+                "p2":"10.0"
+                },{
+            "nome":"JOAO PEDRO LABRUNE MARTINELLI",
+                "p1":"6.50",
+                "p2":"6.00"
+                },{
+            "nome":"LAURA VARGAS LEGEY",
+                "p1":"6.10",
+                "p2":"10.0"
+                },{
+            "nome":"LORENZO VITORINO",
+                "p1":"6.20",
+                "p2":"8.50"
+                },{
+            "nome":"MARINA BOTELHO RIZZATO",
+                "p1":"8.00",
+                "p2":"8.50"
+                },{
+            "nome":"PAULA CAVALCANTE LEITE PINTO",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"PEDRO DE FIGUEIREDO CORTES VAIRO",
+                "p1":"10.0",
+                "p2":"6.50"
+                },{
+            "nome":"PEDRO HENRIQUE COUTINHO VALIATI",
+                "p1":"8.50",
+                "p2":"10.0"
+                },{
+            "nome":"SOPHIA PERPETUO DE MENDONCA BORGES",
+                "p1":"8.50",
+                "p2":"5.60"
+                },{
+            "nome":"THAIS COUTINHO DUARTE LIMA",
+                "p1":"10.0",
+                "p2":"9.20"
+                },{
+            "nome":"VITOR DUARTE MADEIRA",
+                "p1":"9.60",
+                "p2":"7.50"
+                },{
+            "nome":"YASMIN FROTA MONTEIRO SPANHOL",
+                "p1":"8.00",
+                "p2":"9.40"
+                }],
+        "HISTORIA": [{
+            "nome":"ANA CLARA ROMERO SATHLER",
+                "p1":"10.0",
+                "p2":"8.80"
+                },{
+            "nome":"ANDRE COPOLILLO FARIA",
+                "p1":"4.50",
+                "p2":"4.30"
+                },{
+            "nome":"ANDRE DE PAULA SIMOES",
+                "p1":"6.10",
+                "p2":"6.40"
+                },{
+            "nome":"BEATRIZ LARA SERRANO",
+                "p1":"9.80",
+                "p2":"8.80"
+                },{
+            "nome":"BRUNO AGRIZZI ABAURRE",
+                "p1":"10.0",
+                "p2":"8.80"
+                },{
+            "nome":"CAIO LOZZER MARTINS",
+                "p1":"8.80",
+                "p2":"3.50"
+                },{
+            "nome":"CLAUDIA FERNANDES MASSARO",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"DANIEL LEMOS PICHAMONE",
+                "p1":"5.50",
+                "p2":"5.50"
+                },{
+            "nome":"DAVI COGO VEREZA REZENDE",
+                "p1":"7.35",
+                "p2":"2.40"
+                },{
+            "nome":"DAVI MENEZES PUPA",
+                "p1":"6.40",
+                "p2":"8.20"
+                },{
+            "nome":"GUILHERME SOARES DE OLIVEIRA",
+                "p1":"9.05",
+                "p2":"6.40"
+                },{
+            "nome":"ISADORA BONALDI VELTEN",
+                "p1":"10.0",
+                "p2":"9.40"
+                },{
+            "nome":"JOAO PEDRO LABRUNE MARTINELLI",
+                "p1":"7.00",
+                "p2":"5.50"
+                },{
+            "nome":"LAURA VARGAS LEGEY",
+                "p1":"8.30",
+                "p2":"5.20"
+                },{
+            "nome":"LORENZO VITORINO",
+                "p1":"9.05",
+                "p2":"6.30"
+                },{
+            "nome":"MARINA BOTELHO RIZZATO",
+                "p1":"10.0",
+                "p2":"7.30"
+                },{
+            "nome":"PAULA CAVALCANTE LEITE PINTO",
+                "p1":"8.50",
+                "p2":"8.30"
+                },{
+            "nome":"PEDRO DE FIGUEIREDO CORTES VAIRO",
+                "p1":"10.0",
+                "p2":"9.00"
+                },{
+            "nome":"PEDRO HENRIQUE COUTINHO VALIATI",
+                "p1":"9.35",
+                "p2":"8.10"
+                },{
+            "nome":"SOPHIA PERPETUO DE MENDONCA BORGES",
+                "p1":"6.85",
+                "p2":"7.80"
+                },{
+            "nome":"THAIS COUTINHO DUARTE LIMA",
+                "p1":"7.00",
+                "p2":"5.20"
+                },{
+            "nome":"VITOR DUARTE MADEIRA",
+                "p1":"8.00",
+                "p2":"6.00"
+                },{
+            "nome":"YASMIN FROTA MONTEIRO SPANHOL",
+                "p1":"6.00",
+                "p2":"3.00"
+                }],
+        "INGLES": [{
+            "nome":"ANA CLARA ROMERO SATHLER",
+                "p1":"8.70",
+                "p2":"9.40"
+                },{
+            "nome":"ANDRE COPOLILLO FARIA",
+                "p1":"5.65",
+                "p2":"6.85"
+                },{
+            "nome":"ANDRE DE PAULA SIMOES",
+                "p1":"2.95",
+                "p2":"6.05"
+                },{
+            "nome":"BEATRIZ LARA SERRANO",
+                "p1":"9.90",
+                "p2":"8.85"
+                },{
+            "nome":"BRUNO AGRIZZI ABAURRE",
+                "p1":"9.10",
+                "p2":"9.80"
+                },{
+            "nome":"CAIO LOZZER MARTINS",
+                "p1":"9.80",
+                "p2":"8.35"
+                },{
+            "nome":"CLAUDIA FERNANDES MASSARO",
+                "p1":"8.30",
+                "p2":"9.30"
+                },{
+            "nome":"DANIEL LEMOS PICHAMONE",
+                "p1":"7.25",
+                "p2":"7.95"
+                },{
+            "nome":"DAVI COGO VEREZA REZENDE",
+                "p1":"9.90",
+                "p2":"7.85"
+                },{
+            "nome":"DAVI MENEZES PUPA",
+                "p1":"10.0",
+                "p2":"9.60"
+                },{
+            "nome":"GUILHERME SOARES DE OLIVEIRA",
+                "p1":"10.0",
+                "p2":"8.75"
+                },{
+            "nome":"ISADORA BONALDI VELTEN",
+                "p1":"10.0",
+                "p2":"8.95"
+                },{
+            "nome":"JOAO PEDRO LABRUNE MARTINELLI",
+                "p1":"9.20",
+                "p2":"7.55"
+                },{
+            "nome":"LAURA VARGAS LEGEY",
+                "p1":"9.95",
+                "p2":"8.80"
+                },{
+            "nome":"LORENZO VITORINO",
+                "p1":"10.0",
+                "p2":"9.35"
+                },{
+            "nome":"MARINA BOTELHO RIZZATO",
+                "p1":"10.0",
+                "p2":"9.60"
+                },{
+            "nome":"PAULA CAVALCANTE LEITE PINTO",
+                "p1":"8.20",
+                "p2":"9.35"
+                },{
+            "nome":"PEDRO DE FIGUEIREDO CORTES VAIRO",
+                "p1":"8.50",
+                "p2":"9.40"
+                },{
+            "nome":"PEDRO HENRIQUE COUTINHO VALIATI",
+                "p1":"8.90",
+                "p2":"8.25"
+                },{
+            "nome":"SOPHIA PERPETUO DE MENDONCA BORGES",
+                "p1":"10.0",
+                "p2":"8.80"
+                },{
+            "nome":"THAIS COUTINHO DUARTE LIMA",
+                "p1":"9.25",
+                "p2":"8.20"
+                },{
+            "nome":"VITOR DUARTE MADEIRA",
+                "p1":"8.90",
+                "p2":"7.80"
+                },{
+            "nome":"YASMIN FROTA MONTEIRO SPANHOL",
+                "p1":"9.60",
+                "p2":"8.45"
+                }],
+        "PORTUGUES": [{
+            "nome":"ANA CLARA ROMERO SATHLER",
+                "p1":"8.50",
+                "p2":"9.20"
+                },{
+            "nome":"ANDRE COPOLILLO FARIA",
+                "p1":"5.35",
+                "p2":"6.00"
+                },{
+            "nome":"ANDRE DE PAULA SIMOES",
+                "p1":"5.50",
+                "p2":"7.00"
+                },{
+            "nome":"BEATRIZ LARA SERRANO",
+                "p1":"8.55",
+                "p2":"7.90"
+                },{
+            "nome":"BRUNO AGRIZZI ABAURRE",
+                "p1":"8.65",
+                "p2":"9.30"
+                },{
+            "nome":"CAIO LOZZER MARTINS",
+                "p1":"5.40",
+                "p2":"5.10"
+                },{
+            "nome":"CLAUDIA FERNANDES MASSARO",
+                "p1":"10.0",
+                "p2":"9.75"
+                },{
+            "nome":"DANIEL LEMOS PICHAMONE",
+                "p1":"5.55",
+                "p2":"6.50"
+                },{
+            "nome":"DAVI COGO VEREZA REZENDE",
+                "p1":"6.75",
+                "p2":"4.30"
+                },{
+            "nome":"DAVI MENEZES PUPA",
+                "p1":"6.75",
+                "p2":"4.30"
+                },{
+            "nome":"GUILHERME SOARES DE OLIVEIRA",
+                "p1":"6.95",
+                "p2":"6.40"
+                },{
+            "nome":"ISADORA BONALDI VELTEN",
+                "p1":"8.35",
+                "p2":"9.15"
+                },{
+            "nome":"JOAO PEDRO LABRUNE MARTINELLI",
+                "p1":"5.50",
+                "p2":"4.50"
+                },{
+            "nome":"LAURA VARGAS LEGEY",
+                "p1":"8.05",
+                "p2":"7.55"
+                },{
+            "nome":"LORENZO VITORINO",
+                "p1":"5.40",
+                "p2":"5.70"
+                },{
+            "nome":"MARINA BOTELHO RIZZATO",
+                "p1":"9.20",
+                "p2":"7.70"
+                },{
+            "nome":"PAULA CAVALCANTE LEITE PINTO",
+                "p1":"9.20",
+                "p2":"8.80"
+                },{
+            "nome":"PEDRO DE FIGUEIREDO CORTES VAIRO",
+                "p1":"7.90",
+                "p2":"7.35"
+                },{
+            "nome":"PEDRO HENRIQUE COUTINHO VALIATI",
+                "p1":"8.50",
+                "p2":"8.30"
+                },{
+            "nome":"SOPHIA PERPETUO DE MENDONCA BORGES",
+                "p1":"7.65",
+                "p2":"6.05"
+                },{
+            "nome":"THAIS COUTINHO DUARTE LIMA",
+                "p1":"5.20",
+                "p2":"7.60"
+                },{
+            "nome":"VITOR DUARTE MADEIRA",
+                "p1":"8.25",
+                "p2":"7.00"
+                },{
+            "nome":"YASMIN FROTA MONTEIRO SPANHOL",
+                "p1":"5.30",
+                "p2":"6.00"
+                }],
+        "MATEMATICA": [{
+            "nome":"ANA CLARA ROMERO SATHLER",
+                "p1":"8.90",
+                "p2":"9.60"
+                },{
+            "nome":"ANDRE COPOLILLO FARIA",
+                "p1":"2.75",
+                "p2":"6.55"
+                },{
+            "nome":"ANDRE DE PAULA SIMOES",
+                "p1":"4.40",
+                "p2":"8.50"
+                },{
+            "nome":"BEATRIZ LARA SERRANO",
+                "p1":"9.00",
+                "p2":"8.30"
+                },{
+            "nome":"BRUNO AGRIZZI ABAURRE",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"CAIO LOZZER MARTINS",
+                "p1":"8.90",
+                "p2":"8.70"
+                },{
+            "nome":"CLAUDIA FERNANDES MASSARO",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"DANIEL LEMOS PICHAMONE",
+                "p1":"3.65",
+                "p2":"6.05"
+                },{
+            "nome":"DAVI COGO VEREZA REZENDE",
+                "p1":"5.10",
+                "p2":"4.80"
+                },{
+            "nome":"DAVI MENEZES PUPA",
+                "p1":"7.95",
+                "p2":"10.0"
+                },{
+            "nome":"GUILHERME SOARES DE OLIVEIRA",
+                "p1":"6.90",
+                "p2":"8.80"
+                },{
+            "nome":"ISADORA BONALDI VELTEN",
+                "p1":"7.95",
+                "p2":"10.0"
+                },{
+            "nome":"JOAO PEDRO LABRUNE MARTINELLI",
+                "p1":"5.10",
+                "p2":"6.35"
+                },{
+            "nome":"LAURA VARGAS LEGEY",
+                "p1":"6.45",
+                "p2":"8.10"
+                },{
+            "nome":"LORENZO VITORINO",
+                "p1":"8.30",
+                "p2":"7.80"
+                },{
+            "nome":"MARINA BOTELHO RIZZATO",
+                "p1":"8.75",
+                "p2":"9.70"
+                },{
+            "nome":"PAULA CAVALCANTE LEITE PINTO",
+                "p1":"8.90",
+                "p2":"9.40"
+                },{
+            "nome":"PEDRO DE FIGUEIREDO CORTES VAIRO",
+                "p1":"8.50",
+                "p2":"6.40"
+                },{
+            "nome":"PEDRO HENRIQUE COUTINHO VALIATI",
+                "p1":"8.50",
+                "p2":"9.50"
+                },{
+            "nome":"SOPHIA PERPETUO DE MENDONCA BORGES",
+                "p1":"4.85",
+                "p2":"4.00"
+                },{
+            "nome":"THAIS COUTINHO DUARTE LIMA",
+                "p1":"6.45",
+                "p2":"8.30"
+                },{
+            "nome":"VITOR DUARTE MADEIRA",
+                "p1":"9.30",
+                "p2":"7.60"
+                },{
+            "nome":"YASMIN FROTA MONTEIRO SPANHOL",
+                "p1":"4.85",
+                "p2":"5.10"
+                }]
+        }],
+    "6BM": [{
+        "ARTES": [{
+            "nome":"ANA ELISA TEIXEIRA MOTTA PIGNATON",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"ANA VITORIA CORREA MAYER",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"ANNE MELLO SVACINA",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"ARTHUR REIS E SILVA PANTALIAO",
+                "p1":"9.00",
+                "p2":"10.0"
+                },{
+            "nome":"CAIO CALIMAN VASCONCELOS",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"CAIO DE FREITAS DAS NEVES",
+                "p1":"9.00",
+                "p2":"9.00"
+                },{
+            "nome":"CAIO ZANOTTI LIMA",
+                "p1":"9.00",
+                "p2":"9.00"
+                },{
+            "nome":"CAUA MAGNO DE ALMEIDA",
+                "p1":"10.0",
+                "p2":"9.00"
+                },{
+            "nome":"CECILIA PRETTI GOMES",
+                "p1":"10.0",
+                "p2":"9.00"
+                },{
+            "nome":"DAVI GOMES MARANDI",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"DIOGO KOCK LENG VENADE DA COSTA",
+                "p1":"10.0",
+                "p2":"9.00"
+                },{
+            "nome":"EDOARDO PATRIGNANI",
+                "p1":"10.0",
+                "p2":"9.00"
+                },{
+            "nome":"ENRICO OLIVEIRA MIGNONE CHEIBUB",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"GABRIEL CHAGAS TAPIA",
+                "p1":"9.00",
+                "p2":"10.0"
+                },{
+            "nome":"HELENA AYMEE PERUCH RODRIGUES",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"ISABELA DOS SANTOS FREITAS",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"LARA YUMI PESSOA WENICHI",
+                "p1":"10.0",
+                "p2":"9.00"
+                },{
+            "nome":"MARIA DA CUNHA MELO TOLENTINO",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"MARINA COLA DADALTO",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"MATEUS PIMENTEL MARTINS ARRUDA",
+                "p1":"9.00",
+                "p2":"9.00"
+                },{
+            "nome":"PEDRO MIGNONE DE PAULA",
+                "p1":"9.00",
+                "p2":"9.00"
+                },{
+            "nome":"TOMAS KOCK MOON FELICIO DA COSTA",
+                "p1":"10.0",
+                "p2":"9.00"
+                }],
+        "CIENCIAS": [{
+            "nome":"ANA ELISA TEIXEIRA MOTTA PIGNATON",
+                "p1":"9.80",
+                "p2":"9.30"
+                },{
+            "nome":"ANA VITORIA CORREA MAYER",
+                "p1":"4.70",
+                "p2":"8.90"
+                },{
+            "nome":"ANNE MELLO SVACINA",
+                "p1":"8.60",
+                "p2":"6.30"
+                },{
+            "nome":"ARTHUR REIS E SILVA PANTALIAO",
+                "p1":"9.00",
+                "p2":"9.80"
+                },{
+            "nome":"CAIO CALIMAN VASCONCELOS",
+                "p1":"7.50",
+                "p2":"8.40"
+                },{
+            "nome":"CAIO DE FREITAS DAS NEVES",
+                "p1":"7.70",
+                "p2":"9.30"
+                },{
+            "nome":"CAIO ZANOTTI LIMA",
+                "p1":"7.60",
+                "p2":"5.10"
+                },{
+            "nome":"CAUA MAGNO DE ALMEIDA",
+                "p1":"8.70",
+                "p2":"8.30"
+                },{
+            "nome":"CECILIA PRETTI GOMES",
+                "p1":"6.10",
+                "p2":"7.30"
+                },{
+            "nome":"DAVI GOMES MARANDI",
+                "p1":"7.00",
+                "p2":"8.50"
+                },{
+            "nome":"DIOGO KOCK LENG VENADE DA COSTA",
+                "p1":"8.10",
+                "p2":"9.40"
+                },{
+            "nome":"EDOARDO PATRIGNANI",
+                "p1":"9.00",
+                "p2":"9.40"
+                },{
+            "nome":"ENRICO OLIVEIRA MIGNONE CHEIBUB",
+                "p1":"9.00",
+                "p2":"8.80"
+                },{
+            "nome":"GABRIEL CHAGAS TAPIA",
+                "p1":"6.20",
+                "p2":"6.30"
+                },{
+            "nome":"HELENA AYMEE PERUCH RODRIGUES",
+                "p1":"9.40",
+                "p2":"10.0"
+                },{
+            "nome":"ISABELA DOS SANTOS FREITAS",
+                "p1":"9.30",
+                "p2":"8.80"
+                },{
+            "nome":"LARA YUMI PESSOA WENICHI",
+                "p1":"6.20",
+                "p2":"6.90"
+                },{
+            "nome":"MARIA DA CUNHA MELO TOLENTINO",
+                "p1":"4.70",
+                "p2":"7.80"
+                },{
+            "nome":"MARINA COLA DADALTO",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"MATEUS PIMENTEL MARTINS ARRUDA",
+                "p1":"5.50",
+                "p2":"6.20"
+                },{
+            "nome":"PEDRO MIGNONE DE PAULA",
+                "p1":"6.30",
+                "p2":"8.00"
+                },{
+            "nome":"TOMAS KOCK MOON FELICIO DA COSTA",
+                "p1":"9.60",
+                "p2":"8.60"
+                }],
+        "EDUCACAO FISICA": [{
+            "nome":"ANA ELISA TEIXEIRA MOTTA PIGNATON",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"ANA VITORIA CORREA MAYER",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"ANNE MELLO SVACINA",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"ARTHUR REIS E SILVA PANTALIAO",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"CAIO CALIMAN VASCONCELOS",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"CAIO DE FREITAS DAS NEVES",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"CAIO ZANOTTI LIMA",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"CAUA MAGNO DE ALMEIDA",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"CECILIA PRETTI GOMES",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"DAVI GOMES MARANDI",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"DIOGO KOCK LENG VENADE DA COSTA",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"EDOARDO PATRIGNANI",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"ENRICO OLIVEIRA MIGNONE CHEIBUB",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"GABRIEL CHAGAS TAPIA",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"HELENA AYMEE PERUCH RODRIGUES",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"ISABELA DOS SANTOS FREITAS",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"LARA YUMI PESSOA WENICHI",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"MARIA DA CUNHA MELO TOLENTINO",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"MARINA COLA DADALTO",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"MATEUS PIMENTEL MARTINS ARRUDA",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"PEDRO MIGNONE DE PAULA",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"TOMAS KOCK MOON FELICIO DA COSTA",
+                "p1":"10.0",
+                "p2":"10.0"
+                }],
+        "ESPANHOL": [{
+            "nome":"ANA ELISA TEIXEIRA MOTTA PIGNATON",
+                "p1":"9.00",
+                "p2":"9.00"
+                },{
+            "nome":"ANA VITORIA CORREA MAYER",
+                "p1":"6.20",
+                "p2":"8.50"
+                },{
+            "nome":"ANNE MELLO SVACINA",
+                "p1":"7.00",
+                "p2":"7.00"
+                },{
+            "nome":"ARTHUR REIS E SILVA PANTALIAO",
+                "p1":"9.00",
+                "p2":"9.20"
+                },{
+            "nome":"CAIO CALIMAN VASCONCELOS",
+                "p1":"7.70",
+                "p2":"4.70"
+                },{
+            "nome":"CAIO DE FREITAS DAS NEVES",
+                "p1":"7.50",
+                "p2":"7.50"
+                },{
+            "nome":"CAIO ZANOTTI LIMA",
+                "p1":"6.0",
+                "p2":"6.0"
+                },{
+            "nome":"CAUA MAGNO DE ALMEIDA",
+                "p1":"9.50",
+                "p2":"9.10"
+                },{
+            "nome":"CECILIA PRETTI GOMES",
+                "p1":"8.60",
+                "p2":"8.70"
+                },{
+            "nome":"DAVI GOMES MARANDI",
+                "p1":"9.50",
+                "p2":"7.50"
+                },{
+            "nome":"DIOGO KOCK LENG VENADE DA COSTA",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"EDOARDO PATRIGNANI",
+                "p1":"7.70",
+                "p2":"8.50"
+                },{
+            "nome":"ENRICO OLIVEIRA MIGNONE CHEIBUB",
+                "p1":"7.50",
+                "p2":"9.50"
+                },{
+            "nome":"GABRIEL CHAGAS TAPIA",
+                "p1":"8.0",
+                "p2":"6.70"
+                },{
+            "nome":"HELENA AYMEE PERUCH RODRIGUES",
+                "p1":"9.70",
+                "p2":"10.0"
+                },{
+            "nome":"ISABELA DOS SANTOS FREITAS",
+                "p1":"9.50",
+                "p2":"9.0"
+                },{
+            "nome":"LARA YUMI PESSOA WENICHI",
+                "p1":"8.10",
+                "p2":"8.70"
+                },{
+            "nome":"MARIA DA CUNHA MELO TOLENTINO",
+                "p1":"8.10",
+                "p2":"8.50"
+                },{
+            "nome":"MARINA COLA DADALTO",
+                "p1":"9.50",
+                "p2":"10.0"
+                },{
+            "nome":"MATEUS PIMENTEL MARTINS ARRUDA",
+                "p1":"7.60",
+                "p2":"9.0"
+                },{
+            "nome":"PEDRO MIGNONE DE PAULA",
+                "p1":"7.50",
+                "p2":"6.70"
+                },{
+            "nome":"TOMAS KOCK MOON FELICIO DA COSTA",
+                "p1":"8.60",
+                "p2":"9.0"
+                }],
+        "FILOSOFIA": [{
+            "nome":"ANA ELISA TEIXEIRA MOTTA PIGNATON",
+                "p1":"9.40",
+                "p2":"9.50"
+                },{
+            "nome":"ANA VITORIA CORREA MAYER",
+                "p1":"9.70",
+                "p2":"9.0"
+                },{
+            "nome":"ANNE MELLO SVACINA",
+                "p1":"8.80",
+                "p2":"9.50"
+                },{
+            "nome":"ARTHUR REIS E SILVA PANTALIAO",
+                "p1":"7.60",
+                "p2":"10.0"
+                },{
+            "nome":"CAIO CALIMAN VASCONCELOS",
+                "p1":"9.10",
+                "p2":"9.0"
+                },{
+            "nome":"CAIO DE FREITAS DAS NEVES",
+                "p1":"7.60",
+                "p2":"9.0"
+                },{
+            "nome":"CAIO ZANOTTI LIMA",
+                "p1":"9.10",
+                "p2":"9.0"
+                },{
+            "nome":"CAUA MAGNO DE ALMEIDA",
+                "p1":"8.40",
+                "p2":"9.0"
+                },{
+            "nome":"CECILIA PRETTI GOMES",
+                "p1":"9.80",
+                "p2":"9.50"
+                },{
+            "nome":"DAVI GOMES MARANDI",
+                "p1":"9.50",
+                "p2":"9.0"
+                },{
+            "nome":"DIOGO KOCK LENG VENADE DA COSTA",
+                "p1":"8.10",
+                "p2":"9.50"
+                },{
+            "nome":"EDOARDO PATRIGNANI",
+                "p1":"10.0",
+                "p2":"9.50"
+                },{
+            "nome":"ENRICO OLIVEIRA MIGNONE CHEIBUB",
+                "p1":"9.30",
+                "p2":"9.0"
+                },{
+            "nome":"GABRIEL CHAGAS TAPIA",
+                "p1":"8.80",
+                "p2":"9.50"
+                },{
+            "nome":"HELENA AYMEE PERUCH RODRIGUES",
+                "p1":"9.50",
+                "p2":"10.0"
+                },{
+            "nome":"ISABELA DOS SANTOS FREITAS",
+                "p1":"9.60",
+                "p2":"10.0"
+                },{
+            "nome":"LARA YUMI PESSOA WENICHI",
+                "p1":"8.90",
+                "p2":"9.50"
+                },{
+            "nome":"MARIA DA CUNHA MELO TOLENTINO",
+                "p1":"8.50",
+                "p2":"10.0"
+                },{
+            "nome":"MARINA COLA DADALTO",
+                "p1":"8.50",
+                "p2":"10.0"
+                },{
+            "nome":"MATEUS PIMENTEL MARTINS ARRUDA",
+                "p1":"7.70",
+                "p2":"8.0"
+                },{
+            "nome":"PEDRO MIGNONE DE PAULA",
+                "p1":"7.50",
+                "p2":"9.50"
+                },{
+            "nome":"TOMAS KOCK MOON FELICIO DA COSTA",
+                "p1":"10.0",
+                "p2":"10.0"
+                }],
+        "GEOGRAFIA": [{
+            "nome":"ANA ELISA TEIXEIRA MOTTA PIGNATON",
+                "p1":"8.50",
+                "p2":"8.30"
+                },{
+            "nome":"ANA VITORIA CORREA MAYER",
+                "p1":"9.0",
+                "p2":"6.50"
+                },{
+            "nome":"ANNE MELLO SVACINA",
+                "p1":"9.50",
+                "p2":"7.0"
+                },{
+            "nome":"ARTHUR REIS E SILVA PANTALIAO",
+                "p1":"9.50",
+                "p2":"9.50"
+                },{
+            "nome":"CAIO CALIMAN VASCONCELOS",
+                "p1":"7.40",
+                "p2":"8.20"
+                },{
+            "nome":"CAIO DE FREITAS DAS NEVES",
+                "p1":"10.0",
+                "p2":"9.0"
+                },{
+            "nome":"CAIO ZANOTTI LIMA",
+                "p1":"6.0",
+                "p2":"4.50"
+                },{
+            "nome":"CAUA MAGNO DE ALMEIDA",
+                "p1":"9.0",
+                "p2":"7.50"
+                },{
+            "nome":"CECILIA PRETTI GOMES",
+                "p1":"9.50",
+                "p2":"8.0"
+                },{
+            "nome":"DAVI GOMES MARANDI",
+                "p1":"6.0",
+                "p2":"10.0"
+                },{
+            "nome":"DIOGO KOCK LENG VENADE DA COSTA",
+                "p1":"10.0",
+                "p2":"9.60"
+                },{
+            "nome":"EDOARDO PATRIGNANI",
+                "p1":"10.0",
+                "p2":"8.0"
+                },{
+            "nome":"ENRICO OLIVEIRA MIGNONE CHEIBUB",
+                "p1":"8.50",
+                "p2":"9.30"
+                },{
+            "nome":"GABRIEL CHAGAS TAPIA",
+                "p1":"8.0",
+                "p2":"5.30"
+                },{
+            "nome":"HELENA AYMEE PERUCH RODRIGUES",
+                "p1":"9.50",
+                "p2":"9.50"
+                },{
+            "nome":"ISABELA DOS SANTOS FREITAS",
+                "p1":"9.50",
+                "p2":"10.0"
+                },{
+            "nome":"LARA YUMI PESSOA WENICHI",
+                "p1":"7.0",
+                "p2":"4.0"
+                },{
+            "nome":"MARIA DA CUNHA MELO TOLENTINO",
+                "p1":"9.60",
+                "p2":"8.20"
+                },{
+            "nome":"MARINA COLA DADALTO",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"MATEUS PIMENTEL MARTINS ARRUDA",
+                "p1":"7.60",
+                "p2":"6.0"
+                },{
+            "nome":"PEDRO MIGNONE DE PAULA",
+                "p1":"7.20",
+                "p2":"6.50"
+                },{
+            "nome":"TOMAS KOCK MOON FELICIO DA COSTA",
+                "p1":"9.0",
+                "p2":"9.50"
+                }],
+        "HISTORIA": [{
+            "nome":"ANA ELISA TEIXEIRA MOTTA PIGNATON",
+                "p1":"9.50",
+                "p2":"9.60"
+                },{
+            "nome":"ANA VITORIA CORREA MAYER",
+                "p1":"6.15",
+                "p2":"7.50"
+                },{
+            "nome":"ANNE MELLO SVACINA",
+                "p1":"9.20",
+                "p2":"7.0"
+                },{
+            "nome":"ARTHUR REIS E SILVA PANTALIAO",
+                "p1":"10.0",
+                "p2":"9.0"
+                },{
+            "nome":"CAIO CALIMAN VASCONCELOS",
+                "p1":"8.50",
+                "p2":"9.0"
+                },{
+            "nome":"CAIO DE FREITAS DAS NEVES",
+                "p1":"8.65",
+                "p2":"8.80"
+                },{
+            "nome":"CAIO ZANOTTI LIMA",
+                "p1":"6.50",
+                "p2":"6.0"
+                },{
+            "nome":"CAUA MAGNO DE ALMEIDA",
+                "p1":"8.65",
+                "p2":"8.40"
+                },{
+            "nome":"CECILIA PRETTI GOMES",
+                "p1":"9.0",
+                "p2":"7.50"
+                },{
+            "nome":"DAVI GOMES MARANDI",
+                "p1":"6.60",
+                "p2":"7.0"
+                },{
+            "nome":"DIOGO KOCK LENG VENADE DA COSTA",
+                "p1":"9.40",
+                "p2":"8.20"
+                },{
+            "nome":"EDOARDO PATRIGNANI",
+                "p1":"8.70",
+                "p2":"7.50"
+                },{
+            "nome":"ENRICO OLIVEIRA MIGNONE CHEIBUB",
+                "p1":"10.0",
+                "p2":"9.10"
+                },{
+            "nome":"GABRIEL CHAGAS TAPIA",
+                "p1":"7.50",
+                "p2":"7.70"
+                },{
+            "nome":"HELENA AYMEE PERUCH RODRIGUES",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"ISABELA DOS SANTOS FREITAS",
+                "p1":"10.0",
+                "p2":"9.60"
+                },{
+            "nome":"LARA YUMI PESSOA WENICHI",
+                "p1":"9.20",
+                "p2":"7.20"
+                },{
+            "nome":"MARIA DA CUNHA MELO TOLENTINO",
+                "p1":"8.50",
+                "p2":"7.90"
+                },{
+            "nome":"MARINA COLA DADALTO",
+                "p1":"10.0",
+                "p2":"9.80"
+                },{
+            "nome":"MATEUS PIMENTEL MARTINS ARRUDA",
+                "p1":"7.75",
+                "p2":"4.40"
+                },{
+            "nome":"PEDRO MIGNONE DE PAULA",
+                "p1":"6.80",
+                "p2":"7.60"
+                },{
+            "nome":"TOMAS KOCK MOON FELICIO DA COSTA",
+                "p1":"8.40",
+                "p2":"8.60"
+                }],
+        "INGLES": [{
+            "nome":"ANA ELISA TEIXEIRA MOTTA PIGNATON",
+                "p1":"9.80",
+                "p2":"9.50"
+                },{
+            "nome":"ANA VITORIA CORREA MAYER",
+                "p1":"9.50",
+                "p2":"7.55"
+                },{
+            "nome":"ANNE MELLO SVACINA",
+                "p1":"10.0",
+                "p2":"8.75"
+                },{
+            "nome":"ARTHUR REIS E SILVA PANTALIAO",
+                "p1":"8.60",
+                "p2":"9.80"
+                },{
+            "nome":"CAIO CALIMAN VASCONCELOS",
+                "p1":"8.50",
+                "p2":"7.45"
+                },{
+            "nome":"CAIO DE FREITAS DAS NEVES",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"CAIO ZANOTTI LIMA",
+                "p1":"9.20",
+                "p2":"8.75"
+                },{
+            "nome":"CAUA MAGNO DE ALMEIDA",
+                "p1":"6.50",
+                "p2":"6.93"
+                },{
+            "nome":"CECILIA PRETTI GOMES",
+                "p1":"8.0",
+                "p2":"8.25"
+                },{
+            "nome":"DAVI GOMES MARANDI",
+                "p1":"6.0",
+                "p2":"6.0"
+                },{
+            "nome":"DIOGO KOCK LENG VENADE DA COSTA",
+                "p1":"8.80",
+                "p2":"8.0"
+                },{
+            "nome":"EDOARDO PATRIGNANI",
+                "p1":"8.70",
+                "p2":"8.15"
+                },{
+            "nome":"ENRICO OLIVEIRA MIGNONE CHEIBUB",
+                "p1":"9.40",
+                "p2":"9.70"
+                },{
+            "nome":"GABRIEL CHAGAS TAPIA",
+                "p1":"6.95",
+                "p2":"8.95"
+                },{
+            "nome":"HELENA AYMEE PERUCH RODRIGUES",
+                "p1":"9.60",
+                "p2":"10.0"
+                },{
+            "nome":"ISABELA DOS SANTOS FREITAS",
+                "p1":"10.0",
+                "p2":"9.60"
+                },{
+            "nome":"LARA YUMI PESSOA WENICHI",
+                "p1":"7.50",
+                "p2":"7.25"
+                },{
+            "nome":"MARIA DA CUNHA MELO TOLENTINO",
+                "p1":"10.0",
+                "p2":"9.0"
+                },{
+            "nome":"MARINA COLA DADALTO",
+                "p1":"9.40",
+                "p2":"10.0"
+                },{
+            "nome":"MATEUS PIMENTEL MARTINS ARRUDA",
+                "p1":"9.80",
+                "p2":"8.80"
+                },{
+            "nome":"PEDRO MIGNONE DE PAULA",
+                "p1":"9.90",
+                "p2":"8.15"
+                },{
+            "nome":"TOMAS KOCK MOON FELICIO DA COSTA",
+                "p1":"9.20",
+                "p2":"9.50"
+                }],
+        "PORTUGUES": [{
+            "nome":"ANA ELISA TEIXEIRA MOTTA PIGNATON",
+                "p1":"8.25",
+                "p2":"8.70"
+                },{
+            "nome":"ANA VITORIA CORREA MAYER",
+                "p1":"7.80",
+                "p2":"8.45"
+                },{
+            "nome":"ANNE MELLO SVACINA",
+                "p1":"7.10",
+                "p2":"6.60"
+                },{
+            "nome":"ARTHUR REIS E SILVA PANTALIAO",
+                "p1":"8.65",
+                "p2":"8.85"
+                },{
+            "nome":"CAIO CALIMAN VASCONCELOS",
+                "p1":"6.0",
+                "p2":"4.30"
+                },{
+            "nome":"CAIO DE FREITAS DAS NEVES",
+                "p1":"7.50",
+                "p2":"8.95"
+                },{
+            "nome":"CAIO ZANOTTI LIMA",
+                "p1":"6.80",
+                "p2":"6.35"
+                },{
+            "nome":"CAUA MAGNO DE ALMEIDA",
+                "p1":"4.50",
+                "p2":"7.60"
+                },{
+            "nome":"CECILIA PRETTI GOMES",
+                "p1":"7.60",
+                "p2":"8.95"
+                },{
+            "nome":"DAVI GOMES MARANDI",
+                "p1":"6.0",
+                "p2":"6.0"
+                },{
+            "nome":"DIOGO KOCK LENG VENADE DA COSTA",
+                "p1":"9.10",
+                "p2":"8.85"
+                },{
+            "nome":"EDOARDO PATRIGNANI",
+                "p1":"6.40",
+                "p2":"8.75"
+                },{
+            "nome":"ENRICO OLIVEIRA MIGNONE CHEIBUB",
+                "p1":"6.70",
+                "p2":"6.35"
+                },{
+            "nome":"GABRIEL CHAGAS TAPIA",
+                "p1":"7.60",
+                "p2":"7.15"
+                },{
+            "nome":"HELENA AYMEE PERUCH RODRIGUES",
+                "p1":"9.90",
+                "p2":"9.70"
+                },{
+            "nome":"ISABELA DOS SANTOS FREITAS",
+                "p1":"8.65",
+                "p2":"9.30"
+                },{
+            "nome":"LARA YUMI PESSOA WENICHI",
+                "p1":"8.15",
+                "p2":"8.20"
+                },{
+            "nome":"MARIA DA CUNHA MELO TOLENTINO",
+                "p1":"7.30",
+                "p2":"8.20"
+                },{
+            "nome":"MARINA COLA DADALTO",
+                "p1":"9.35",
+                "p2":"9.30"
+                },{
+            "nome":"MATEUS PIMENTEL MARTINS ARRUDA",
+                "p1":"3.05",
+                "p2":"5.80"
+                },{
+            "nome":"PEDRO MIGNONE DE PAULA",
+                "p1":"5.35",
+                "p2":"4.60"
+                },{
+            "nome":"TOMAS KOCK MOON FELICIO DA COSTA",
+                "p1":"9.0",
+                "p2":"8.95"
+                }],
+        "MATEMATICA": [{
+            "nome":"ANA ELISA TEIXEIRA MOTTA PIGNATON",
+                "p1":"9.70",
+                "p2":"9.50"
+                },{
+            "nome":"ANA VITORIA CORREA MAYER",
+                "p1":"7.75",
+                "p2":"9.10"
+                },{
+            "nome":"ANNE MELLO SVACINA",
+                "p1":"5.10",
+                "p2":"6.30"
+                },{
+            "nome":"ARTHUR REIS E SILVA PANTALIAO",
+                "p1":"9.90",
+                "p2":"9.30"
+                },{
+            "nome":"CAIO CALIMAN VASCONCELOS",
+                "p1":"8.20",
+                "p2":"9.0"
+                },{
+            "nome":"CAIO DE FREITAS DAS NEVES",
+                "p1":"5.85",
+                "p2":"8.30"
+                },{
+            "nome":"CAIO ZANOTTI LIMA",
+                "p1":"4.95",
+                "p2":"5.40"
+                },{
+            "nome":"CAUA MAGNO DE ALMEIDA",
+                "p1":"5.95",
+                "p2":"8.70"
+                },{
+            "nome":"CECILIA PRETTI GOMES",
+                "p1":"6.15",
+                "p2":"7.80"
+                },{
+            "nome":"DAVI GOMES MARANDI",
+                "p1":"9.0",
+                "p2":"10.0"
+                },{
+            "nome":"DIOGO KOCK LENG VENADE DA COSTA",
+                "p1":"9.50",
+                "p2":"9.80"
+                },{
+            "nome":"EDOARDO PATRIGNANI",
+                "p1":"8.20",
+                "p2":"8.80"
+                },{
+            "nome":"ENRICO OLIVEIRA MIGNONE CHEIBUB",
+                "p1":"9.45",
+                "p2":"7.70"
+                },{
+            "nome":"GABRIEL CHAGAS TAPIA",
+                "p1":"5.15",
+                "p2":"6.75"
+                },{
+            "nome":"HELENA AYMEE PERUCH RODRIGUES",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"ISABELA DOS SANTOS FREITAS",
+                "p1":"9.90",
+                "p2":"9.30"
+                },{
+            "nome":"LARA YUMI PESSOA WENICHI",
+                "p1":"7.50",
+                "p2":"8.30"
+                },{
+            "nome":"MARIA DA CUNHA MELO TOLENTINO",
+                "p1":"5.0",
+                "p2":"7.50"
+                },{
+            "nome":"MARINA COLA DADALTO",
+                "p1":"9.90",
+                "p2":"9.70"
+                },{
+            "nome":"MATEUS PIMENTEL MARTINS ARRUDA",
+                "p1":"6.60",
+                "p2":"10.0"
+                },{
+            "nome":"PEDRO MIGNONE DE PAULA",
+                "p1":"5.20",
+                "p2":"5.20"
+                },{
+            "nome":"TOMAS KOCK MOON FELICIO DA COSTA",
+                "p1":"8.30",
+                "p2":"10.0"
+                }]
+        }],
+    "8AM": [{
+        "ARTES": [{
+            "nome":"ANA ELISA SILVA SOUZA",
+                "p1":"5.50",
+                "p2":"5.0"
+                },{
+            "nome":"ANA PAULA RODRIGUES SOARES",
+                "p1":"8.0",
+                "p2":"8.0"
+                },{
+            "nome":"ARTHUR BUENO FERRACO",
+                "p1":"8.5",
+                "p2":"7.80"
+                },{
+            "nome":"ARTHUR HORSTS MEDEIROS",
+                "p1":"6.0",
+                "p2":"6.0"
+                },{
+            "nome":"GABRIEL SAIANI",
+                "p1":"6.0",
+                "p2":"6.0"
+                },{
+            "nome":"JOAO PEDRO MAIA DUTRA",
+                "p1":"8.0",
+                "p2":"8.50"
+                },{
+            "nome":"LARISSA SALAZAR DE PAULA",
+                "p1":"8.50",
+                "p2":"8.50"
+                },{
+            "nome":"LUCAS CASTELLO GRANDI RIBEIRO",
+                "p1":"8.50",
+                "p2":"9.0"
+                },{
+            "nome":"LUCAS DOS SANTOS FREITAS",
+                "p1":"8.50",
+                "p2":"9.0"
+                },{
+            "nome":"LUCAS GOMES MORANDI",
+                "p1":"8.0",
+                "p2":"8.0"
+                },{
+            "nome":"LUCAS LAKTIM ROSA",
+                "p1":"8.0",
+                "p2":"8.0"
+                },{
+            "nome":"MARIA JULIA MIGNOE DE PAULA",
+                "p1":"7.0",
+                "p2":"7.0"
+                },{
+            "nome":"NATAN DA COSTA CASEIRA",
+                "p1":"7.0",
+                "p2":"7.0"
+                },{
+            "nome":"PEDRO DE MELO PAGOTTO",
+                "p1":"8.50",
+                "p2":"9.0"
+                },{
+            "nome":"PEDRO FERRACO FITTIPALDI",
+                "p1":"7.0",
+                "p2":"8.0"
+                },{
+            "nome":"PEDRO SONEGHET PIMENTA",
+                "p1":"8.0",
+                "p2":"8.50"
+                },{
+            "nome":"SOPHIA SEIXAS MELHEM",
+                "p1":"8.0",
+                "p2":"8.0"
+                },{
+            "nome":"ULISSES TAVARES DE CASTRO",
+                "p1":"9.0",
+                "p2":"9.0"
+                },{
+            "nome":"WILLIAM BAHIENSE BRANDAO",
+                "p1":"9.0",
+                "p2":"9.0"
+                }],
+        "CIENCIAS": [{
+            "nome":"ANA ELISA SILVA SOUZA",
+                "p1":"5.10",
+                "p2":"4.80"
+                },{
+            "nome":"ANA PAULA RODRIGUES SOARES",
+                "p1":"8.30",
+                "p2":"9.0"
+                },{
+            "nome":"ARTHUR BUENO FERRACO",
+                "p1":"8.50",
+                "p2":"9.50"
+                },{
+            "nome":"ARTHUR HORSTS MEDEIROS",
+                "p1":"4.30",
+                "p2":"5.10"
+                },{
+            "nome":"GABRIEL SAIANI",
+                "p1":"3.30",
+                "p2":"5.10"
+                },{
+            "nome":"JOAO PEDRO MAIA DUTRA",
+                "p1":"8.10",
+                "p2":"8.0"
+                },{
+            "nome":"LARISSA SALAZAR DE PAULA",
+                "p1":"7.0",
+                "p2":"5.0"
+                },{
+            "nome":"LUCAS CASTELLO GRANDI RIBEIRO",
+                "p1":"8.80",
+                "p2":"8.40"
+                },{
+            "nome":"LUCAS DOS SANTOS FREITAS",
+                "p1":"9.30",
+                "p2":"9.20"
+                },{
+            "nome":"LUCAS GOMES MORANDI",
+                "p1":"4.30",
+                "p2":"7.50"
+                },{
+            "nome":"LUCAS LAKTIM ROSA",
+                "p1":"5.20",
+                "p2":"7.0"
+                },{
+            "nome":"MARIA JULIA MIGNOE DE PAULA",
+                "p1":"7.0",
+                "p2":"6.0"
+                },{
+            "nome":"NATAN DA COSTA CASEIRA",
+                "p1":"7.60",
+                "p2":"5.30"
+                },{
+            "nome":"PEDRO DE MELO PAGOTTO",
+                "p1":"9.30",
+                "p2":"9.0"
+                },{
+            "nome":"PEDRO FERRACO FITTIPALDI",
+                "p1":"7.0",
+                "p2":"7.20"
+                },{
+            "nome":"PEDRO SONEGHET PIMENTA",
+                "p1":"7.0",
+                "p2":"7.20"
+                },{
+            "nome":"SOPHIA SEIXAS MELHEM",
+                "p1":"6.80",
+                "p2":"9.10"
+                },{
+            "nome":"ULISSES TAVARES DE CASTRO",
+                "p1":"7.80",
+                "p2":"9.50"
+                },{
+            "nome":"WILLIAM BAHIENSE BRANDAO",
+                "p1":"5.80",
+                "p2":"5.0"
+                }],
+        "EDUCACAO FISICA": [{
+            "nome":"ANA ELISA SILVA SOUZA",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"ANA PAULA RODRIGUES SOARES",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"ARTHUR BUENO FERRACO",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"ARTHUR HORSTS MEDEIROS",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"GABRIEL SAIANI",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"JOAO PEDRO MAIA DUTRA",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"LARISSA SALAZAR DE PAULA",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"LUCAS CASTELLO GRANDI RIBEIRO",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"LUCAS DOS SANTOS FREITAS",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"LUCAS GOMES MORANDI",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"LUCAS LAKTIM ROSA",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"MARIA JULIA MIGNOE DE PAULA",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"NATAN DA COSTA CASEIRA",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"PEDRO DE MELO PAGOTTO",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"PEDRO FERRACO FITTIPALDI",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"PEDRO SONEGHET PIMENTA",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"SOPHIA SEIXAS MELHEM",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"ULISSES TAVARES DE CASTRO",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"WILLIAM BAHIENSE BRANDAO",
+                "p1":"10.0",
+                "p2":"10.0"
+                }],
+        "ESPANHOL": [{
+            "nome":"ANA ELISA SILVA SOUZA",
+                "p1":"9.0",
+                "p2":"7.50"
+                },{
+            "nome":"ANA PAULA RODRIGUES SOARES",
+                "p1":"10.0",
+                "p2":"7.50"
+                },{
+            "nome":"ARTHUR BUENO FERRACO",
+                "p1":"9.60",
+                "p2":"8.70"
+                },{
+            "nome":"ARTHUR HORSTS MEDEIROS",
+                "p1":"5.50",
+                "p2":"4.20"
+                },{
+            "nome":"GABRIEL SAIANI",
+                "p1":"7.10",
+                "p2":"6.0"
+                },{
+            "nome":"JOAO PEDRO MAIA DUTRA",
+                "p1":"8.50",
+                "p2":"7.0"
+                },{
+            "nome":"LARISSA SALAZAR DE PAULA",
+                "p1":"7.20",
+                "p2":"6.0"
+                },{
+            "nome":"LUCAS CASTELLO GRANDI RIBEIRO",
+                "p1":"8.50",
+                "p2":"6.50"
+                },{
+            "nome":"LUCAS DOS SANTOS FREITAS",
+                "p1":"8.60",
+                "p2":"8.50"
+                },{
+            "nome":"LUCAS GOMES MORANDI",
+                "p1":"6.20",
+                "p2":"5.70"
+                },{
+            "nome":"LUCAS LAKTIM ROSA",
+                "p1":"7.10",
+                "p2":"6.50"
+                },{
+            "nome":"MARIA JULIA MIGNOE DE PAULA",
+                "p1":"6.50",
+                "p2":"8.20"
+                },{
+            "nome":"NATAN DA COSTA CASEIRA",
+                "p1":"8.0",
+                "p2":"7.50"
+                },{
+            "nome":"PEDRO DE MELO PAGOTTO",
+                "p1":"8.70",
+                "p2":"6.60"
+                },{
+            "nome":"PEDRO FERRACO FITTIPALDI",
+                "p1":"9.0",
+                "p2":"8.50"
+                },{
+            "nome":"PEDRO SONEGHET PIMENTA",
+                "p1":"9.0",
+                "p2":"8.20"
+                },{
+            "nome":"SOPHIA SEIXAS MELHEM",
+                "p1":"8.50",
+                "p2":"8.50"
+                },{
+            "nome":"ULISSES TAVARES DE CASTRO",
+                "p1":"7.70",
+                "p2":"8.50"
+                },{
+            "nome":"WILLIAM BAHIENSE BRANDAO",
+                "p1":"6.0",
+                "p2":"5.50"
+                }],
+        "FILOSOFIA": [{
+            "nome":"ANA ELISA SILVA SOUZA",
+                "p1":"9.0",
+                "p2":"8.30"
+                },{
+            "nome":"ANA PAULA RODRIGUES SOARES",
+                "p1":"10.0",
+                "p2":"8.0"
+                },{
+            "nome":"ARTHUR BUENO FERRACO",
+                "p1":"10.0",
+                "p2":"9.0"
+                },{
+            "nome":"ARTHUR HORSTS MEDEIROS",
+                "p1":"8.50",
+                "p2":"4.80"
+                },{
+            "nome":"GABRIEL SAIANI",
+                "p1":"9.0",
+                "p2":"5.80"
+                },{
+            "nome":"JOAO PEDRO MAIA DUTRA",
+                "p1":"10.0",
+                "p2":"7.80"
+                },{
+            "nome":"LARISSA SALAZAR DE PAULA",
+                "p1":"9.50",
+                "p2":"8.0"
+                },{
+            "nome":"LUCAS CASTELLO GRANDI RIBEIRO",
+                "p1":"9.75",
+                "p2":"10.0"
+                },{
+            "nome":"LUCAS DOS SANTOS FREITAS",
+                "p1":"9.50",
+                "p2":"9.0"
+                },{
+            "nome":"LUCAS GOMES MORANDI",
+                "p1":"8.0",
+                "p2":"5.30"
+                },{
+            "nome":"LUCAS LAKTIM ROSA",
+                "p1":"9.25",
+                "p2":"7.30"
+                },{
+            "nome":"MARIA JULIA MIGNOE DE PAULA",
+                "p1":"7.75",
+                "p2":"3.0"
+                },{
+            "nome":"NATAN DA COSTA CASEIRA",
+                "p1":"9.0",
+                "p2":"8.80"
+                },{
+            "nome":"PEDRO DE MELO PAGOTTO",
+                "p1":"9.75",
+                "p2":"6.0"
+                },{
+            "nome":"PEDRO FERRACO FITTIPALDI",
+                "p1":"9.25",
+                "p2":"8.0"
+                },{
+            "nome":"PEDRO SONEGHET PIMENTA",
+                "p1":"10.0",
+                "p2":"9.0"
+                },{
+            "nome":"SOPHIA SEIXAS MELHEM",
+                "p1":"10.0",
+                "p2":"9.50"
+                },{
+            "nome":"ULISSES TAVARES DE CASTRO",
+                "p1":"10.0",
+                "p2":"8.0"
+                },{
+            "nome":"WILLIAM BAHIENSE BRANDAO",
+                "p1":"8.50",
+                "p2":"3.80"
+                }],
+        "GEOGRAFIA": [{
+            "nome":"ANA ELISA SILVA SOUZA",
+                "p1":"6.20",
+                "p2":"7.0"
+                },{
+            "nome":"ANA PAULA RODRIGUES SOARES",
+                "p1":"8.60",
+                "p2":"10.0"
+                },{
+            "nome":"ARTHUR BUENO FERRACO",
+                "p1":"9.50",
+                "p2":"9.80"
+                },{
+            "nome":"ARTHUR HORSTS MEDEIROS",
+                "p1":"5.0",
+                "p2":"4.30"
+                },{
+            "nome":"GABRIEL SAIANI",
+                "p1":"6.20",
+                "p2":"4.60"
+                },{
+            "nome":"JOAO PEDRO MAIA DUTRA",
+                "p1":"7.50",
+                "p2":"8.30"
+                },{
+            "nome":"LARISSA SALAZAR DE PAULA",
+                "p1":"7.50",
+                "p2":"9.30"
+                },{
+            "nome":"LUCAS CASTELLO GRANDI RIBEIRO",
+                "p1":"7.20",
+                "p2":"8.30"
+                },{
+            "nome":"LUCAS DOS SANTOS FREITAS",
+                "p1":"9.30",
+                "p2":"9.20"
+                },{
+            "nome":"LUCAS GOMES MORANDI",
+                "p1":"4.70",
+                "p2":"6.20"
+                },{
+            "nome":"LUCAS LAKTIM ROSA",
+                "p1":"5.0",
+                "p2":"8.40"
+                },{
+            "nome":"MARIA JULIA MIGNOE DE PAULA",
+                "p1":"4.80",
+                "p2":"6.30"
+                },{
+            "nome":"NATAN DA COSTA CASEIRA",
+                "p1":"6.50",
+                "p2":"5.30"
+                },{
+            "nome":"PEDRO DE MELO PAGOTTO",
+                "p1":"7.40",
+                "p2":"7.70"
+                },{
+            "nome":"PEDRO FERRACO FITTIPALDI",
+                "p1":"7.20",
+                "p2":"6.50"
+                },{
+            "nome":"PEDRO SONEGHET PIMENTA",
+                "p1":"9.0",
+                "p2":"9.50"
+                },{
+            "nome":"SOPHIA SEIXAS MELHEM",
+                "p1":"8.0",
+                "p2":"10.0"
+                },{
+            "nome":"ULISSES TAVARES DE CASTRO",
+                "p1":"7.80",
+                "p2":"9.0"
+                },{
+            "nome":"WILLIAM BAHIENSE BRANDAO",
+                "p1":"5.30",
+                "p2":"6.60"
+                }],
+        "HISTORIA": [{
+            "nome":"ANA ELISA SILVA SOUZA",
+                "p1":"5.80",
+                "p2":"7.60"
+                },{
+            "nome":"ANA PAULA RODRIGUES SOARES",
+                "p1":"7.85",
+                "p2":"8.80"
+                },{
+            "nome":"ARTHUR BUENO FERRACO",
+                "p1":"7.20",
+                "p2":"8.20"
+                },{
+            "nome":"ARTHUR HORSTS MEDEIROS",
+                "p1":"1.75",
+                "p2":"2.0"
+                },{
+            "nome":"GABRIEL SAIANI",
+                "p1":"0.70",
+                "p2":"3.70"
+                },{
+            "nome":"JOAO PEDRO MAIA DUTRA",
+                "p1":"6.85",
+                "p2":"9.20"
+                },{
+            "nome":"LARISSA SALAZAR DE PAULA",
+                "p1":"5.30",
+                "p2":"5.50"
+                },{
+            "nome":"LUCAS CASTELLO GRANDI RIBEIRO",
+                "p1":"7.50",
+                "p2":"6.50"
+                },{
+            "nome":"LUCAS DOS SANTOS FREITAS",
+                "p1":"9.20",
+                "p2":"9.70"
+                },{
+            "nome":"LUCAS GOMES MORANDI",
+                "p1":"3.0",
+                "p2":"6.90"
+                },{
+            "nome":"LUCAS LAKTIM ROSA",
+                "p1":"2.10",
+                "p2":"5.50"
+                },{
+            "nome":"MARIA JULIA MIGNOE DE PAULA",
+                "p1":"7.90",
+                "p2":"7.0"
+                },{
+            "nome":"NATAN DA COSTA CASEIRA",
+                "p1":"5.0",
+                "p2":"7.80"
+                },{
+            "nome":"PEDRO DE MELO PAGOTTO",
+                "p1":"7.70",
+                "p2":"9.50"
+                },{
+            "nome":"PEDRO FERRACO FITTIPALDI",
+                "p1":"6.0",
+                "p2":"7.30"
+                },{
+            "nome":"PEDRO SONEGHET PIMENTA",
+                "p1":"7.70",
+                "p2":"9.50"
+                },{
+            "nome":"SOPHIA SEIXAS MELHEM",
+                "p1":"8.60",
+                "p2":"9.45"
+                },{
+            "nome":"ULISSES TAVARES DE CASTRO",
+                "p1":"9.40",
+                "p2":"9.70"
+                },{
+            "nome":"WILLIAM BAHIENSE BRANDAO",
+                "p1":"1.40",
+                "p2":"3.60"
+                }],
+        "INGLES": [{
+            "nome":"ANA ELISA SILVA SOUZA",
+                "p1":"8.50",
+                "p2":"9.40"
+                },{
+            "nome":"ANA PAULA RODRIGUES SOARES",
+                "p1":"9.10",
+                "p2":"8.96"
+                },{
+            "nome":"ARTHUR BUENO FERRACO",
+                "p1":"8.0",
+                "p2":"7.20"
+                },{
+            "nome":"ARTHUR HORSTS MEDEIROS",
+                "p1":"5.50",
+                "p2":"5.25"
+                },{
+            "nome":"GABRIEL SAIANI",
+                "p1":"5.40",
+                "p2":"4.25"
+                },{
+            "nome":"JOAO PEDRO MAIA DUTRA",
+                "p1":"9.95",
+                "p2":"9.30"
+                },{
+            "nome":"LARISSA SALAZAR DE PAULA",
+                "p1":"9.45",
+                "p2":"8.80"
+                },{
+            "nome":"LUCAS CASTELLO GRANDI RIBEIRO",
+                "p1":"6.65",
+                "p2":"6.30"
+                },{
+            "nome":"LUCAS DOS SANTOS FREITAS",
+                "p1":"8.0",
+                "p2":"6.83"
+                },{
+            "nome":"LUCAS GOMES MORANDI",
+                "p1":"6.95",
+                "p2":"7.95"
+                },{
+            "nome":"LUCAS LAKTIM ROSA",
+                "p1":"7.95",
+                "p2":"8.85"
+                },{
+            "nome":"MARIA JULIA MIGNOE DE PAULA",
+                "p1":"10.0",
+                "p2":"9.15"
+                },{
+            "nome":"NATAN DA COSTA CASEIRA",
+                "p1":"9.0",
+                "p2":"9.80"
+                },{
+            "nome":"PEDRO DE MELO PAGOTTO",
+                "p1":"9.50",
+                "p2":"9.70"
+                },{
+            "nome":"PEDRO FERRACO FITTIPALDI",
+                "p1":"9.90",
+                "p2":"8.25"
+                },{
+            "nome":"PEDRO SONEGHET PIMENTA",
+                "p1":"8.80",
+                "p2":"9.0"
+                },{
+            "nome":"SOPHIA SEIXAS MELHEM",
+                "p1":"9.50",
+                "p2":"9.50"
+                },{
+            "nome":"ULISSES TAVARES DE CASTRO",
+                "p1":"9.50",
+                "p2":"9.80"
+                },{
+            "nome":"WILLIAM BAHIENSE BRANDAO",
+                "p1":"9.50",
+                "p2":"8.0"
+                }],
+        "PORTUGUES": [{
+            "nome":"ANA ELISA SILVA SOUZA",
+                "p1":"7.90",
+                "p2":"8.10"
+                },{
+            "nome":"ANA PAULA RODRIGUES SOARES",
+                "p1":"9.50",
+                "p2":"7.40"
+                },{
+            "nome":"ARTHUR BUENO FERRACO",
+                "p1":"9.60",
+                "p2":"10.0"
+                },{
+            "nome":"ARTHUR HORSTS MEDEIROS",
+                "p1":"4.50",
+                "p2":"3.75"
+                },{
+            "nome":"GABRIEL SAIANI",
+                "p1":"3.80",
+                "p2":"6.60"
+                },{
+            "nome":"JOAO PEDRO MAIA DUTRA",
+                "p1":"9.20",
+                "p2":"8.10"
+                },{
+            "nome":"LARISSA SALAZAR DE PAULA",
+                "p1":"8.0",
+                "p2":"9.10"
+                },{
+            "nome":"LUCAS CASTELLO GRANDI RIBEIRO",
+                "p1":"6.70",
+                "p2":"7.65"
+                },{
+            "nome":"LUCAS DOS SANTOS FREITAS",
+                "p1":"8.90",
+                "p2":"8.10"
+                },{
+            "nome":"LUCAS GOMES MORANDI",
+                "p1":"6.30",
+                "p2":"5.10"
+                },{
+            "nome":"LUCAS LAKTIM ROSA",
+                "p1":"7.80",
+                "p2":"8.20"
+                },{
+            "nome":"MARIA JULIA MIGNOE DE PAULA",
+                "p1":"5.0",
+                "p2":"7.85"
+                },{
+            "nome":"NATAN DA COSTA CASEIRA",
+                "p1":"8.80",
+                "p2":"4.80"
+                },{
+            "nome":"PEDRO DE MELO PAGOTTO",
+                "p1":"9.30",
+                "p2":"9.30"
+                },{
+            "nome":"PEDRO FERRACO FITTIPALDI",
+                "p1":"6.20",
+                "p2":"7.90"
+                },{
+            "nome":"PEDRO SONEGHET PIMENTA",
+                "p1":"9.80",
+                "p2":"9.70"
+                },{
+            "nome":"SOPHIA SEIXAS MELHEM",
+                "p1":"9.80",
+                "p2":"8.80"
+                },{
+            "nome":"ULISSES TAVARES DE CASTRO",
+                "p1":"8.90",
+                "p2":"9.80"
+                },{
+            "nome":"WILLIAM BAHIENSE BRANDAO",
+                "p1":"5.30",
+                "p2":"7.10"
+                }],
+        "MATEMATICA": [{
+            "nome":"ANA ELISA SILVA SOUZA",
+                "p1":"5.10",
+                "p2":"3.80"
+                },{
+            "nome":"ANA PAULA RODRIGUES SOARES",
+                "p1":"10.0",
+                "p2":"9.30"
+                },{
+            "nome":"ARTHUR BUENO FERRACO",
+                "p1":"10.0",
+                "p2":"9.40"
+                },{
+            "nome":"ARTHUR HORSTS MEDEIROS",
+                "p1":"5.20",
+                "p2":"3.80"
+                },{
+            "nome":"GABRIEL SAIANI",
+                "p1":"2.45",
+                "p2":"2.50"
+                },{
+            "nome":"JOAO PEDRO MAIA DUTRA",
+                "p1":"7.25",
+                "p2":"4.40"
+                },{
+            "nome":"LARISSA SALAZAR DE PAULA",
+                "p1":"7.95",
+                "p2":"4.30"
+                },{
+            "nome":"LUCAS CASTELLO GRANDI RIBEIRO",
+                "p1":"8.80",
+                "p2":"9.40"
+                },{
+            "nome":"LUCAS DOS SANTOS FREITAS",
+                "p1":"8.55",
+                "p2":"8.40"
+                },{
+            "nome":"LUCAS GOMES MORANDI",
+                "p1":"3.90",
+                "p2":"2.40"
+                },{
+            "nome":"LUCAS LAKTIM ROSA",
+                "p1":"3.0",
+                "p2":"4.40"
+                },{
+            "nome":"MARIA JULIA MIGNOE DE PAULA",
+                "p1":"4.30",
+                "p2":"4.0"
+                },{
+            "nome":"NATAN DA COSTA CASEIRA",
+                "p1":"5.0",
+                "p2":"5.40"
+                },{
+            "nome":"PEDRO DE MELO PAGOTTO",
+                "p1":"4.80",
+                "p2":"5.40"
+                },{
+            "nome":"PEDRO FERRACO FITTIPALDI",
+                "p1":"6.0",
+                "p2":"6.60"
+                },{
+            "nome":"PEDRO SONEGHET PIMENTA",
+                "p1":"10.0",
+                "p2":"9.90"
+                },{
+            "nome":"SOPHIA SEIXAS MELHEM",
+                "p1":"9.40",
+                "p2":"6.20"
+                },{
+            "nome":"ULISSES TAVARES DE CASTRO",
+                "p1":"8.0",
+                "p2":"9.40"
+                },{
+            "nome":"WILLIAM BAHIENSE BRANDAO",
+                "p1":"4.45",
+                "p2":"3.60"
+                }]
+        }],
+    "8BM": [{
+        "ARTES": [{
+            "nome":"ANNA LUISA MALACARNE SILVA",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"ARTHUR DE SA FREITAS SOARES",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"ARTHUR LOVATTI SOUZA PINTO",
+                "p1":"9.0",
+                "p2":"9.0"
+                },{
+            "nome":"DANIEL ROMANHA GUALBERTO",
+                "p1":"9.0",
+                "p2":"8.0"
+                },{
+            "nome":"DAVI VILACA COLODETTI",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"DERICK SATANN DUSS",
+                "p1":"9.0",
+                "p2":"8.0"
+                },{
+            "nome":"ERLAINE SIMONELLI CAVALLIERI",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"FLORA LOUZZADA MEIRELES",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"IAGO LOZZER MARTINS",
+                "p1":"9.0",
+                "p2":"9.0"
+                },{
+            "nome":"JULIANA MARIA MARTINS DA SILVA",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"LUCA MARINS RAMPINELLI",
+                "p1":"9.0",
+                "p2":"8.0"
+                },{
+            "nome":"LUCAS BATALHA FERRARI",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"MARIA FALABELA PICHIRI MOLONI",
+                "p1":"10.0",
+                "p2":"9.0"
+                },{
+            "nome":"MARIANA AGRIZZI ABAURRE",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"MATHEUS MMYRAD SUDRE SARTORIO",
+                "p1":"9.0",
+                "p2":"9.0"
+                },{
+            "nome":"NINA BASSETTI SANTOS",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"PEDRO HENRIQUE BASSINI LOOSE",
+                "p1":"9.0",
+                "p2":"9.0"
+                },{
+            "nome":"RAFAEL GOMES TCHERNIACOVSKI",
+                "p1":"9.0",
+                "p2":"9.0"
+                },{
+            "nome":"VICTOR BUENO FERRACO",
+                "p1":"10.0",
+                "p2":"10.0"
+                }],
+        "CIENCIAS": [{
+            "nome":"ANNA LUISA MALACARNE SILVA",
+                "p1":"8.60",
+                "p2":"5.70"
+                },{
+            "nome":"ARTHUR DE SA FREITAS SOARES",
+                "p1":"9.20",
+                "p2":"7.70"
+                },{
+            "nome":"ARTHUR LOVATTI SOUZA PINTO",
+                "p1":"9.70",
+                "p2":"7.20"
+                },{
+            "nome":"DANIEL ROMANHA GUALBERTO",
+                "p1":"7.0",
+                "p2":"7.80"
+                },{
+            "nome":"DAVI VILACA COLODETTI",
+                "p1":"7.90",
+                "p2":"8.30"
+                },{
+            "nome":"DERICK SATANN DUSS",
+                "p1":"5.0",
+                "p2":"7.50"
+                },{
+            "nome":"ERLAINE SIMONELLI CAVALLIERI",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"FLORA LOUZZADA MEIRELES",
+                "p1":"9.70",
+                "p2":"9.80"
+                },{
+            "nome":"IAGO LOZZER MARTINS",
+                "p1":"7.50",
+                "p2":"5.90"
+                },{
+            "nome":"JULIANA MARIA MARTINS DA SILVA",
+                "p1":"9.20",
+                "p2":"9.70"
+                },{
+            "nome":"LUCA MARINS RAMPINELLI",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"LUCAS BATALHA FERRARI",
+                "p1":"9.80",
+                "p2":"9.10"
+                },{
+            "nome":"MARIA FALABELA PICHIRI MOLONI",
+                "p1":"4.80",
+                "p2":"6.50"
+                },{
+            "nome":"MARIANA AGRIZZI ABAURRE",
+                "p1":"10.0",
+                "p2":"9.80"
+                },{
+            "nome":"MATHEUS MMYRAD SUDRE SARTORIO",
+                "p1":"5.90",
+                "p2":"6.50"
+                },{
+            "nome":"NINA BASSETTI SANTOS",
+                "p1":"10.0",
+                "p2":"8.0"
+                },{
+            "nome":"PEDRO HENRIQUE BASSINI LOOSE",
+                "p1":"7.0",
+                "p2":"4.80"
+                },{
+            "nome":"RAFAEL GOMES TCHERNIACOVSKI",
+                "p1":"9.30",
+                "p2":"7.70"
+                },{
+            "nome":"VICTOR BUENO FERRACO",
+                "p1":"2.80",
+                "p2":"7.80"
+                }],
+        "EDUCACAO FISICA": [{
+            "nome":"ANNA LUISA MALACARNE SILVA",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"ARTHUR DE SA FREITAS SOARES",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"ARTHUR LOVATTI SOUZA PINTO",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"DANIEL ROMANHA GUALBERTO",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"DAVI VILACA COLODETTI",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"DERICK SATANN DUSS",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"ERLAINE SIMONELLI CAVALLIERI",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"FLORA LOUZZADA MEIRELES",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"IAGO LOZZER MARTINS",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"JULIANA MARIA MARTINS DA SILVA",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"LUCA MARINS RAMPINELLI",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"LUCAS BATALHA FERRARI",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"MARIA FALABELA PICHIRI MOLONI",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"MARIANA AGRIZZI ABAURRE",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"MATHEUS MMYRAD SUDRE SARTORIO",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"NINA BASSETTI SANTOS",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"PEDRO HENRIQUE BASSINI LOOSE",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"RAFAEL GOMES TCHERNIACOVSKI",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"VICTOR BUENO FERRACO",
+                "p1":"10.0",
+                "p2":"10.0"
+                }],
+        "ESPANHOL": [{
+            "nome":"ANNA LUISA MALACARNE SILVA",
+                "p1":"6.20",
+                "p2":"6.20"
+                },{
+            "nome":"ARTHUR DE SA FREITAS SOARES",
+                "p1":"7.50",
+                "p2":"7.50"
+                },{
+            "nome":"ARTHUR LOVATTI SOUZA PINTO",
+                "p1":"7.50",
+                "p2":"5.50"
+                },{
+            "nome":"DANIEL ROMANHA GUALBERTO",
+                "p1":"6.70",
+                "p2":"8.0"
+                },{
+            "nome":"DAVI VILACA COLODETTI",
+                "p1":"8.20",
+                "p2":"6.0"
+                },{
+            "nome":"DERICK SATANN DUSS",
+                "p1":"6.20",
+                "p2":"4.0"
+                },{
+            "nome":"ERLAINE SIMONELLI CAVALLIERI",
+                "p1":"8.60",
+                "p2":"8.50"
+                },{
+            "nome":"FLORA LOUZZADA MEIRELES",
+                "p1":"7.60",
+                "p2":"9.0"
+                },{
+            "nome":"IAGO LOZZER MARTINS",
+                "p1":"7.0",
+                "p2":"6.70"
+                },{
+            "nome":"JULIANA MARIA MARTINS DA SILVA",
+                "p1":"8.10",
+                "p2":"6.0"
+                },{
+            "nome":"LUCA MARINS RAMPINELLI",
+                "p1":"7.50",
+                "p2":"8.50"
+                },{
+            "nome":"LUCAS BATALHA FERRARI",
+                "p1":"8.0",
+                "p2":"7.10"
+                },{
+            "nome":"MARIA FALABELA PICHIRI MOLONI",
+                "p1":"8.50",
+                "p2":"7.0"
+                },{
+            "nome":"MARIANA AGRIZZI ABAURRE",
+                "p1":"9.10",
+                "p2":"8.0"
+                },{
+            "nome":"MATHEUS MMYRAD SUDRE SARTORIO",
+                "p1":"8.50",
+                "p2":"5.0"
+                },{
+            "nome":"NINA BASSETTI SANTOS",
+                "p1":"8.60",
+                "p2":"8.20"
+                },{
+            "nome":"PEDRO HENRIQUE BASSINI LOOSE",
+                "p1":"7.20",
+                "p2":"6.10"
+                },{
+            "nome":"RAFAEL GOMES TCHERNIACOVSKI",
+                "p1":"8.0",
+                "p2":"6.60"
+                },{
+            "nome":"VICTOR BUENO FERRACO",
+                "p1":"5.50",
+                "p2":"1.20"
+                }],
+        "FILOSOFIA": [{
+            "nome":"ANNA LUISA MALACARNE SILVA",
+                "p1":"8.50",
+                "p2":"7.30"
+                },{
+            "nome":"ARTHUR DE SA FREITAS SOARES",
+                "p1":"10.0",
+                "p2":"8.50"
+                },{
+            "nome":"ARTHUR LOVATTI SOUZA PINTO",
+                "p1":"8.25",
+                "p2":"7.30"
+                },{
+            "nome":"DANIEL ROMANHA GUALBERTO",
+                "p1":"9.50",
+                "p2":"9.80"
+                },{
+            "nome":"DAVI VILACA COLODETTI",
+                "p1":"9.25",
+                "p2":"10.0"
+                },{
+            "nome":"DERICK SATANN DUSS",
+                "p1":"8.25",
+                "p2":"3.20"
+                },{
+            "nome":"ERLAINE SIMONELLI CAVALLIERI",
+                "p1":"8.75",
+                "p2":"8.0"
+                },{
+            "nome":"FLORA LOUZZADA MEIRELES",
+                "p1":"9.0",
+                "p2":"7.70"
+                },{
+            "nome":"IAGO LOZZER MARTINS",
+                "p1":"9.25",
+                "p2":"8.70"
+                },{
+            "nome":"JULIANA MARIA MARTINS DA SILVA",
+                "p1":"9.50",
+                "p2":"9.50"
+                },{
+            "nome":"LUCA MARINS RAMPINELLI",
+                "p1":"9.50",
+                "p2":"9.0"
+                },{
+            "nome":"LUCAS BATALHA FERRARI",
+                "p1":"9.50",
+                "p2":"9.0"
+                },{
+            "nome":"MARIA FALABELA PICHIRI MOLONI",
+                "p1":"8.0",
+                "p2":"4.70"
+                },{
+            "nome":"MARIANA AGRIZZI ABAURRE",
+                "p1":"9.0",
+                "p2":"9.0"
+                },{
+            "nome":"MATHEUS MMYRAD SUDRE SARTORIO",
+                "p1":"9.50",
+                "p2":"8.0"
+                },{
+            "nome":"NINA BASSETTI SANTOS",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"PEDRO HENRIQUE BASSINI LOOSE",
+                "p1":"8.25",
+                "p2":"6.0"
+                },{
+            "nome":"RAFAEL GOMES TCHERNIACOVSKI",
+                "p1":"9.25",
+                "p2":"10.0"
+                },{
+            "nome":"VICTOR BUENO FERRACO",
+                "p1":"9.0",
+                "p2":"3.50"
+                }],
+        "GEOGRAFIA": [{
+            "nome":"ANNA LUISA MALACARNE SILVA",
+                "p1":"4.70",
+                "p2":"3.30"
+                },{
+            "nome":"ARTHUR DE SA FREITAS SOARES",
+                "p1":"8.0",
+                "p2":"8.90"
+                },{
+            "nome":"ARTHUR LOVATTI SOUZA PINTO",
+                "p1":"6.20",
+                "p2":"8.50"
+                },{
+            "nome":"DANIEL ROMANHA GUALBERTO",
+                "p1":"6.0",
+                "p2":"6.90"
+                },{
+            "nome":"DAVI VILACA COLODETTI",
+                "p1":"6.10",
+                "p2":"7.70"
+                },{
+            "nome":"DERICK SATANN DUSS",
+                "p1":"3.50",
+                "p2":"7.10"
+                },{
+            "nome":"ERLAINE SIMONELLI CAVALLIERI",
+                "p1":"8.40",
+                "p2":"9.30"
+                },{
+            "nome":"FLORA LOUZZADA MEIRELES",
+                "p1":"7.50",
+                "p2":"8.70"
+                },{
+            "nome":"IAGO LOZZER MARTINS",
+                "p1":"7.30",
+                "p2":"7.0"
+                },{
+            "nome":"JULIANA MARIA MARTINS DA SILVA",
+                "p1":"8.20",
+                "p2":"8.0"
+                },{
+            "nome":"LUCA MARINS RAMPINELLI",
+                "p1":"9.10",
+                "p2":"9.0"
+                },{
+            "nome":"LUCAS BATALHA FERRARI",
+                "p1":"8.0",
+                "p2":"7.70"
+                },{
+            "nome":"MARIA FALABELA PICHIRI MOLONI",
+                "p1":"4.20",
+                "p2":"4.30"
+                },{
+            "nome":"MARIANA AGRIZZI ABAURRE",
+                "p1":"8.20",
+                "p2":"10.0"
+                },{
+            "nome":"MATHEUS MMYRAD SUDRE SARTORIO",
+                "p1":"7.20",
+                "p2":"6.0"
+                },{
+            "nome":"NINA BASSETTI SANTOS",
+                "p1":"7.10",
+                "p2":"9.0"
+                },{
+            "nome":"PEDRO HENRIQUE BASSINI LOOSE",
+                "p1":"5.50",
+                "p2":"7.20"
+                },{
+            "nome":"RAFAEL GOMES TCHERNIACOVSKI",
+                "p1":"7.30",
+                "p2":"8.40"
+                },{
+            "nome":"VICTOR BUENO FERRACO",
+                "p1":"5.30",
+                "p2":"2.0"
+                }],
+        "HISTORIA": [{
+            "nome":"ANNA LUISA MALACARNE SILVA",
+                "p1":"5.0",
+                "p2":"6.60"
+                },{
+            "nome":"ARTHUR DE SA FREITAS SOARES",
+                "p1":"6.40",
+                "p2":"8.30"
+                },{
+            "nome":"ARTHUR LOVATTI SOUZA PINTO",
+                "p1":"5.0",
+                "p2":"7.30"
+                },{
+            "nome":"DANIEL ROMANHA GUALBERTO",
+                "p1":"3.60",
+                "p2":"4.70"
+                },{
+            "nome":"DAVI VILACA COLODETTI",
+                "p1":"6.30",
+                "p2":"6.0"
+                },{
+            "nome":"DERICK SATANN DUSS",
+                "p1":"3.40",
+                "p2":"4.30"
+                },{
+            "nome":"ERLAINE SIMONELLI CAVALLIERI",
+                "p1":"8.20",
+                "p2":"9.30"
+                },{
+            "nome":"FLORA LOUZZADA MEIRELES",
+                "p1":"7.30",
+                "p2":"8.80"
+                },{
+            "nome":"IAGO LOZZER MARTINS",
+                "p1":"6.0",
+                "p2":"5.20"
+                },{
+            "nome":"JULIANA MARIA MARTINS DA SILVA",
+                "p1":"7.50",
+                "p2":"8.50"
+                },{
+            "nome":"LUCA MARINS RAMPINELLI",
+                "p1":"8.0",
+                "p2":"9.30"
+                },{
+            "nome":"LUCAS BATALHA FERRARI",
+                "p1":"8.20",
+                "p2":"9.50"
+                },{
+            "nome":"MARIA FALABELA PICHIRI MOLONI",
+                "p1":"3.40",
+                "p2":"7.80"
+                },{
+            "nome":"MARIANA AGRIZZI ABAURRE",
+                "p1":"9.10",
+                "p2":"8.80"
+                },{
+            "nome":"MATHEUS MMYRAD SUDRE SARTORIO",
+                "p1":"3.80",
+                "p2":"6.0"
+                },{
+            "nome":"NINA BASSETTI SANTOS",
+                "p1":"7.0",
+                "p2":"6.80"
+                },{
+            "nome":"PEDRO HENRIQUE BASSINI LOOSE",
+                "p1":"3.80",
+                "p2":"5.10"
+                },{
+            "nome":"RAFAEL GOMES TCHERNIACOVSKI",
+                "p1":"5.40",
+                "p2":"7.30"
+                },{
+            "nome":"VICTOR BUENO FERRACO",
+                "p1":"3.50",
+                "p2":"1.0"
+                }],
+        "INGLES": [{
+            "nome":"ANNA LUISA MALACARNE SILVA",
+                "p1":"9.50",
+                "p2":"8.80"
+                },{
+            "nome":"ARTHUR DE SA FREITAS SOARES",
+                "p1":"7.50",
+                "p2":"7.20"
+                },{
+            "nome":"ARTHUR LOVATTI SOUZA PINTO",
+                "p1":"8.45",
+                "p2":"9.0"
+                },{
+            "nome":"DANIEL ROMANHA GUALBERTO",
+                "p1":"8.50",
+                "p2":"8.30"
+                },{
+            "nome":"DAVI VILACA COLODETTI",
+                "p1":"7.45",
+                "p2":"8.10"
+                },{
+            "nome":"DERICK SATANN DUSS",
+                "p1":"8.45",
+                "p2":"7.85"
+                },{
+            "nome":"ERLAINE SIMONELLI CAVALLIERI",
+                "p1":"9.50",
+                "p2":"9.25"
+                },{
+            "nome":"FLORA LOUZZADA MEIRELES",
+                "p1":"8.95",
+                "p2":"8.95"
+                },{
+            "nome":"IAGO LOZZER MARTINS",
+                "p1":"10.0",
+                "p2":"7.10"
+                },{
+            "nome":"JULIANA MARIA MARTINS DA SILVA",
+                "p1":"5.40",
+                "p2":"6.10"
+                },{
+            "nome":"LUCA MARINS RAMPINELLI",
+                "p1":"7.70",
+                "p2":"8.36"
+                },{
+            "nome":"LUCAS BATALHA FERRARI",
+                "p1":"7.50",
+                "p2":"9.20"
+                },{
+            "nome":"MARIA FALABELA PICHIRI MOLONI",
+                "p1":"9.05",
+                "p2":"7.30"
+                },{
+            "nome":"MARIANA AGRIZZI ABAURRE",
+                "p1":"8.60",
+                "p2":"8.90"
+                },{
+            "nome":"MATHEUS MMYRAD SUDRE SARTORIO",
+                "p1":"7.80",
+                "p2":"7.10"
+                },{
+            "nome":"NINA BASSETTI SANTOS",
+                "p1":"9.95",
+                "p2":"9.65"
+                },{
+            "nome":"PEDRO HENRIQUE BASSINI LOOSE",
+                "p1":"7.40",
+                "p2":"8.85"
+                },{
+            "nome":"RAFAEL GOMES TCHERNIACOVSKI",
+                "p1":"9.0",
+                "p2":"8.90"
+                },{
+            "nome":"VICTOR BUENO FERRACO",
+                "p1":"8.0",
+                "p2":"6.60"
+                }],
+        "PORTUGUES": [{
+            "nome":"ANNA LUISA MALACARNE SILVA",
+                "p1":"5.30",
+                "p2":"4.65"
+                },{
+            "nome":"ARTHUR DE SA FREITAS SOARES",
+                "p1":"7.60",
+                "p2":"6.50"
+                },{
+            "nome":"ARTHUR LOVATTI SOUZA PINTO",
+                "p1":"8.80",
+                "p2":"6.80"
+                },{
+            "nome":"DANIEL ROMANHA GUALBERTO",
+                "p1":"8.50",
+                "p2":"3.40"
+                },{
+            "nome":"DAVI VILACA COLODETTI",
+                "p1":"7.20",
+                "p2":"7.40"
+                },{
+            "nome":"DERICK SATANN DUSS",
+                "p1":"4.0",
+                "p2":"6.40"
+                },{
+            "nome":"ERLAINE SIMONELLI CAVALLIERI",
+                "p1":"4.0",
+                "p2":"6.40"
+                },{
+            "nome":"FLORA LOUZZADA MEIRELES",
+                "p1":"6.60",
+                "p2":"6.40"
+                },{
+            "nome":"IAGO LOZZER MARTINS",
+                "p1":"8.0",
+                "p2":"4.80"
+                },{
+            "nome":"JULIANA MARIA MARTINS DA SILVA",
+                "p1":"9.10",
+                "p2":"9.90"
+                },{
+            "nome":"LUCA MARINS RAMPINELLI",
+                "p1":"8.70",
+                "p2":"9.50"
+                },{
+            "nome":"LUCAS BATALHA FERRARI",
+                "p1":"9.40",
+                "p2":"8.40"
+                },{
+            "nome":"MARIA FALABELA PICHIRI MOLONI",
+                "p1":"7.30",
+                "p2":"8.0"
+                },{
+            "nome":"MARIANA AGRIZZI ABAURRE",
+                "p1":"9.10",
+                "p2":"9.70"
+                },{
+            "nome":"MATHEUS MMYRAD SUDRE SARTORIO",
+                "p1":"8.40",
+                "p2":"8.10"
+                },{
+            "nome":"NINA BASSETTI SANTOS",
+                "p1":"9.50",
+                "p2":"9.20"
+                },{
+            "nome":"PEDRO HENRIQUE BASSINI LOOSE",
+                "p1":"6.40",
+                "p2":"6.90"
+                },{
+            "nome":"RAFAEL GOMES TCHERNIACOVSKI",
+                "p1":"7.60",
+                "p2":"2.50"
+                },{
+            "nome":"VICTOR BUENO FERRACO",
+                "p1":"3.90",
+                "p2":"5.20"
+                }],
+        "MATEMATICA": [{
+            "nome":"ANNA LUISA MALACARNE SILVA",
+                "p1":"5.25",
+                "p2":"3.30"
+                },{
+            "nome":"ARTHUR DE SA FREITAS SOARES",
+                "p1":"3.20",
+                "p2":"5.80"
+                },{
+            "nome":"ARTHUR LOVATTI SOUZA PINTO",
+                "p1":"8.80",
+                "p2":"6.50"
+                },{
+            "nome":"DANIEL ROMANHA GUALBERTO",
+                "p1":"5.0",
+                "p2":"1.80"
+                },{
+            "nome":"DAVI VILACA COLODETTI",
+                "p1":"2.60",
+                "p2":"5.10"
+                },{
+            "nome":"DERICK SATANN DUSS",
+                "p1":"4.50",
+                "p2":"7.20"
+                },{
+            "nome":"ERLAINE SIMONELLI CAVALLIERI",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"FLORA LOUZZADA MEIRELES",
+                "p1":"5.20",
+                "p2":"7.10"
+                },{
+            "nome":"IAGO LOZZER MARTINS",
+                "p1":"7.45",
+                "p2":"6.05"
+                },{
+            "nome":"JULIANA MARIA MARTINS DA SILVA",
+                "p1":"8.70",
+                "p2":"9.10"
+                },{
+            "nome":"LUCA MARINS RAMPINELLI",
+                "p1":"7.90",
+                "p2":"8.40"
+                },{
+            "nome":"LUCAS BATALHA FERRARI",
+                "p1":"7.60",
+                "p2":"9.55"
+                },{
+            "nome":"MARIA FALABELA PICHIRI MOLONI",
+                "p1":"6.60",
+                "p2":"6.60"
+                },{
+            "nome":"MARIANA AGRIZZI ABAURRE",
+                "p1":"10.0",
+                "p2":"10.0"
+                },{
+            "nome":"MATHEUS MMYRAD SUDRE SARTORIO",
+                "p1":"8.35",
+                "p2":"6.40"
+                },{
+            "nome":"NINA BASSETTI SANTOS",
+                "p1":"7.90",
+                "p2":"7.30"
+                },{
+            "nome":"PEDRO HENRIQUE BASSINI LOOSE",
+                "p1":"6.10",
+                "p2":"6.30"
+                },{
+            "nome":"RAFAEL GOMES TCHERNIACOVSKI",
+                "p1":"8.30",
+                "p2":"7.55"
+                },{
+            "nome":"VICTOR BUENO FERRACO",
+                "p1":"0.50",
+                "p2":"3.90"
+                }]
+        }]   
+}
