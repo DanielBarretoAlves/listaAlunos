@@ -1,0 +1,1172 @@
+{
+    "ARTES": [
+        {
+            "NOME": "ANA CLARA ROMERO SATHLER",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "ANDRE COPOLILLO FARIA",
+            "p1": 8.50,
+            "p2": 8.50
+        },
+        {
+            "NOME": "ANDRE DE PAULA SIMOES",
+            "p1": 8.00,
+            "p2": 8.50
+        },
+        {
+            "NOME": "BEATRIZ LARA SERRANO",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "BRUNO AGRIZZI ABAURRE",
+            "p1": 9.50,
+            "p2": 9.70
+        },
+        {
+            "NOME": "CAIO LOZZER MARTINS",
+            "p1": 9.80,
+            "p2": 9.80
+        },
+        {
+            "NOME": "CLAUDIA FERNANDES MASSARO",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "DANIEL LEMOS PICHAMONE",
+            "p1": 8.00,
+            "p2": 8.00
+        },
+        {
+            "NOME": "DAVI COGO VEREZA REZENDE",
+            "p1": 9.00,
+            "p2": 9.00
+        },
+        {
+            "NOME": "DAVI MENEZES PUPA",
+            "p1": 9.00,
+            "p2": 9.00
+        },
+        {
+            "NOME": "GUILHERME SOARES DE OLIVEIRA",
+            "p1": 9.80,
+            "p2": 10.0
+        },
+        {
+            "NOME": "ISADORA BONALDI VELTEN",
+            "p1": 9.80,
+            "p2": 10.0
+        },
+        {
+            "NOME": "JOAO PEDRO LABRUNE MARTINELLI",
+            "p1": 8.50,
+            "p2": 8.50
+        },
+        {
+            "NOME": "LAURA VARGAS LEGEY",
+            "p1": 9.80,
+            "p2": 10.0
+        },
+        {
+            "NOME": "LORENZO VITORINO",
+            "p1": 9.00,
+            "p2": 9.00
+        },
+        {
+            "NOME": "MARINA BOTELHO RIZZATO",
+            "p1": 9.80,
+            "p2": 9.80
+        },
+        {
+            "NOME": "PAULA CAVALCANTE LEITE PINTO",
+            "p1": 9.80,
+            "p2": 10.0
+        },
+        {
+            "NOME": "PEDRO DE FIGUEIREDO CORTES VAIRO",
+            "p1": 8.50,
+            "p2": 9.00
+        },
+        {
+            "NOME": "PEDRO HENRIQUE COUTINHO VALIATI",
+            "p1": 8.00,
+            "p2": 8.00
+        },
+        {
+            "NOME": "SOPHIA PERPETUO DE MENDONCA BORGES",
+            "p1": 9.80,
+            "p2": 9.80
+        },
+        {
+            "NOME": "THAIS COUTINHO DUARTE LIMA",
+            "p1": 9.00,
+            "p2": 9.00
+        },
+        {
+            "NOME": "VITOR DUARTE MADEIRA",
+            "p1": 9.00,
+            "p2": 9.50
+        },
+        {
+            "NOME": "YASMIN FROTA MONTEIRO SPANHOL",
+            "p1": 9.50,
+            "p2": 9.50
+        }
+    ],
+    "CIENCIAS": [
+        {
+            "NOME": "ANA CLARA ROMERO SATHLER",
+            "p1": 8.30,
+            "p2": 9.00
+        },
+        {
+            "NOME": "ANDRE COPOLILLO FARIA",
+            "p1": 3.20,
+            "p2": 5.00
+        },
+        {
+            "NOME": "ANDRE DE PAULA SIMOES",
+            "p1": 6.70,
+            "p2": 5.00
+        },
+        {
+            "NOME": "BEATRIZ LARA SERRANO",
+            "p1": 9.10,
+            "p2": 9.40
+        },
+        {
+            "NOME": "BRUNO AGRIZZI ABAURRE",
+            "p1": 8.80,
+            "p2": 8.60
+        },
+        {
+            "NOME": "CAIO LOZZER MARTINS",
+            "p1": 6.30,
+            "p2": 7.50
+        },
+        {
+            "NOME": "CLAUDIA FERNANDES MASSARO",
+            "p1": 9.70,
+            "p2": 9.80
+        },
+        {
+            "NOME": "DANIEL LEMOS PICHAMONE",
+            "p1": 4.80,
+            "p2": 5.60
+        },
+        {
+            "NOME": "DAVI COGO VEREZA REZENDE",
+            "p1": 4.50,
+            "p2": 4.00
+        },
+        {
+            "NOME": "DAVI MENEZES PUPA",
+            "p1": 7.30,
+            "p2": 6.80
+        },
+        {
+            "NOME": "GUILHERME SOARES DE OLIVEIRA",
+            "p1": 6.00,
+            "p2": 6.70
+        },
+        {
+            "NOME": "ISADORA BONALDI VELTEN",
+            "p1": 8.30,
+            "p2": 7.10
+        },
+        {
+            "NOME": "JOAO PEDRO LABRUNE MARTINELLI",
+            "p1": 8.00,
+            "p2": 6.10
+        },
+        {
+            "NOME": "LAURA VARGAS LEGEY",
+            "p1": 7.80,
+            "p2": 8.00
+        },
+        {
+            "NOME": "LORENZO VITORINO",
+            "p1": 7.00,
+            "p2": 8.00
+        },
+        {
+            "NOME": "MARINA BOTELHO RIZZATO",
+            "p1": 8.80,
+            "p2": 7.40
+        },
+        {
+            "NOME": "PAULA CAVALCANTE LEITE PINTO",
+            "p1": 8.60,
+            "p2": 7.40
+        },
+        {
+            "NOME": "PEDRO DE FIGUEIREDO CORTES VAIRO",
+            "p1": 9.50,
+            "p2": 9.80
+        },
+        {
+            "NOME": "PEDRO HENRIQUE COUTINHO VALIATI",
+            "p1": 8.30,
+            "p2": 7.30
+        },
+        {
+            "NOME": "SOPHIA PERPETUO DE MENDONCA BORGES",
+            "p1": 5.00,
+            "p2": 7.00
+        },
+        {
+            "NOME": "THAIS COUTINHO DUARTE LIMA",
+            "p1": 7.10,
+            "p2": 8.60
+        },
+        {
+            "NOME": "VITOR DUARTE MADEIRA",
+            "p1": 9.50,
+            "p2": 7.80
+        },
+        {
+            "NOME": "YASMIN FROTA MONTEIRO SPANHOL",
+            "p1": 7.10,
+            "p2": 5.20
+        }
+    ],
+    "EDUCACAO FISICA": [
+        {
+            "NOME": "ANA CLARA ROMERO SATHLER",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "ANDRE COPOLILLO FARIA",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "ANDRE DE PAULA SIMOES",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "BEATRIZ LARA SERRANO",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "BRUNO AGRIZZI ABAURRE",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "CAIO LOZZER MARTINS",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "CLAUDIA FERNANDES MASSARO",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "DANIEL LEMOS PICHAMONE",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "DAVI COGO VEREZA REZENDE",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "DAVI MENEZES PUPA",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "GUILHERME SOARES DE OLIVEIRA",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "ISADORA BONALDI VELTEN",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "JOAO PEDRO LABRUNE MARTINELLI",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "LAURA VARGAS LEGEY",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "LORENZO VITORINO",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "MARINA BOTELHO RIZZATO",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "PAULA CAVALCANTE LEITE PINTO",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "PEDRO DE FIGUEIREDO CORTES VAIRO",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "PEDRO HENRIQUE COUTINHO VALIATI",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "SOPHIA PERPETUO DE MENDONCA BORGES",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "THAIS COUTINHO DUARTE LIMA",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "VITOR DUARTE MADEIRA",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "YASMIN FROTA MONTEIRO SPANHOL",
+            "p1": 10.0,
+            "p2": 10.0
+        }
+    ],
+    "ESPANHOL": [
+        {
+            "NOME": "ANA CLARA ROMERO SATHLER",
+            "p1": 9.00,
+            "p2": 9.70
+        },
+        {
+            "NOME": "ANDRE COPOLILLO FARIA",
+            "p1": 4.50,
+            "p2": 5.00
+        },
+        {
+            "NOME": "ANDRE DE PAULA SIMOES",
+            "p1": 4.00,
+            "p2": 6.60
+        },
+        {
+            "NOME": "BEATRIZ LARA SERRANO",
+            "p1": 7.60,
+            "p2": 9.60
+        },
+        {
+            "NOME": "BRUNO AGRIZZI ABAURRE",
+            "p1": 9.50,
+            "p2": 9.50
+        },
+        {
+            "NOME": "CAIO LOZZER MARTINS",
+            "p1": 7.50,
+            "p2": 5.50
+        },
+        {
+            "NOME": "CLAUDIA FERNANDES MASSARO",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "DANIEL LEMOS PICHAMONE",
+            "p1": 5.30,
+            "p2": 4.53
+        },
+        {
+            "NOME": "DAVI COGO VEREZA REZENDE",
+            "p1": 7.50,
+            "p2": 8.50
+        },
+        {
+            "NOME": "DAVI MENEZES PUPA",
+            "p1": 8.50,
+            "p2": 9.00
+        },
+        {
+            "NOME": "GUILHERME SOARES DE OLIVEIRA",
+            "p1": 7.20,
+            "p2": 8.50
+        },
+        {
+            "NOME": "ISADORA BONALDI VELTEN",
+            "p1": 8.70,
+            "p2": 9.20
+        },
+        {
+            "NOME": "JOAO PEDRO LABRUNE MARTINELLI",
+            "p1": 5.60,
+            "p2": 6.60
+        },
+        {
+            "NOME": "LAURA VARGAS LEGEY",
+            "p1": 8.00,
+            "p2": 9.20
+        },
+        {
+            "NOME": "LORENZO VITORINO",
+            "p1": 6.00,
+            "p2": 7.20
+        },
+        {
+            "NOME": "MARINA BOTELHO RIZZATO",
+            "p1": 9.10,
+            "p2": 8.60
+        },
+        {
+            "NOME": "PAULA CAVALCANTE LEITE PINTO",
+            "p1": 8.70,
+            "p2": 9.50
+        },
+        {
+            "NOME": "PEDRO DE FIGUEIREDO CORTES VAIRO",
+            "p1": 9.10,
+            "p2": 10.0
+        },
+        {
+            "NOME": "PEDRO HENRIQUE COUTINHO VALIATI",
+            "p1": 8.20,
+            "p2": 9.60
+        },
+        {
+            "NOME": "SOPHIA PERPETUO DE MENDONCA BORGES",
+            "p1": 8.00,
+            "p2": 6.10
+        },
+        {
+            "NOME": "THAIS COUTINHO DUARTE LIMA",
+            "p1": 9.00,
+            "p2": 6.00
+        },
+        {
+            "NOME": "VITOR DUARTE MADEIRA",
+            "p1": 8.10,
+            "p2": 9.20
+        },
+        {
+            "NOME": "YASMIN FROTA MONTEIRO SPANHOL",
+            "p1": 8.00,
+            "p2": 7.00
+        }
+    ],
+    "FILOSOFIA": [
+        {
+            "NOME": "ANA CLARA ROMERO SATHLER",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "ANDRE COPOLILLO FARIA",
+            "p1": 5.00,
+            "p2": 9.00
+        },
+        {
+            "NOME": "ANDRE DE PAULA SIMOES",
+            "p1": 4.90,
+            "p2": 9.00
+        },
+        {
+            "NOME": "BEATRIZ LARA SERRANO",
+            "p1": 9.30,
+            "p2": 10.0
+        },
+        {
+            "NOME": "BRUNO AGRIZZI ABAURRE",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "CAIO LOZZER MARTINS",
+            "p1": 8.00,
+            "p2": 8.00
+        },
+        {
+            "NOME": "CLAUDIA FERNANDES MASSARO",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "DANIEL LEMOS PICHAMONE",
+            "p1": 4.30,
+            "p2": 8.00
+        },
+        {
+            "NOME": "DAVI COGO VEREZA REZENDE",
+            "p1": 7.90,
+            "p2": 8.00
+        },
+        {
+            "NOME": "DAVI MENEZES PUPA",
+            "p1": 10.0,
+            "p2": 9.50
+        },
+        {
+            "NOME": "GUILHERME SOARES DE OLIVEIRA",
+            "p1": 8.10,
+            "p2": 9.00
+        },
+        {
+            "NOME": "ISADORA BONALDI VELTEN",
+            "p1": 9.80,
+            "p2": 9.50
+        },
+        {
+            "NOME": "JOAO PEDRO LABRUNE MARTINELLI",
+            "p1": 8.50,
+            "p2": 9.00
+        },
+        {
+            "NOME": "LAURA VARGAS LEGEY",
+            "p1": 9.40,
+            "p2": 10.0
+        },
+        {
+            "NOME": "LORENZO VITORINO",
+            "p1": 8.90,
+            "p2": 9.00
+        },
+        {
+            "NOME": "MARINA BOTELHO RIZZATO",
+            "p1": 8.10,
+            "p2": 9.50
+        },
+        {
+            "NOME": "PAULA CAVALCANTE LEITE PINTO",
+            "p1": 9.20,
+            "p2": 10.0
+        },
+        {
+            "NOME": "PEDRO DE FIGUEIREDO CORTES VAIRO",
+            "p1": 9.80,
+            "p2": 9.50
+        },
+        {
+            "NOME": "PEDRO HENRIQUE COUTINHO VALIATI",
+            "p1": 8.60,
+            "p2": 9.50
+        },
+        {
+            "NOME": "SOPHIA PERPETUO DE MENDONCA BORGES",
+            "p1": 8.80,
+            "p2": 9.50
+        },
+        {
+            "NOME": "THAIS COUTINHO DUARTE LIMA",
+            "p1": 9.60,
+            "p2": 9.00
+        },
+        {
+            "NOME": "VITOR DUARTE MADEIRA",
+            "p1": 8.40,
+            "p2": 9.50
+        },
+        {
+            "NOME": "YASMIN FROTA MONTEIRO SPANHOL",
+            "p1": 7.60,
+            "p2": 9.50
+        }
+    ],
+    "GEOGRAFIA": [
+        {
+            "NOME": "ANA CLARA ROMERO SATHLER",
+            "p1": 8.80,
+            "p2": 8.00
+        },
+        {
+            "NOME": "ANDRE COPOLILLO FARIA",
+            "p1": 5.00,
+            "p2": 9.00
+        },
+        {
+            "NOME": "ANDRE DE PAULA SIMOES",
+            "p1": 5.80,
+            "p2": 5.70
+        },
+        {
+            "NOME": "BEATRIZ LARA SERRANO",
+            "p1": 9.00,
+            "p2": 10.0
+        },
+        {
+            "NOME": "BRUNO AGRIZZI ABAURRE",
+            "p1": 9.00,
+            "p2": 10.0
+        },
+        {
+            "NOME": "CAIO LOZZER MARTINS",
+            "p1": 9.10,
+            "p2": 4.00
+        },
+        {
+            "NOME": "CLAUDIA FERNANDES MASSARO",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "DANIEL LEMOS PICHAMONE",
+            "p1": 5.50,
+            "p2": 8.50
+        },
+        {
+            "NOME": "DAVI COGO VEREZA REZENDE",
+            "p1": 5.00,
+            "p2": 6.00
+        },
+        {
+            "NOME": "DAVI MENEZES PUPA",
+            "p1": 9.00,
+            "p2": 8.50
+        },
+        {
+            "NOME": "GUILHERME SOARES DE OLIVEIRA",
+            "p1": 7.10,
+            "p2": 6.00
+        },
+        {
+            "NOME": "ISADORA BONALDI VELTEN",
+            "p1": 9.20,
+            "p2": 10.0
+        },
+        {
+            "NOME": "JOAO PEDRO LABRUNE MARTINELLI",
+            "p1": 6.50,
+            "p2": 6.00
+        },
+        {
+            "NOME": "LAURA VARGAS LEGEY",
+            "p1": 6.10,
+            "p2": 10.0
+        },
+        {
+            "NOME": "LORENZO VITORINO",
+            "p1": 6.20,
+            "p2": 8.50
+        },
+        {
+            "NOME": "MARINA BOTELHO RIZZATO",
+            "p1": 8.00,
+            "p2": 8.50
+        },
+        {
+            "NOME": "PAULA CAVALCANTE LEITE PINTO",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "PEDRO DE FIGUEIREDO CORTES VAIRO",
+            "p1": 10.0,
+            "p2": 6.50
+        },
+        {
+            "NOME": "PEDRO HENRIQUE COUTINHO VALIATI",
+            "p1": 8.50,
+            "p2": 10.0
+        },
+        {
+            "NOME": "SOPHIA PERPETUO DE MENDONCA BORGES",
+            "p1": 8.50,
+            "p2": 5.60
+        },
+        {
+            "NOME": "THAIS COUTINHO DUARTE LIMA",
+            "p1": 10.0,
+            "p2": 9.20
+        },
+        {
+            "NOME": "VITOR DUARTE MADEIRA",
+            "p1": 9.60,
+            "p2": 7.50
+        },
+        {
+            "NOME": "YASMIN FROTA MONTEIRO SPANHOL",
+            "p1": 8.00,
+            "p2": 9.40
+        }
+    ],
+    "HISTORIA": [
+        {
+            "NOME": "ANA CLARA ROMERO SATHLER",
+            "p1": 10.0,
+            "p2": 8.80
+        },
+        {
+            "NOME": "ANDRE COPOLILLO FARIA",
+            "p1": 4.50,
+            "p2": 4.30
+        },
+        {
+            "NOME": "ANDRE DE PAULA SIMOES",
+            "p1": 6.10,
+            "p2": 6.40
+        },
+        {
+            "NOME": "BEATRIZ LARA SERRANO",
+            "p1": 9.80,
+            "p2": 8.80
+        },
+        {
+            "NOME": "BRUNO AGRIZZI ABAURRE",
+            "p1": 10.0,
+            "p2": 8.80
+        },
+        {
+            "NOME": "CAIO LOZZER MARTINS",
+            "p1": 8.80,
+            "p2": 3.50
+        },
+        {
+            "NOME": "CLAUDIA FERNANDES MASSARO",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "DANIEL LEMOS PICHAMONE",
+            "p1": 5.50,
+            "p2": 5.50
+        },
+        {
+            "NOME": "DAVI COGO VEREZA REZENDE",
+            "p1": 7.35,
+            "p2": 2.40
+        },
+        {
+            "NOME": "DAVI MENEZES PUPA",
+            "p1": 6.40,
+            "p2": 8.20
+        },
+        {
+            "NOME": "GUILHERME SOARES DE OLIVEIRA",
+            "p1": 9.05,
+            "p2": 6.40
+        },
+        {
+            "NOME": "ISADORA BONALDI VELTEN",
+            "p1": 10.0,
+            "p2": 9.40
+        },
+        {
+            "NOME": "JOAO PEDRO LABRUNE MARTINELLI",
+            "p1": 7.00,
+            "p2": 5.50
+        },
+        {
+            "NOME": "LAURA VARGAS LEGEY",
+            "p1": 8.30,
+            "p2": 5.20
+        },
+        {
+            "NOME": "LORENZO VITORINO",
+            "p1": 9.05,
+            "p2": 6.30
+        },
+        {
+            "NOME": "MARINA BOTELHO RIZZATO",
+            "p1": 10.0,
+            "p2": 7.30
+        },
+        {
+            "NOME": "PAULA CAVALCANTE LEITE PINTO",
+            "p1": 8.50,
+            "p2": 8.30
+        },
+        {
+            "NOME": "PEDRO DE FIGUEIREDO CORTES VAIRO",
+            "p1": 10.0,
+            "p2": 9.00
+        },
+        {
+            "NOME": "PEDRO HENRIQUE COUTINHO VALIATI",
+            "p1": 9.35,
+            "p2": 8.10
+        },
+        {
+            "NOME": "SOPHIA PERPETUO DE MENDONCA BORGES",
+            "p1": 6.85,
+            "p2": 7.80
+        },
+        {
+            "NOME": "THAIS COUTINHO DUARTE LIMA",
+            "p1": 7.00,
+            "p2": 5.20
+        },
+        {
+            "NOME": "VITOR DUARTE MADEIRA",
+            "p1": 8.00,
+            "p2": 6.00
+        },
+        {
+            "NOME": "YASMIN FROTA MONTEIRO SPANHOL",
+            "p1": 6.00,
+            "p2": 3.00
+        }
+    ],
+    "INGLES": [
+        {
+            "NOME": "ANA CLARA ROMERO SATHLER",
+            "p1": 8.70,
+            "p2": 9.40
+        },
+        {
+            "NOME": "ANDRE COPOLILLO FARIA",
+            "p1": 5.65,
+            "p2": 6.85
+        },
+        {
+            "NOME": "ANDRE DE PAULA SIMOES",
+            "p1": 2.95,
+            "p2": 6.05
+        },
+        {
+            "NOME": "BEATRIZ LARA SERRANO",
+            "p1": 9.90,
+            "p2": 8.85
+        },
+        {
+            "NOME": "BRUNO AGRIZZI ABAURRE",
+            "p1": 9.10,
+            "p2": 9.80
+        },
+        {
+            "NOME": "CAIO LOZZER MARTINS",
+            "p1": 9.80,
+            "p2": 8.35
+        },
+        {
+            "NOME": "CLAUDIA FERNANDES MASSARO",
+            "p1": 8.30,
+            "p2": 9.30
+        },
+        {
+            "NOME": "DANIEL LEMOS PICHAMONE",
+            "p1": 7.25,
+            "p2": 7.95
+        },
+        {
+            "NOME": "DAVI COGO VEREZA REZENDE",
+            "p1": 9.90,
+            "p2": 7.85
+        },
+        {
+            "NOME": "DAVI MENEZES PUPA",
+            "p1": 10.0,
+            "p2": 9.60
+        },
+        {
+            "NOME": "GUILHERME SOARES DE OLIVEIRA",
+            "p1": 10.0,
+            "p2": 8.75
+        },
+        {
+            "NOME": "ISADORA BONALDI VELTEN",
+            "p1": 10.0,
+            "p2": 8.95
+        },
+        {
+            "NOME": "JOAO PEDRO LABRUNE MARTINELLI",
+            "p1": 9.20,
+            "p2": 7.55
+        },
+        {
+            "NOME": "LAURA VARGAS LEGEY",
+            "p1": 9.95,
+            "p2": 8.80
+        },
+        {
+            "NOME": "LORENZO VITORINO",
+            "p1": 10.0,
+            "p2": 9.35
+        },
+        {
+            "NOME": "MARINA BOTELHO RIZZATO",
+            "p1": 10.0,
+            "p2": 9.60
+        },
+        {
+            "NOME": "PAULA CAVALCANTE LEITE PINTO",
+            "p1": 8.20,
+            "p2": 9.35
+        },
+        {
+            "NOME": "PEDRO DE FIGUEIREDO CORTES VAIRO",
+            "p1": 8.50,
+            "p2": 9.40
+        },
+        {
+            "NOME": "PEDRO HENRIQUE COUTINHO VALIATI",
+            "p1": 8.90,
+            "p2": 8.25
+        },
+        {
+            "NOME": "SOPHIA PERPETUO DE MENDONCA BORGES",
+            "p1": 10.0,
+            "p2": 8.80
+        },
+        {
+            "NOME": "THAIS COUTINHO DUARTE LIMA",
+            "p1": 9.25,
+            "p2": 8.20
+        },
+        {
+            "NOME": "VITOR DUARTE MADEIRA",
+            "p1": 8.90,
+            "p2": 7.80
+        },
+        {
+            "NOME": "YASMIN FROTA MONTEIRO SPANHOL",
+            "p1": 9.60,
+            "p2": 8.45
+        }
+    ],
+    "PORTUGUES": [
+        {
+            "NOME": "ANA CLARA ROMERO SATHLER",
+            "p1": 8.50,
+            "p2": 9.20
+        },
+        {
+            "NOME": "ANDRE COPOLILLO FARIA",
+            "p1": 5.35,
+            "p2": 6.00
+        },
+        {
+            "NOME": "ANDRE DE PAULA SIMOES",
+            "p1": 5.50,
+            "p2": 7.00
+        },
+        {
+            "NOME": "BEATRIZ LARA SERRANO",
+            "p1": 8.55,
+            "p2": 7.90
+        },
+        {
+            "NOME": "BRUNO AGRIZZI ABAURRE",
+            "p1": 8.65,
+            "p2": 9.30
+        },
+        {
+            "NOME": "CAIO LOZZER MARTINS",
+            "p1": 5.40,
+            "p2": 5.10
+        },
+        {
+            "NOME": "CLAUDIA FERNANDES MASSARO",
+            "p1": 10.0,
+            "p2": 9.75
+        },
+        {
+            "NOME": "DANIEL LEMOS PICHAMONE",
+            "p1": 5.55,
+            "p2": 6.50
+        },
+        {
+            "NOME": "DAVI COGO VEREZA REZENDE",
+            "p1": 6.75,
+            "p2": 4.30
+        },
+        {
+            "NOME": "DAVI MENEZES PUPA",
+            "p1": 6.75,
+            "p2": 4.30
+        },
+        {
+            "NOME": "GUILHERME SOARES DE OLIVEIRA",
+            "p1": 6.95,
+            "p2": 6.40
+        },
+        {
+            "NOME": "ISADORA BONALDI VELTEN",
+            "p1": 8.35,
+            "p2": 9.15
+        },
+        {
+            "NOME": "JOAO PEDRO LABRUNE MARTINELLI",
+            "p1": 5.50,
+            "p2": 4.50
+        },
+        {
+            "NOME": "LAURA VARGAS LEGEY",
+            "p1": 8.05,
+            "p2": 7.55
+        },
+        {
+            "NOME": "LORENZO VITORINO",
+            "p1": 5.40,
+            "p2": 5.70
+        },
+        {
+            "NOME": "MARINA BOTELHO RIZZATO",
+            "p1": 9.20,
+            "p2": 7.70
+        },
+        {
+            "NOME": "PAULA CAVALCANTE LEITE PINTO",
+            "p1": 9.20,
+            "p2": 8.80
+        },
+        {
+            "NOME": "PEDRO DE FIGUEIREDO CORTES VAIRO",
+            "p1": 7.90,
+            "p2": 7.35
+        },
+        {
+            "NOME": "PEDRO HENRIQUE COUTINHO VALIATI",
+            "p1": 8.50,
+            "p2": 8.30
+        },
+        {
+            "NOME": "SOPHIA PERPETUO DE MENDONCA BORGES",
+            "p1": 7.65,
+            "p2": 6.05
+        },
+        {
+            "NOME": "THAIS COUTINHO DUARTE LIMA",
+            "p1": 5.20,
+            "p2": 7.60
+        },
+        {
+            "NOME": "VITOR DUARTE MADEIRA",
+            "p1": 8.25,
+            "p2": 7.00
+        },
+        {
+            "NOME": "YASMIN FROTA MONTEIRO SPANHOL",
+            "p1": 5.30,
+            "p2": 6.00
+        }
+    ],
+    "MATEMATICA": [
+        {
+            "NOME": "ANA CLARA ROMERO SATHLER",
+            "p1": 8.90,
+            "p2": 9.60
+        },
+        {
+            "NOME": "ANDRE COPOLILLO FARIA",
+            "p1": 2.75,
+            "p2": 6.55
+        },
+        {
+            "NOME": "ANDRE DE PAULA SIMOES",
+            "p1": 4.40,
+            "p2": 8.50
+        },
+        {
+            "NOME": "BEATRIZ LARA SERRANO",
+            "p1": 9.00,
+            "p2": 8.30
+        },
+        {
+            "NOME": "BRUNO AGRIZZI ABAURRE",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "CAIO LOZZER MARTINS",
+            "p1": 8.90,
+            "p2": 8.70
+        },
+        {
+            "NOME": "CLAUDIA FERNANDES MASSARO",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "DANIEL LEMOS PICHAMONE",
+            "p1": 3.65,
+            "p2": 6.05
+        },
+        {
+            "NOME": "DAVI COGO VEREZA REZENDE",
+            "p1": 5.10,
+            "p2": 4.80
+        },
+        {
+            "NOME": "DAVI MENEZES PUPA",
+            "p1": 7.95,
+            "p2": 10.0
+        },
+        {
+            "NOME": "GUILHERME SOARES DE OLIVEIRA",
+            "p1": 6.90,
+            "p2": 8.80
+        },
+        {
+            "NOME": "ISADORA BONALDI VELTEN",
+            "p1": 7.95,
+            "p2": 10.0
+        },
+        {
+            "NOME": "JOAO PEDRO LABRUNE MARTINELLI",
+            "p1": 5.10,
+            "p2": 6.35
+        },
+        {
+            "NOME": "LAURA VARGAS LEGEY",
+            "p1": 6.45,
+            "p2": 8.10
+        },
+        {
+            "NOME": "LORENZO VITORINO",
+            "p1": 8.30,
+            "p2": 7.80
+        },
+        {
+            "NOME": "MARINA BOTELHO RIZZATO",
+            "p1": 8.75,
+            "p2": 9.70
+        },
+        {
+            "NOME": "PAULA CAVALCANTE LEITE PINTO",
+            "p1": 8.90,
+            "p2": 9.40
+        },
+        {
+            "NOME": "PEDRO DE FIGUEIREDO CORTES VAIRO",
+            "p1": 8.50,
+            "p2": 6.40
+        },
+        {
+            "NOME": "PEDRO HENRIQUE COUTINHO VALIATI",
+            "p1": 8.50,
+            "p2": 9.50
+        },
+        {
+            "NOME": "SOPHIA PERPETUO DE MENDONCA BORGES",
+            "p1": 4.85,
+            "p2": 4.00
+        },
+        {
+            "NOME": "THAIS COUTINHO DUARTE LIMA",
+            "p1": 6.45,
+            "p2": 8.30
+        },
+        {
+            "NOME": "VITOR DUARTE MADEIRA",
+            "p1": 9.30,
+            "p2": 7.60
+        },
+        {
+            "NOME": "YASMIN FROTA MONTEIRO SPANHOL",
+            "p1": 4.85,
+            "p2": 5.10
+        }
+    ]
+}
