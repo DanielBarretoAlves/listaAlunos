@@ -13,37 +13,29 @@ namespace classManager
         public Turma()
         {
         }
-        public string GetAluno(string turma, string materia)
+        public string getTurma()
         {
-            string aluno = string.Empty;
+            string turma = string.Empty;
             int escolha = int.MinValue;
-            var json = File.ReadAllText(path: AppDomain.CurrentDomain.BaseDirectory + @turma);
-            DataSet dataset = JsonConvert.DeserializeObject<DataSet>(json);
-            DataTable table = dataset.Tables[materia];
-            for (int i = 0; i < table.Rows.Count; i++)
+            string[] listaTurma = new string[8];
+            listaTurma[0] = "6AM.json";
+            listaTurma[1] = "6BM.json";
+            listaTurma[2] = "7AM.json";
+            listaTurma[3] = "7BM.json";
+            listaTurma[4] = "8AM.json";
+            listaTurma[5] = "8BM.json";
+            listaTurma[6] = "9AM.json";
+            listaTurma[7] = "9BM.json";
+
+            for (int i = 0; i < listaTurma.Length; i++)
             {
-                var row = table.Rows[i];
-                Console.WriteLine(i + 1 + " - " + row["Nome"]);
+                Console.WriteLine(i + " - " + listaTurma[i]);
             }
             escolha = int.Parse(Console.ReadLine());
-            var findName = table.Rows[escolha - 1];
-            aluno = (string)findName["Nome"];
-            return aluno;
+            turma = listaTurma[escolha];
+            return turma;
         }
-        public int selectMateria(string turma)
-        {
-            int materia = int.MinValue;
-            var json = File.ReadAllText(path: AppDomain.CurrentDomain.BaseDirectory + @turma);
-            DataSet dataset = JsonConvert.DeserializeObject<DataSet>(json);
-
-            for (int i = 0; i < dataset.Tables.Count; i++)
-            {
-                Console.WriteLine(i + " - " + dataset.Tables[i]);
-                
-            }
-            Console.WriteLine("Escolha Uma Materia Pelo Numero Da Materia");
-            materia = int.Parse(Console.ReadLine());
-            return materia;
-        }
+        
+       
     }
 }

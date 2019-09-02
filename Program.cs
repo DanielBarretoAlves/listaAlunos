@@ -6,10 +6,31 @@ namespace classManager
     {
         static void Main(string[] args)
         {
-            Materia topic = new Materia();
-            Turma classroom = new Turma();
-            Console.WriteLine(topic.GetAluno("9BM2.json", classroom.selectMateria("9BM2.json")));
+            bool key = false;
+            string addKey;
 
+            while (key != true)
+            {
+                Materia materia = new Materia();
+                Turma classroom = new Turma();
+                Alunos student = new Alunos();
+                //Aluno aluno1 = new Aluno();
+                string turma = classroom.getTurma();
+                int sala = materia.selectMateria(turma);
+                string nome = materia.GetAluno(turma, sala);
+                Console.WriteLine("Rendimento: " + student.getRendimento(turma, sala, nome) + "%");
+                Console.WriteLine("Digite SAIR para Sair");
+                addKey = Console.ReadLine();
+                if (addKey == "sair")
+                {
+                    key = true;
+                }
+            }
+            
+
+            
+            
+            
         }
     }
 }
