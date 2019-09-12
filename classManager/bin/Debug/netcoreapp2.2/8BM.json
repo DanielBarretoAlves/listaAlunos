@@ -1,0 +1,972 @@
+{
+    "ARTES": [
+        {
+            "NOME": "ANNA LUISA MALACARNE SILVA",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "ARTHUR DE SA FREITAS SOARES",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "ARTHUR LOVATTI SOUZA PINTO",
+            "p1": 9.0,
+            "p2": 9.0
+        },
+        {
+            "NOME": "DANIEL ROMANHA GUALBERTO",
+            "p1": 9.0,
+            "p2": 8.0
+        },
+        {
+            "NOME": "DAVI VILACA COLODETTI",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "DERICK SATANN DUSS",
+            "p1": 9.0,
+            "p2": 8.0
+        },
+        {
+            "NOME": "ERLAINE SIMONELLI CAVALLIERI",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "FLORA LOUZZADA MEIRELES",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "IAGO LOZZER MARTINS",
+            "p1": 9.0,
+            "p2": 9.0
+        },
+        {
+            "NOME": "JULIANA MARIA MARTINS DA SILVA",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "LUCA MARINS RAMPINELLI",
+            "p1": 9.0,
+            "p2": 8.0
+        },
+        {
+            "NOME": "LUCAS BATALHA FERRARI",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "MARIA FALABELA PICHIRI MOLONI",
+            "p1": 10.0,
+            "p2": 9.0
+        },
+        {
+            "NOME": "MARIANA AGRIZZI ABAURRE",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "MATHEUS MMYRAD SUDRE SARTORIO",
+            "p1": 9.0,
+            "p2": 9.0
+        },
+        {
+            "NOME": "NINA BASSETTI SANTOS",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "PEDRO HENRIQUE BASSINI LOOSE",
+            "p1": 9.0,
+            "p2": 9.0
+        },
+        {
+            "NOME": "RAFAEL GOMES TCHERNIACOVSKI",
+            "p1": 9.0,
+            "p2": 9.0
+        },
+        {
+            "NOME": "VICTOR BUENO FERRACO",
+            "p1": 10.0,
+            "p2": 10.0
+        }
+    ],
+    "CIENCIAS": [
+        {
+            "NOME": "ANNA LUISA MALACARNE SILVA",
+            "p1": 8.60,
+            "p2": 5.70
+        },
+        {
+            "NOME": "ARTHUR DE SA FREITAS SOARES",
+            "p1": 9.20,
+            "p2": 7.70
+        },
+        {
+            "NOME": "ARTHUR LOVATTI SOUZA PINTO",
+            "p1": 9.70,
+            "p2": 7.20
+        },
+        {
+            "NOME": "DANIEL ROMANHA GUALBERTO",
+            "p1": 7.0,
+            "p2": 7.80
+        },
+        {
+            "NOME": "DAVI VILACA COLODETTI",
+            "p1": 7.90,
+            "p2": 8.30
+        },
+        {
+            "NOME": "DERICK SATANN DUSS",
+            "p1": 5.0,
+            "p2": 7.50
+        },
+        {
+            "NOME": "ERLAINE SIMONELLI CAVALLIERI",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "FLORA LOUZZADA MEIRELES",
+            "p1": 9.70,
+            "p2": 9.80
+        },
+        {
+            "NOME": "IAGO LOZZER MARTINS",
+            "p1": 7.50,
+            "p2": 5.90
+        },
+        {
+            "NOME": "JULIANA MARIA MARTINS DA SILVA",
+            "p1": 9.20,
+            "p2": 9.70
+        },
+        {
+            "NOME": "LUCA MARINS RAMPINELLI",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "LUCAS BATALHA FERRARI",
+            "p1": 9.80,
+            "p2": 9.10
+        },
+        {
+            "NOME": "MARIA FALABELA PICHIRI MOLONI",
+            "p1": 4.80,
+            "p2": 6.50
+        },
+        {
+            "NOME": "MARIANA AGRIZZI ABAURRE",
+            "p1": 10.0,
+            "p2": 9.80
+        },
+        {
+            "NOME": "MATHEUS MMYRAD SUDRE SARTORIO",
+            "p1": 5.90,
+            "p2": 6.50
+        },
+        {
+            "NOME": "NINA BASSETTI SANTOS",
+            "p1": 10.0,
+            "p2": 8.0
+        },
+        {
+            "NOME": "PEDRO HENRIQUE BASSINI LOOSE",
+            "p1": 7.0,
+            "p2": 4.80
+        },
+        {
+            "NOME": "RAFAEL GOMES TCHERNIACOVSKI",
+            "p1": 9.30,
+            "p2": 7.70
+        },
+        {
+            "NOME": "VICTOR BUENO FERRACO",
+            "p1": 2.80,
+            "p2": 7.80
+        }
+    ],
+    "EDUCACAO FISICA": [
+        {
+            "NOME": "ANNA LUISA MALACARNE SILVA",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "ARTHUR DE SA FREITAS SOARES",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "ARTHUR LOVATTI SOUZA PINTO",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "DANIEL ROMANHA GUALBERTO",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "DAVI VILACA COLODETTI",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "DERICK SATANN DUSS",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "ERLAINE SIMONELLI CAVALLIERI",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "FLORA LOUZZADA MEIRELES",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "IAGO LOZZER MARTINS",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "JULIANA MARIA MARTINS DA SILVA",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "LUCA MARINS RAMPINELLI",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "LUCAS BATALHA FERRARI",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "MARIA FALABELA PICHIRI MOLONI",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "MARIANA AGRIZZI ABAURRE",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "MATHEUS MMYRAD SUDRE SARTORIO",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "NINA BASSETTI SANTOS",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "PEDRO HENRIQUE BASSINI LOOSE",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "RAFAEL GOMES TCHERNIACOVSKI",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "VICTOR BUENO FERRACO",
+            "p1": 10.0,
+            "p2": 10.0
+        }
+    ],
+    "ESPANHOL": [
+        {
+            "NOME": "ANNA LUISA MALACARNE SILVA",
+            "p1": 6.20,
+            "p2": 6.20
+        },
+        {
+            "NOME": "ARTHUR DE SA FREITAS SOARES",
+            "p1": 7.50,
+            "p2": 7.50
+        },
+        {
+            "NOME": "ARTHUR LOVATTI SOUZA PINTO",
+            "p1": 7.50,
+            "p2": 5.50
+        },
+        {
+            "NOME": "DANIEL ROMANHA GUALBERTO",
+            "p1": 6.70,
+            "p2": 8.0
+        },
+        {
+            "NOME": "DAVI VILACA COLODETTI",
+            "p1": 8.20,
+            "p2": 6.0
+        },
+        {
+            "NOME": "DERICK SATANN DUSS",
+            "p1": 6.20,
+            "p2": 4.0
+        },
+        {
+            "NOME": "ERLAINE SIMONELLI CAVALLIERI",
+            "p1": 8.60,
+            "p2": 8.50
+        },
+        {
+            "NOME": "FLORA LOUZZADA MEIRELES",
+            "p1": 7.60,
+            "p2": 9.0
+        },
+        {
+            "NOME": "IAGO LOZZER MARTINS",
+            "p1": 7.0,
+            "p2": 6.70
+        },
+        {
+            "NOME": "JULIANA MARIA MARTINS DA SILVA",
+            "p1": 8.10,
+            "p2": 6.0
+        },
+        {
+            "NOME": "LUCA MARINS RAMPINELLI",
+            "p1": 7.50,
+            "p2": 8.50
+        },
+        {
+            "NOME": "LUCAS BATALHA FERRARI",
+            "p1": 8.0,
+            "p2": 7.10
+        },
+        {
+            "NOME": "MARIA FALABELA PICHIRI MOLONI",
+            "p1": 8.50,
+            "p2": 7.0
+        },
+        {
+            "NOME": "MARIANA AGRIZZI ABAURRE",
+            "p1": 9.10,
+            "p2": 8.0
+        },
+        {
+            "NOME": "MATHEUS MMYRAD SUDRE SARTORIO",
+            "p1": 8.50,
+            "p2": 5.0
+        },
+        {
+            "NOME": "NINA BASSETTI SANTOS",
+            "p1": 8.60,
+            "p2": 8.20
+        },
+        {
+            "NOME": "PEDRO HENRIQUE BASSINI LOOSE",
+            "p1": 7.20,
+            "p2": 6.10
+        },
+        {
+            "NOME": "RAFAEL GOMES TCHERNIACOVSKI",
+            "p1": 8.0,
+            "p2": 6.60
+        },
+        {
+            "NOME": "VICTOR BUENO FERRACO",
+            "p1": 5.50,
+            "p2": 1.20
+        }
+    ],
+    "FILOSOFIA": [
+        {
+            "NOME": "ANNA LUISA MALACARNE SILVA",
+            "p1": 8.50,
+            "p2": 7.30
+        },
+        {
+            "NOME": "ARTHUR DE SA FREITAS SOARES",
+            "p1": 10.0,
+            "p2": 8.50
+        },
+        {
+            "NOME": "ARTHUR LOVATTI SOUZA PINTO",
+            "p1": 8.25,
+            "p2": 7.30
+        },
+        {
+            "NOME": "DANIEL ROMANHA GUALBERTO",
+            "p1": 9.50,
+            "p2": 9.80
+        },
+        {
+            "NOME": "DAVI VILACA COLODETTI",
+            "p1": 9.25,
+            "p2": 10.0
+        },
+        {
+            "NOME": "DERICK SATANN DUSS",
+            "p1": 8.25,
+            "p2": 3.20
+        },
+        {
+            "NOME": "ERLAINE SIMONELLI CAVALLIERI",
+            "p1": 8.75,
+            "p2": 8.0
+        },
+        {
+            "NOME": "FLORA LOUZZADA MEIRELES",
+            "p1": 9.0,
+            "p2": 7.70
+        },
+        {
+            "NOME": "IAGO LOZZER MARTINS",
+            "p1": 9.25,
+            "p2": 8.70
+        },
+        {
+            "NOME": "JULIANA MARIA MARTINS DA SILVA",
+            "p1": 9.50,
+            "p2": 9.50
+        },
+        {
+            "NOME": "LUCA MARINS RAMPINELLI",
+            "p1": 9.50,
+            "p2": 9.0
+        },
+        {
+            "NOME": "LUCAS BATALHA FERRARI",
+            "p1": 9.50,
+            "p2": 9.0
+        },
+        {
+            "NOME": "MARIA FALABELA PICHIRI MOLONI",
+            "p1": 8.0,
+            "p2": 4.70
+        },
+        {
+            "NOME": "MARIANA AGRIZZI ABAURRE",
+            "p1": 9.0,
+            "p2": 9.0
+        },
+        {
+            "NOME": "MATHEUS MMYRAD SUDRE SARTORIO",
+            "p1": 9.50,
+            "p2": 8.0
+        },
+        {
+            "NOME": "NINA BASSETTI SANTOS",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "PEDRO HENRIQUE BASSINI LOOSE",
+            "p1": 8.25,
+            "p2": 6.0
+        },
+        {
+            "NOME": "RAFAEL GOMES TCHERNIACOVSKI",
+            "p1": 9.25,
+            "p2": 10.0
+        },
+        {
+            "NOME": "VICTOR BUENO FERRACO",
+            "p1": 9.0,
+            "p2": 3.50
+        }
+    ],
+    "GEOGRAFIA": [
+        {
+            "NOME": "ANNA LUISA MALACARNE SILVA",
+            "p1": 4.70,
+            "p2": 3.30
+        },
+        {
+            "NOME": "ARTHUR DE SA FREITAS SOARES",
+            "p1": 8.0,
+            "p2": 8.90
+        },
+        {
+            "NOME": "ARTHUR LOVATTI SOUZA PINTO",
+            "p1": 6.20,
+            "p2": 8.50
+        },
+        {
+            "NOME": "DANIEL ROMANHA GUALBERTO",
+            "p1": 6.0,
+            "p2": 6.90
+        },
+        {
+            "NOME": "DAVI VILACA COLODETTI",
+            "p1": 6.10,
+            "p2": 7.70
+        },
+        {
+            "NOME": "DERICK SATANN DUSS",
+            "p1": 3.50,
+            "p2": 7.10
+        },
+        {
+            "NOME": "ERLAINE SIMONELLI CAVALLIERI",
+            "p1": 8.40,
+            "p2": 9.30
+        },
+        {
+            "NOME": "FLORA LOUZZADA MEIRELES",
+            "p1": 7.50,
+            "p2": 8.70
+        },
+        {
+            "NOME": "IAGO LOZZER MARTINS",
+            "p1": 7.30,
+            "p2": 7.0
+        },
+        {
+            "NOME": "JULIANA MARIA MARTINS DA SILVA",
+            "p1": 8.20,
+            "p2": 8.0
+        },
+        {
+            "NOME": "LUCA MARINS RAMPINELLI",
+            "p1": 9.10,
+            "p2": 9.0
+        },
+        {
+            "NOME": "LUCAS BATALHA FERRARI",
+            "p1": 8.0,
+            "p2": 7.70
+        },
+        {
+            "NOME": "MARIA FALABELA PICHIRI MOLONI",
+            "p1": 4.20,
+            "p2": 4.30
+        },
+        {
+            "NOME": "MARIANA AGRIZZI ABAURRE",
+            "p1": 8.20,
+            "p2": 10.0
+        },
+        {
+            "NOME": "MATHEUS MMYRAD SUDRE SARTORIO",
+            "p1": 7.20,
+            "p2": 6.0
+        },
+        {
+            "NOME": "NINA BASSETTI SANTOS",
+            "p1": 7.10,
+            "p2": 9.0
+        },
+        {
+            "NOME": "PEDRO HENRIQUE BASSINI LOOSE",
+            "p1": 5.50,
+            "p2": 7.20
+        },
+        {
+            "NOME": "RAFAEL GOMES TCHERNIACOVSKI",
+            "p1": 7.30,
+            "p2": 8.40
+        },
+        {
+            "NOME": "VICTOR BUENO FERRACO",
+            "p1": 5.30,
+            "p2": 2.0
+        }
+    ],
+    "HISTORIA": [
+        {
+            "NOME": "ANNA LUISA MALACARNE SILVA",
+            "p1": 5.0,
+            "p2": 6.60
+        },
+        {
+            "NOME": "ARTHUR DE SA FREITAS SOARES",
+            "p1": 6.40,
+            "p2": 8.30
+        },
+        {
+            "NOME": "ARTHUR LOVATTI SOUZA PINTO",
+            "p1": 5.0,
+            "p2": 7.30
+        },
+        {
+            "NOME": "DANIEL ROMANHA GUALBERTO",
+            "p1": 3.60,
+            "p2": 4.70
+        },
+        {
+            "NOME": "DAVI VILACA COLODETTI",
+            "p1": 6.30,
+            "p2": 6.0
+        },
+        {
+            "NOME": "DERICK SATANN DUSS",
+            "p1": 3.40,
+            "p2": 4.30
+        },
+        {
+            "NOME": "ERLAINE SIMONELLI CAVALLIERI",
+            "p1": 8.20,
+            "p2": 9.30
+        },
+        {
+            "NOME": "FLORA LOUZZADA MEIRELES",
+            "p1": 7.30,
+            "p2": 8.80
+        },
+        {
+            "NOME": "IAGO LOZZER MARTINS",
+            "p1": 6.0,
+            "p2": 5.20
+        },
+        {
+            "NOME": "JULIANA MARIA MARTINS DA SILVA",
+            "p1": 7.50,
+            "p2": 8.50
+        },
+        {
+            "NOME": "LUCA MARINS RAMPINELLI",
+            "p1": 8.0,
+            "p2": 9.30
+        },
+        {
+            "NOME": "LUCAS BATALHA FERRARI",
+            "p1": 8.20,
+            "p2": 9.50
+        },
+        {
+            "NOME": "MARIA FALABELA PICHIRI MOLONI",
+            "p1": 3.40,
+            "p2": 7.80
+        },
+        {
+            "NOME": "MARIANA AGRIZZI ABAURRE",
+            "p1": 9.10,
+            "p2": 8.80
+        },
+        {
+            "NOME": "MATHEUS MMYRAD SUDRE SARTORIO",
+            "p1": 3.80,
+            "p2": 6.0
+        },
+        {
+            "NOME": "NINA BASSETTI SANTOS",
+            "p1": 7.0,
+            "p2": 6.80
+        },
+        {
+            "NOME": "PEDRO HENRIQUE BASSINI LOOSE",
+            "p1": 3.80,
+            "p2": 5.10
+        },
+        {
+            "NOME": "RAFAEL GOMES TCHERNIACOVSKI",
+            "p1": 5.40,
+            "p2": 7.30
+        },
+        {
+            "NOME": "VICTOR BUENO FERRACO",
+            "p1": 3.50,
+            "p2": 1.0
+        }
+    ],
+    "INGLES": [
+        {
+            "NOME": "ANNA LUISA MALACARNE SILVA",
+            "p1": 9.50,
+            "p2": 8.80
+        },
+        {
+            "NOME": "ARTHUR DE SA FREITAS SOARES",
+            "p1": 7.50,
+            "p2": 7.20
+        },
+        {
+            "NOME": "ARTHUR LOVATTI SOUZA PINTO",
+            "p1": 8.45,
+            "p2": 9.0
+        },
+        {
+            "NOME": "DANIEL ROMANHA GUALBERTO",
+            "p1": 8.50,
+            "p2": 8.30
+        },
+        {
+            "NOME": "DAVI VILACA COLODETTI",
+            "p1": 7.45,
+            "p2": 8.10
+        },
+        {
+            "NOME": "DERICK SATANN DUSS",
+            "p1": 8.45,
+            "p2": 7.85
+        },
+        {
+            "NOME": "ERLAINE SIMONELLI CAVALLIERI",
+            "p1": 9.50,
+            "p2": 9.25
+        },
+        {
+            "NOME": "FLORA LOUZZADA MEIRELES",
+            "p1": 8.95,
+            "p2": 8.95
+        },
+        {
+            "NOME": "IAGO LOZZER MARTINS",
+            "p1": 10.0,
+            "p2": 7.10
+        },
+        {
+            "NOME": "JULIANA MARIA MARTINS DA SILVA",
+            "p1": 5.40,
+            "p2": 6.10
+        },
+        {
+            "NOME": "LUCA MARINS RAMPINELLI",
+            "p1": 7.70,
+            "p2": 8.36
+        },
+        {
+            "NOME": "LUCAS BATALHA FERRARI",
+            "p1": 7.50,
+            "p2": 9.20
+        },
+        {
+            "NOME": "MARIA FALABELA PICHIRI MOLONI",
+            "p1": 9.05,
+            "p2": 7.30
+        },
+        {
+            "NOME": "MARIANA AGRIZZI ABAURRE",
+            "p1": 8.60,
+            "p2": 8.90
+        },
+        {
+            "NOME": "MATHEUS MMYRAD SUDRE SARTORIO",
+            "p1": 7.80,
+            "p2": 7.10
+        },
+        {
+            "NOME": "NINA BASSETTI SANTOS",
+            "p1": 9.95,
+            "p2": 9.65
+        },
+        {
+            "NOME": "PEDRO HENRIQUE BASSINI LOOSE",
+            "p1": 7.40,
+            "p2": 8.85
+        },
+        {
+            "NOME": "RAFAEL GOMES TCHERNIACOVSKI",
+            "p1": 9.0,
+            "p2": 8.90
+        },
+        {
+            "NOME": "VICTOR BUENO FERRACO",
+            "p1": 8.0,
+            "p2": 6.60
+        }
+    ],
+    "PORTUGUES": [
+        {
+            "NOME": "ANNA LUISA MALACARNE SILVA",
+            "p1": 5.30,
+            "p2": 4.65
+        },
+        {
+            "NOME": "ARTHUR DE SA FREITAS SOARES",
+            "p1": 7.60,
+            "p2": 6.50
+        },
+        {
+            "NOME": "ARTHUR LOVATTI SOUZA PINTO",
+            "p1": 8.80,
+            "p2": 6.80
+        },
+        {
+            "NOME": "DANIEL ROMANHA GUALBERTO",
+            "p1": 8.50,
+            "p2": 3.40
+        },
+        {
+            "NOME": "DAVI VILACA COLODETTI",
+            "p1": 7.20,
+            "p2": 7.40
+        },
+        {
+            "NOME": "DERICK SATANN DUSS",
+            "p1": 4.0,
+            "p2": 6.40
+        },
+        {
+            "NOME": "ERLAINE SIMONELLI CAVALLIERI",
+            "p1": 4.0,
+            "p2": 6.40
+        },
+        {
+            "NOME": "FLORA LOUZZADA MEIRELES",
+            "p1": 6.60,
+            "p2": 6.40
+        },
+        {
+            "NOME": "IAGO LOZZER MARTINS",
+            "p1": 8.0,
+            "p2": 4.80
+        },
+        {
+            "NOME": "JULIANA MARIA MARTINS DA SILVA",
+            "p1": 9.10,
+            "p2": 9.90
+        },
+        {
+            "NOME": "LUCA MARINS RAMPINELLI",
+            "p1": 8.70,
+            "p2": 9.50
+        },
+        {
+            "NOME": "LUCAS BATALHA FERRARI",
+            "p1": 9.40,
+            "p2": 8.40
+        },
+        {
+            "NOME": "MARIA FALABELA PICHIRI MOLONI",
+            "p1": 7.30,
+            "p2": 8.0
+        },
+        {
+            "NOME": "MARIANA AGRIZZI ABAURRE",
+            "p1": 9.10,
+            "p2": 9.70
+        },
+        {
+            "NOME": "MATHEUS MMYRAD SUDRE SARTORIO",
+            "p1": 8.40,
+            "p2": 8.10
+        },
+        {
+            "NOME": "NINA BASSETTI SANTOS",
+            "p1": 9.50,
+            "p2": 9.20
+        },
+        {
+            "NOME": "PEDRO HENRIQUE BASSINI LOOSE",
+            "p1": 6.40,
+            "p2": 6.90
+        },
+        {
+            "NOME": "RAFAEL GOMES TCHERNIACOVSKI",
+            "p1": 7.60,
+            "p2": 2.50
+        },
+        {
+            "NOME": "VICTOR BUENO FERRACO",
+            "p1": 3.90,
+            "p2": 5.20
+        }
+    ],
+    "MATEMATICA": [
+        {
+            "NOME": "ANNA LUISA MALACARNE SILVA",
+            "p1": 5.25,
+            "p2": 3.30
+        },
+        {
+            "NOME": "ARTHUR DE SA FREITAS SOARES",
+            "p1": 3.20,
+            "p2": 5.80
+        },
+        {
+            "NOME": "ARTHUR LOVATTI SOUZA PINTO",
+            "p1": 8.80,
+            "p2": 6.50
+        },
+        {
+            "NOME": "DANIEL ROMANHA GUALBERTO",
+            "p1": 5.0,
+            "p2": 1.80
+        },
+        {
+            "NOME": "DAVI VILACA COLODETTI",
+            "p1": 2.60,
+            "p2": 5.10
+        },
+        {
+            "NOME": "DERICK SATANN DUSS",
+            "p1": 4.50,
+            "p2": 7.20
+        },
+        {
+            "NOME": "ERLAINE SIMONELLI CAVALLIERI",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "FLORA LOUZZADA MEIRELES",
+            "p1": 5.20,
+            "p2": 7.10
+        },
+        {
+            "NOME": "IAGO LOZZER MARTINS",
+            "p1": 7.45,
+            "p2": 6.05
+        },
+        {
+            "NOME": "JULIANA MARIA MARTINS DA SILVA",
+            "p1": 8.70,
+            "p2": 9.10
+        },
+        {
+            "NOME": "LUCA MARINS RAMPINELLI",
+            "p1": 7.90,
+            "p2": 8.40
+        },
+        {
+            "NOME": "LUCAS BATALHA FERRARI",
+            "p1": 7.60,
+            "p2": 9.55
+        },
+        {
+            "NOME": "MARIA FALABELA PICHIRI MOLONI",
+            "p1": 6.60,
+            "p2": 6.60
+        },
+        {
+            "NOME": "MARIANA AGRIZZI ABAURRE",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "MATHEUS MMYRAD SUDRE SARTORIO",
+            "p1": 8.35,
+            "p2": 6.40
+        },
+        {
+            "NOME": "NINA BASSETTI SANTOS",
+            "p1": 7.90,
+            "p2": 7.30
+        },
+        {
+            "NOME": "PEDRO HENRIQUE BASSINI LOOSE",
+            "p1": 6.10,
+            "p2": 6.30
+        },
+        {
+            "NOME": "RAFAEL GOMES TCHERNIACOVSKI",
+            "p1": 8.30,
+            "p2": 7.55
+        },
+        {
+            "NOME": "VICTOR BUENO FERRACO",
+            "p1": 0.50,
+            "p2": 3.90
+        }
+    ]
+}

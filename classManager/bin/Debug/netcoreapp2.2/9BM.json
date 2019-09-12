@@ -1,0 +1,835 @@
+﻿{
+    "ARTES": [
+        { 
+          "NOME" : "ANA CAROLINA DE PAULA SIMOES",
+          "p1": 10.0,
+          "p2": 10.0
+        },
+        {
+          "NOME" : "BEATRIZ BAIOCO VESCOVI",
+          "p1": 10.0,
+          "p2": 10.0
+         
+        },{
+          "NOME" : "DIOGO IVAN CABALLERO OTAROLA",
+          "p1": 10.0,
+          "p2": 8.0
+      
+        },{
+        "NOME" : "ELISA SEIXAS MELHEM",
+          "p1" : 10.0,
+          "p2" : 10.0
+      
+        },{
+        "NOME" : "ERIK ZANDONADE DE OLIVEIRA" ,
+         "p1" : 10.0,
+         "p2" : 9.0
+      
+        },{
+        "NOME" : "GABRIELA ZUCOLOTTO DE MENEZES" ,
+          "p1" : 10.0,
+          "p2" : 10.0
+      
+        },{
+        "NOME" : "GUILHERME DUARTE MADEIRA",
+          "p1" : 10.0,
+          "p2" : 8.0
+      
+        },{
+        "NOME" : "HENRIQUE PIMENTEL MARTINS ARRUDA",
+          "p1" : 8.0,
+          "p2" : 8.0
+      
+        },{
+        "NOME" : "JOAO GABRIEL TAVARES PEREIRA",
+          "p1" : 10.0,
+          "p2" : 7.0
+      
+        },{
+        "NOME" : "JOAO HENRIQUE ANTUNES PAES TORRES",
+          "p1" : 10.0,
+          "p2" : 10.0
+      
+        },{
+        "NOME" : "JOAO VITOR BENIQUIO FERNANDES DE JESUS",
+          "p1" : 10.0,
+          "p2" : 3.0
+      
+        },{
+        "NOME" : "LAURA DALVI CALAZANS",
+          "p1" : 10.0,
+          "p2" : 10.0
+      
+        },{
+        "NOME" : "LUCA FRIETAS LANES VICENTINI", 
+          "p1" : 10.0,
+          "p2" : 8.0
+      
+        },{
+        "NOME" : "MARIA EDUARDA FERREIRA DE OLIVEIRA OLINDO",
+          "p1" : 10.0,
+          "p2" : 10.0
+      
+        },{
+          "NOME" : "MEL CAMPAGNARO",
+          "p1" : 10.0,
+          "p2" : 10.0
+      
+        },{
+        "NOME" : "TAINA ZAGO CYPRESETE",
+          "p1" : 0.0,
+          "p2" : 0.0
+      
+        },{
+        "NOME" : "VALENTINA MANOELA SCHUWARTZ FERNANDES",
+          "p1" : 10.0,
+          "p2" : 10.0
+      
+        },{
+        "NOME" : "VICENTE KOCK LENG VENADE DA COSTA",
+          "p1" : 10.0,
+          "p2" : 8.0
+      
+        }
+      ],
+      
+      "CIENCIAS": [
+          {
+        "NOME" : "ANA CAROLINA DE PAULA SIMOES" ,
+          "p1" : 5.50,
+          "p2" : 6.5
+      
+        },{
+        "NOME" : "BEATRIZ BAIOCO VESCOVI", 
+          "p1" : 4.60,
+          "p2" : 4.20
+      
+        },{
+        "NOME" : "DIOGO IVAN CABALLERO OTAROLA",
+          "p1" : 7.0,
+          "p2" : 3.60
+      
+        },{
+        "NOME" : "ELISA SEIXAS MELHEM",
+          "p1" : 4.40,
+          "p2" : 3.90
+      
+        },{
+        "NOME" : "ERIK ZANDONADE DE OLIVEIRA",
+          "p1" : 8.80,
+          "p2" : 7.70
+      
+        },{
+        "NOME" : "GABRIELA ZUCOLOTTO DE MENEZES",
+          "p1" : 5.10,
+          "p2" : 5.40
+      
+        },{
+        "NOME" : "GUILHERME DUARTE MADEIRA",
+          "p1" : 8.10,
+          "p2" : 6.10
+      
+        },{
+        "NOME" : "HENRIQUE PIMENTEL MARTINS ARRUDA" ,
+          "p1" : 5.50,
+          "p2" : 5.90
+      
+        },{
+        "NOME" : "JOAO GABRIEL TAVARES PEREIRA" ,
+          "p1" : 2.40,
+          "p2" : 6.50
+      
+        },{
+        "NOME" : "JOAO HENRIQUE ANTUNES PAES TORRES",
+          "p1" : 2.0,
+          "p2" : 2.30
+      
+        },{
+        "NOME" : "JOAO VITOR BENIQUIO FERNANDES DE JESUS" ,
+          "p1" : 6.70,
+          "p2" : 4.90
+      
+        },{
+        "NOME" : "LAURA DALVI CALAZANS",
+          "p1" : 4.70,
+          "p2" : 4.60
+      
+        },{
+        "NOME" : "LUCA FRIETAS LANES VICENTINI",
+          "p1" : 4.50,
+          "p2" : 3.20
+      
+        },{
+        "NOME" : "MARIA EDUARDA FERREIRA DE OLIVEIRA OLINDO",
+          "p1" : 5.80,
+          "p2" : 7.20
+      
+        },{
+        "NOME" : "MEL CAMPAGNARO",
+          "p1" : 5.80,
+          "p2" : 7.20
+      
+        },{
+        "NOME" : "TAINA ZAGO CYPRESETE" ,
+          "p1" : 0.0,
+          "p2" : 0.0
+      
+        },{
+        "NOME" : "VALENTINA MANOELA SCHUWARTZ FERNANDES",
+          "p1" : 6.10,
+          "p2" : 7.10
+      
+        },{
+        "NOME" : "VICENTE KOCK LENG VENADE DA COSTA",
+         "p1" : 3.70,
+         "p2" : 5.20
+      
+        }
+      ],
+      "ESPANHOL": [{
+        "NOME" : "ANA CAROLINA DE PAULA SIMOES",
+          "p1" : 8.10,
+          "p2" : 6.50
+      
+        },{
+        "NOME" : "BEATRIZ BAIOCO VESCOVI" ,
+          "p1" : 7.50,
+          "p2" : 7.50
+      
+        },{
+        "NOME" : "DIOGO IVAN CABALLERO OTAROLA",
+          "p1" : 8.10,
+          "p2" : 6.00
+      
+        },{
+        "NOME" : "ELISA SEIXAS MELHEM",
+          "p1" : 8.20,
+          "p2" : 7.70
+      
+        },{
+        "NOME" : "ERIK ZANDONADE DE OLIVEIRA",
+          "p1" : 7.60,
+          "p2" : 6.50
+      
+        },{
+        "NOME" : "GABRIELA ZUCOLOTTO DE MENEZES",
+          "p1" : 8.60,
+          "p2" : 7.50
+      
+        },{
+        "NOME" : "GUILHERME DUARTE MADEIRA",
+          "p1" : 8.60,
+          "p2" : 6.60
+      
+        },{
+        "NOME" : "HENRIQUE PIMENTEL MARTINS ARRUDA",
+          "p1" : 8.00,
+          "p2" : 8.20
+      
+        },{
+        "NOME" : "JOAO GABRIEL TAVARES PEREIRA",
+          "p1" : 7.70,
+          "p2" : 6.50
+      
+        },{
+        "NOME" : "JOAO HENRIQUE ANTUNES PAES TORRES",
+          "p1" : 6.10,
+          "p2" : 6.20
+      
+        },{
+        "NOME" : "JOAO VITOR BENIQUIO FERNANDES DE JESUS",
+          "p1" : 7.0,
+          "p2" : 7.70
+      
+        },{
+        "NOME" : "LAURA DALVI CALAZANS",
+          "p1" : 7.0,
+          "p2" : 7.0
+      
+        },{
+        "NOME" : "LUCA FRIETAS LANES VICENTINI" ,
+          "p1" : 9.0,
+          "p2" : 6.50
+      
+        },{
+        "NOME" : "MARIA EDUARDA FERREIRA DE OLIVEIRA OLINDO" ,
+          "p1" : 7.70,
+          "p2" : 6.0
+      
+        },{
+        "NOME" : "MEL CAMPAGNARO",
+          "p1" : 8.0,
+          "p2" : 7.10
+      
+        },{
+        "NOME" : "TAINA ZAGO CYPRESETE",
+          "p1" : 0,
+          "p2" : 0
+      
+        },{
+        "NOME" : "VALENTINA MANOELA SCHUWARTZ FERNANDES",
+          "p1" : 7.50,
+          "p2" : 8.50
+      
+        },{
+        "NOME" : "VICENTE KOCK LENG VENADE DA COSTA",
+          "p1" : 8.50,
+          "p2" : 6.0
+      
+        }
+      ],
+      "FILOSOFIA": [{
+        "NOME" : "ANA CAROLINA DE PAULA SIMOES",
+          "p1" : 8.90,
+          "p2" : 7.50
+      
+        },{
+        "NOME" : "BEATRIZ BAIOCO VESCOVI",
+          "p1" : 7.50,
+          "p2" : 4.70
+      
+        },{
+       "NOME" : "DIOGO IVAN CABALLERO OTAROLA",
+          "p1" : 6.50,
+          "p2" : 4.70
+      
+        },{
+        "NOME" : "ELISA SEIXAS MELHEM",
+          "p1" : 6.90,
+          "p2" : 8.00
+      
+        },{
+        "NOME" : "ERIK ZANDONADE DE OLIVEIRA",
+          "p1" : 9.00,
+          "p2" : 7.70
+      
+        },{
+        "NOME" : "GABRIELA ZUCOLOTTO DE MENEZES",
+          "p1" : 8.00,
+          "p2" : 6.00
+      
+        },{
+        "NOME" : "GUILHERME DUARTE MADEIRA",
+          "p1" :  0,
+          "p2" : 8.00
+      
+        },{
+        "NOME" : "HENRIQUE PIMENTEL MARTINS ARRUDA" ,
+          "p1" : 5.50,
+          "p2" : 6.00
+      
+        },{
+        "NOME" : "JOAO GABRIEL TAVARES PEREIRA",
+          "p1" : 7.50,
+          "p2" : 5.80
+      
+        },{
+        "NOME" : "JOAO HENRIQUE ANTUNES PAES TORRES",
+          "p1" :  8.00,
+          "p2" : 4.70
+      
+        },{
+        "NOME" : "JOAO VITOR BENIQUIO FERNANDES DE JESUS" ,
+          "p1" :  0,
+          "p2" : 5.20
+      
+        },{
+        "NOME" : "LAURA DALVI CALAZANS",
+          "p1" : 7.40,
+          "p2" : 8.00
+      
+        },{
+        "NOME" : "LUCA FRIETAS LANES VICENTINI",
+          "p1" : 7.90,
+          "p2" : 7.80
+      
+        },{
+        "NOME" : "MARIA EDUARDA FERREIRA DE OLIVEIRA OLINDO",
+          "p1" : 5.00,
+          "p2" : 5.70
+      
+        },{
+        "NOME" : "MEL CAMPAGNARO" ,
+          "p1" : 7.50,
+          "p2" : 8.00
+      
+        },{
+        "NOME" : "TAINA ZAGO CYPRESETE" ,
+          "p1" : 0,
+          "p2" : 8.00
+      
+        },{
+        "NOME" : "VALENTINA MANOELA SCHUWARTZ FERNANDES",
+          "p1" : 8.40,
+          "p2" : 7.00
+      
+        },{
+        "NOME" : "VICENTE KOCK LENG VENADE DA COSTA",
+          "p1" : 8.50,
+          "p2" : 7.50
+      
+        }
+      ],
+      "GEOGRAFIA": [{
+        "NOME" : "ANA CAROLINA DE PAULA SIMOES",
+          "p1" : 8.10,
+          "p2" : 10.00
+      
+        },{
+        "NOME" : "BEATRIZ BAIOCO VESCOVI",
+          "p1" : 6.00,
+          "p2" : 6.00
+      
+        },{
+        "NOME" : "DIOGO IVAN CABALLERO OTAROLA",
+          "p1" : 4.50,
+          "p2" : 5.00
+      
+        },{
+        "NOME" : "ELISA SEIXAS MELHEM",
+          "p1" : 4.90,
+          "p2" : 3.80
+      
+        },{
+        "NOME" : "ERIK ZANDONADE DE OLIVEIRA",
+          "p1" : 7.50,
+          "p2" : 8.60
+      
+        },{
+        "NOME" : "GABRIELA ZUCOLOTTO DE MENEZES",
+          "p1" : 7.50,
+          "p2" : 9.00
+      
+        },{
+        "NOME" : "GUILHERME DUARTE MADEIRA",
+          "p1" : 8.00,
+          "p2" : 9.00
+      
+        },{
+        "NOME" : "HENRIQUE PIMENTEL MARTINS ARRUDA" ,
+          "p1" : 5.00,
+          "p2" : 6.50
+      
+        },{
+        "NOME" : "JOAO GABRIEL TAVARES PEREIRA",
+          "p1" : 7.00,
+          "p2" : 4.50
+      
+        },{
+        "NOME" : "JOAO HENRIQUE ANTUNES PAES TORRES",
+          "p1" : 2.00,
+          "p2" : 0.50
+      
+        },{
+        "NOME" : "JOAO VITOR BENIQUIO FERNANDES DE JESUS",
+          "p1" : 7.50,
+          "p2" : 1.50
+      
+        },{
+        "NOME" : "LAURA DALVI CALAZANS",
+          "p1" : 6.00,
+          "p2" : 9.00
+      
+        },{
+        "NOME" : "LUCA FRIETAS LANES VICENTINI",
+          "p1" : 7.80,
+          "p2" : 9.00
+      
+        },{
+        "NOME" : "MARIA EDUARDA FERREIRA DE OLIVEIRA OLINDO" ,
+          "p1" : 4.80,
+          "p2" : 5.00
+      
+        },{
+        "NOME" : "MEL CAMPAGNARO",
+          "p1" : 9.00,
+          "p2" : 7.00
+      
+        },{
+        "NOME" : "TAINA ZAGO CYPRESETE",
+          "p1" : 0,
+          "p2" : 0
+      
+        },{
+        "NOME" : "VALENTINA MANOELA SCHUWARTZ FERNANDES",
+          "p1" : 7.50,
+          "p2" : 9.00
+      
+        },{
+        "NOME" : "VICENTE KOCK LENG VENADE DA COSTA" ,
+          "p1" : 4.50,
+          "p2" : 7.50
+      
+        }
+      ],
+    "HISTORIA": [
+        {
+        "NOME" : "ANA CAROLINA DE PAULA SIMOES",
+          "p1" : 9.10,
+          "p2" : 7.80
+  
+        },{
+        "NOME" : "BEATRIZ BAIOCO VESCOVI",
+          "p1" : 6.80,
+          "p2" : 7.60
+
+        },{
+        "NOME" : "DIOGO IVAN CABALLERO OTAROLA",
+          "p1" : 4.10,
+          "p2" : 8.40
+  
+        },{
+        "NOME" : "ELISA SEIXAS MELHEM",
+          "p1" : 6.70,
+          "p2" : 9.00
+        },{
+        "NOME" : "ERIK ZANDONADE DE OLIVEIRA",
+          "p1" : 9.80,
+          "p2" : 7.30
+  
+        },{
+        "NOME" : "GABRIELA ZUCOLOTTO DE MENEZES",
+          "p1" : 7.40,
+          "p2" : 7.80
+  
+        },{
+        "NOME" : "GUILHERME DUARTE MADEIRA",
+          "p1" : 8.60,
+          "p2" : 8.20
+  
+        },{
+        "NOME" : "HENRIQUE PIMENTEL MARTINS ARRUDA",
+          "p1" : 5.10,
+          "p2" : 5.30
+  
+        },{
+        "NOME" : "JOAO GABRIEL TAVARES PEREIRA",
+          "p1" : 4.10,
+          "p2" : 5.90
+  
+        },{
+        "NOME" : "JOAO HENRIQUE ANTUNES PAES TORRES",
+          "p1" : 7.30,
+          "p2" : 3.50
+  
+        },{
+        "NOME" : "JOAO VITOR BENIQUIO FERNANDES DE JESUS",
+          "p1" : 6.30,
+          "p2" : 6.50
+  
+        },{
+        "NOME" : "LAURA DALVI CALAZANS",
+          "p1" : 8.70,
+          "p2" : 9.50
+  
+        },{
+        "NOME" : "LUCA FRIETAS LANES VICENTINI",
+          "p1" : 7.30,
+          "p2" : 7.30
+  
+        },{
+        "NOME" : "MARIA EDUARDA FERREIRA DE OLIVEIRA OLINDO",
+          "p1" : 6.0,
+          "p2" : 6.05
+  
+        },{
+        "NOME" : "MEL CAMPAGNARO",
+          "p1" : 8.10,
+          "p2" : 6.60
+  
+        },{
+        "NOME" : "TAINA ZAGO CYPRESETE",
+          "p1" : 0.0,
+          "p2" : 0.0
+  
+        },{
+        "NOME" : "VALENTINA MANOELA SCHUWARTZ FERNANDES",
+          "p1" : 8.20,
+          "p2" : 8.40
+  
+        },{
+        "NOME" : "VICENTE KOCK LENG VENADE DA COSTA",
+          "p1" : 7.70,
+          "p2" : 7.40
+  
+        }
+      ],
+      "INGLES": [
+          {
+        "NOME" : "ANA CAROLINA DE PAULA SIMOES",
+          "p1" : 10.0,
+          "p2" : 9.90
+  
+        },{
+        "NOME" : "BEATRIZ BAIOCO VESCOVI",
+          "p1" : 6.05,
+          "p2" : 6.47
+  
+        },{
+        "NOME" : "DIOGO IVAN CABALLERO OTAROLA",
+          "p1" : 8.15,
+          "p2" : 6.80
+  
+        },{
+        "NOME" : "ELISA SEIXAS MELHEM",
+          "p1" : 9.10,
+          "p2" : 9.80
+
+        },{
+        "NOME" : "ERIK ZANDONADE DE OLIVEIRA",
+          "p1" : 8.45,
+          "p2" : 7.50
+  
+        },{
+        "NOME" : "GABRIELA ZUCOLOTTO DE MENEZES",
+          "p1" : 7.90,
+          "p2" : 7.00
+  
+        },{
+        "NOME" : "GUILHERME DUARTE MADEIRA",
+          "p1" : 7.35,
+          "p2" : 7.97
+  
+        },{
+        "NOME" : "HENRIQUE PIMENTEL MARTINS ARRUDA",
+          "p1" : 8.70,
+          "p2" : 8.22
+  
+        },{
+        "NOME" : "JOAO GABRIEL TAVARES PEREIRA",
+         "p1" :  8.10,
+          "p2" : 8.20
+  
+        },{
+       "NOME" : "JOAO HENRIQUE ANTUNES PAES TORRES",
+          "p1" : 8.75,
+         "p2" :  6.50
+  
+        },{
+        "NOME" : "JOAO VITOR BENIQUIO FERNANDES DE JESUS",
+          "p1" : 7.00,
+          "p2" : 5.82
+  
+        },{
+        "NOME" : "LAURA DALVI CALAZANS",
+          "p1" : 9.40,
+          "p2" : 9.60
+  
+        },{
+        "NOME" : "LUCA FRIETAS LANES VICENTINI",
+          "p1" : 7.70,
+          "p2" : 6.87
+  
+        },{
+        "NOME" : "MARIA EDUARDA FERREIRA DE OLIVEIRA OLINDO",
+          "p1" : 7.55,
+          "p2" : 9.50
+  
+        },{
+        "NOME" : "MEL CAMPAGNARO",
+          "p1" : 7.55,
+          "p2" : 9.50
+  
+        },{
+        "NOME" : "TAINA ZAGO CYPRESETE",
+          "p1" : 0,
+          "p2" : 0
+  
+        },{
+        "NOME" : "VALENTINA MANOELA SCHUWARTZ FERNANDES",
+         "p1" : 10.00,
+         "p2" : 9.80
+  
+        },{
+        "NOME" : "VICENTE KOCK LENG VENADE DA COSTA",
+          "p1" : 8.35,
+          "p2" : 7.97
+  
+        }
+      ],
+      "PORTUGUES": [
+          {
+        "NOME" : "ANA CAROLINA DE PAULA SIMOES",
+          "p1" : 5.70,
+          "p2" : 9.50
+  
+        },{
+        "NOME" : "BEATRIZ BAIOCO VESCOVI" ,
+          "p1" : 6.90,
+          "p2" : 7.50
+  
+        },{
+        "NOME" : "DIOGO IVAN CABALLERO OTAROLA",
+          "p1" : 4.10,
+          "p2" : 9.00
+  
+        },{
+        "NOME" : "ELISA SEIXAS MELHEM" ,
+          "p1" : 6.40,
+          "p2" : 9.30
+  
+        },{
+        "NOME" : "ERIK ZANDONADE DE OLIVEIRA" ,
+          "p1" : 5.80,
+          "p2" : 9.40
+  
+        },{
+        "NOME" : "GABRIELA ZUCOLOTTO DE MENEZES" ,
+          "p1" : 4.50,
+          "p2" : 7.00
+  
+        },{
+        "NOME" : "GUILHERME DUARTE MADEIRA" ,
+          "p1" : 4.30,
+          "p2" : 9.60
+  
+        },{
+        "NOME" : "HENRIQUE PIMENTEL MARTINS ARRUDA",
+          "p1" : 5.60,
+         "p2" : 6.80
+  
+        },{
+       "NOME" : "JOAO GABRIEL TAVARES PEREIRA" ,
+          "p1" : 5.20,
+          "p2" : 7.60
+  
+        },{
+        "NOME" : "JOAO HENRIQUE ANTUNES PAES TORRES",
+          "p1" : 3.40,
+          "p2" : 5.30
+  
+        },{
+        "NOME" : "JOAO VITOR BENIQUIO FERNANDES DE JESUS" ,
+          "p1" : 5.20,
+          "p2" : 2.10
+  
+        },{
+        "NOME" : "LAURA DALVI CALAZANS",
+          "p1" : 5.30,
+          "p2" : 7.50
+  
+        },{
+        "NOME" : "LUCA FRIETAS LANES VICENTINI",
+          "p1" : 4.00,
+          "p2" : 6.20
+  
+        },{
+        "NOME" : "MARIA EDUARDA FERREIRA DE OLIVEIRA OLINDO",
+          "p1" : 5.80,
+          "p2" : 4.40
+  
+        },{
+        "NOME" : "MEL CAMPAGNARO",
+          "p1" : 6.30,
+         "p2" : 7.70
+  
+        },{
+          "NOME" : "TAINA ZAGO CYPRESETE",
+          "p1":0.0,
+          "p2": 0.0
+  
+        },{
+           "NOME" : "VALENTINA MANOELA SCHUWARTZ FERNANDES",
+          "p1" : 7.10,
+          "p2" : 9.30
+  
+        },{
+           "NOME" : "VICENTE KOCK LENG VENADE DA COSTA",
+          "p1" : 5.20,
+          "p2" : 9.20
+  
+        }
+      ],
+      "MATEMATICA": [
+          {
+        "NOME" : "ANA CAROLINA DE PAULA SIMOES",
+          "p1" : 8.20,
+          "p2" : 5.30
+        },{
+        "NOME" : "BEATRIZ BAIOCO VESCOVI",
+          "p1" : 6.40,
+          "p2" : 4.10
+  
+        },{
+           "NOME" : "DIOGO IVAN CABALLERO OTAROLA",
+          "p1" : 6.20,
+          "p2" : 5.70
+  
+        },{
+        "NOME" : "ELISA SEIXAS MELHEM",
+          "p1" : 6.10,
+          "p2" : 4.50
+  
+        },{
+        "NOME" : "ERIK ZANDONADE DE OLIVEIRA",
+          "p1" : 8.90,
+          "p2" : 7.20
+  
+        },{
+        "NOME" : "GABRIELA ZUCOLOTTO DE MENEZES",
+          "p1" : 7.80,
+          "p2" : 5.10
+  
+        },{
+        "NOME" : "GUILHERME DUARTE MADEIRA",
+          "p1" : 8.70,
+          "p2" : 6.00
+  
+        },{
+        "NOME" : "HENRIQUE PIMENTEL MARTINS ARRUDA", 
+          "p1" : 6.40,
+          "p2" : 8.40
+  
+        },{
+         "NOME" : "JOAO GABRIEL TAVARES PEREIRA" ,
+          "p1" : 5.10,
+          "p2" : 3.70
+  
+        },{
+        "NOME" : "JOAO HENRIQUE ANTUNES PAES TORRES" ,
+          "p1" : 5.30,
+          "p2" : 3.10
+  
+        },{
+        "NOME" : "JOAO VITOR BENIQUIO FERNANDES DE JESUS" ,
+          "p1" : 5.70,
+          "p2" : 6.00
+  
+        },{
+        "NOME" : "LAURA DALVI CALAZANS" ,
+          "p1" : 3.40,
+          "p2" : 4.90
+  
+        },{
+          "NOME" : "LUCA FRIETAS LANES VICENTINI" ,
+         "p1" : 6.40,
+         "p2" : 4.10
+  
+        },{
+           "NOME" : "MARIA EDUARDA FERREIRA DE OLIVEIRA OLINDO" ,
+          "p1" : 5.20,
+          "p2" : 5.60
+  
+        },{
+        "NOME" : "MEL CAMPAGNARO" ,
+          "p1" : 8.80,
+          "p2" : 7.20
+  
+        },{
+           "NOME" : "TAINA ZAGO CYPRESETE",
+          "p1" : 0.0,
+          "p2" : 0.0
+  
+        },{
+           "NOME" : "VALENTINA MANOELA SCHUWARTZ FERNANDES" ,
+          "p1" : 9.40,
+          "p2" : 7.10
+  
+        },{
+           "NOME" : "VICENTE KOCK LENG VENADE DA COSTA", 
+          "p1" : 7.30,
+          "p2" : 6.80
+  
+        }
+    ]
+}

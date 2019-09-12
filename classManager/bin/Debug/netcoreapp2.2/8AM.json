@@ -1,0 +1,972 @@
+{
+    "ARTES": [
+        {
+            "NOME": "ANA ELISA SILVA SOUZA",
+            "p1": 5.50,
+            "p2": 5.0
+        },
+        {
+            "NOME": "ANA PAULA RODRIGUES SOARES",
+            "p1": 8.0,
+            "p2": 8.0
+        },
+        {
+            "NOME": "ARTHUR BUENO FERRACO",
+            "p1": 8.5,
+            "p2": 7.80
+        },
+        {
+            "NOME": "ARTHUR HORSTS MEDEIROS",
+            "p1": 6.0,
+            "p2": 6.0
+        },
+        {
+            "NOME": "GABRIEL SAIANI",
+            "p1": 6.0,
+            "p2": 6.0
+        },
+        {
+            "NOME": "JOAO PEDRO MAIA DUTRA",
+            "p1": 8.0,
+            "p2": 8.50
+        },
+        {
+            "NOME": "LARISSA SALAZAR DE PAULA",
+            "p1": 8.50,
+            "p2": 8.50
+        },
+        {
+            "NOME": "LUCAS CASTELLO GRANDI RIBEIRO",
+            "p1": 8.50,
+            "p2": 9.0
+        },
+        {
+            "NOME": "LUCAS DOS SANTOS FREITAS",
+            "p1": 8.50,
+            "p2": 9.0
+        },
+        {
+            "NOME": "LUCAS GOMES MORANDI",
+            "p1": 8.0,
+            "p2": 8.0
+        },
+        {
+            "NOME": "LUCAS LAKTIM ROSA",
+            "p1": 8.0,
+            "p2": 8.0
+        },
+        {
+            "NOME": "MARIA JULIA MIGNOE DE PAULA",
+            "p1": 7.0,
+            "p2": 7.0
+        },
+        {
+            "NOME": "NATAN DA COSTA CASEIRA",
+            "p1": 7.0,
+            "p2": 7.0
+        },
+        {
+            "NOME": "PEDRO DE MELO PAGOTTO",
+            "p1": 8.50,
+            "p2": 9.0
+        },
+        {
+            "NOME": "PEDRO FERRACO FITTIPALDI",
+            "p1": 7.0,
+            "p2": 8.0
+        },
+        {
+            "NOME": "PEDRO SONEGHET PIMENTA",
+            "p1": 8.0,
+            "p2": 8.50
+        },
+        {
+            "NOME": "SOPHIA SEIXAS MELHEM",
+            "p1": 8.0,
+            "p2": 8.0
+        },
+        {
+            "NOME": "ULISSES TAVARES DE CASTRO",
+            "p1": 9.0,
+            "p2": 9.0
+        },
+        {
+            "NOME": "WILLIAM BAHIENSE BRANDAO",
+            "p1": 9.0,
+            "p2": 9.0
+        }
+    ],
+    "CIENCIAS": [
+        {
+            "NOME": "ANA ELISA SILVA SOUZA",
+            "p1": 5.10,
+            "p2": 4.80
+        },
+        {
+            "NOME": "ANA PAULA RODRIGUES SOARES",
+            "p1": 8.30,
+            "p2": 9.0
+        },
+        {
+            "NOME": "ARTHUR BUENO FERRACO",
+            "p1": 8.50,
+            "p2": 9.50
+        },
+        {
+            "NOME": "ARTHUR HORSTS MEDEIROS",
+            "p1": 4.30,
+            "p2": 5.10
+        },
+        {
+            "NOME": "GABRIEL SAIANI",
+            "p1": 3.30,
+            "p2": 5.10
+        },
+        {
+            "NOME": "JOAO PEDRO MAIA DUTRA",
+            "p1": 8.10,
+            "p2": 8.0
+        },
+        {
+            "NOME": "LARISSA SALAZAR DE PAULA",
+            "p1": 7.0,
+            "p2": 5.0
+        },
+        {
+            "NOME": "LUCAS CASTELLO GRANDI RIBEIRO",
+            "p1": 8.80,
+            "p2": 8.40
+        },
+        {
+            "NOME": "LUCAS DOS SANTOS FREITAS",
+            "p1": 9.30,
+            "p2": 9.20
+        },
+        {
+            "NOME": "LUCAS GOMES MORANDI",
+            "p1": 4.30,
+            "p2": 7.50
+        },
+        {
+            "NOME": "LUCAS LAKTIM ROSA",
+            "p1": 5.20,
+            "p2": 7.0
+        },
+        {
+            "NOME": "MARIA JULIA MIGNOE DE PAULA",
+            "p1": 7.0,
+            "p2": 6.0
+        },
+        {
+            "NOME": "NATAN DA COSTA CASEIRA",
+            "p1": 7.60,
+            "p2": 5.30
+        },
+        {
+            "NOME": "PEDRO DE MELO PAGOTTO",
+            "p1": 9.30,
+            "p2": 9.0
+        },
+        {
+            "NOME": "PEDRO FERRACO FITTIPALDI",
+            "p1": 7.0,
+            "p2": 7.20
+        },
+        {
+            "NOME": "PEDRO SONEGHET PIMENTA",
+            "p1": 7.0,
+            "p2": 7.20
+        },
+        {
+            "NOME": "SOPHIA SEIXAS MELHEM",
+            "p1": 6.80,
+            "p2": 9.10
+        },
+        {
+            "NOME": "ULISSES TAVARES DE CASTRO",
+            "p1": 7.80,
+            "p2": 9.50
+        },
+        {
+            "NOME": "WILLIAM BAHIENSE BRANDAO",
+            "p1": 5.80,
+            "p2": 5.0
+        }
+    ],
+    "EDUCACAO FISICA": [
+        {
+            "NOME": "ANA ELISA SILVA SOUZA",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "ANA PAULA RODRIGUES SOARES",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "ARTHUR BUENO FERRACO",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "ARTHUR HORSTS MEDEIROS",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "GABRIEL SAIANI",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "JOAO PEDRO MAIA DUTRA",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "LARISSA SALAZAR DE PAULA",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "LUCAS CASTELLO GRANDI RIBEIRO",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "LUCAS DOS SANTOS FREITAS",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "LUCAS GOMES MORANDI",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "LUCAS LAKTIM ROSA",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "MARIA JULIA MIGNOE DE PAULA",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "NATAN DA COSTA CASEIRA",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "PEDRO DE MELO PAGOTTO",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "PEDRO FERRACO FITTIPALDI",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "PEDRO SONEGHET PIMENTA",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "SOPHIA SEIXAS MELHEM",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "ULISSES TAVARES DE CASTRO",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "WILLIAM BAHIENSE BRANDAO",
+            "p1": 10.0,
+            "p2": 10.0
+        }
+    ],
+    "ESPANHOL": [
+        {
+            "NOME": "ANA ELISA SILVA SOUZA",
+            "p1": 9.0,
+            "p2": 7.50
+        },
+        {
+            "NOME": "ANA PAULA RODRIGUES SOARES",
+            "p1": 10.0,
+            "p2": 7.50
+        },
+        {
+            "NOME": "ARTHUR BUENO FERRACO",
+            "p1": 9.60,
+            "p2": 8.70
+        },
+        {
+            "NOME": "ARTHUR HORSTS MEDEIROS",
+            "p1": 5.50,
+            "p2": 4.20
+        },
+        {
+            "NOME": "GABRIEL SAIANI",
+            "p1": 7.10,
+            "p2": 6.0
+        },
+        {
+            "NOME": "JOAO PEDRO MAIA DUTRA",
+            "p1": 8.50,
+            "p2": 7.0
+        },
+        {
+            "NOME": "LARISSA SALAZAR DE PAULA",
+            "p1": 7.20,
+            "p2": 6.0
+        },
+        {
+            "NOME": "LUCAS CASTELLO GRANDI RIBEIRO",
+            "p1": 8.50,
+            "p2": 6.50
+        },
+        {
+            "NOME": "LUCAS DOS SANTOS FREITAS",
+            "p1": 8.60,
+            "p2": 8.50
+        },
+        {
+            "NOME": "LUCAS GOMES MORANDI",
+            "p1": 6.20,
+            "p2": 5.70
+        },
+        {
+            "NOME": "LUCAS LAKTIM ROSA",
+            "p1": 7.10,
+            "p2": 6.50
+        },
+        {
+            "NOME": "MARIA JULIA MIGNOE DE PAULA",
+            "p1": 6.50,
+            "p2": 8.20
+        },
+        {
+            "NOME": "NATAN DA COSTA CASEIRA",
+            "p1": 8.0,
+            "p2": 7.50
+        },
+        {
+            "NOME": "PEDRO DE MELO PAGOTTO",
+            "p1": 8.70,
+            "p2": 6.60
+        },
+        {
+            "NOME": "PEDRO FERRACO FITTIPALDI",
+            "p1": 9.0,
+            "p2": 8.50
+        },
+        {
+            "NOME": "PEDRO SONEGHET PIMENTA",
+            "p1": 9.0,
+            "p2": 8.20
+        },
+        {
+            "NOME": "SOPHIA SEIXAS MELHEM",
+            "p1": 8.50,
+            "p2": 8.50
+        },
+        {
+            "NOME": "ULISSES TAVARES DE CASTRO",
+            "p1": 7.70,
+            "p2": 8.50
+        },
+        {
+            "NOME": "WILLIAM BAHIENSE BRANDAO",
+            "p1": 6.0,
+            "p2": 5.50
+        }
+    ],
+    "FILOSOFIA": [
+        {
+            "NOME": "ANA ELISA SILVA SOUZA",
+            "p1": 9.0,
+            "p2": 8.30
+        },
+        {
+            "NOME": "ANA PAULA RODRIGUES SOARES",
+            "p1": 10.0,
+            "p2": 8.0
+        },
+        {
+            "NOME": "ARTHUR BUENO FERRACO",
+            "p1": 10.0,
+            "p2": 9.0
+        },
+        {
+            "NOME": "ARTHUR HORSTS MEDEIROS",
+            "p1": 8.50,
+            "p2": 4.80
+        },
+        {
+            "NOME": "GABRIEL SAIANI",
+            "p1": 9.0,
+            "p2": 5.80
+        },
+        {
+            "NOME": "JOAO PEDRO MAIA DUTRA",
+            "p1": 10.0,
+            "p2": 7.80
+        },
+        {
+            "NOME": "LARISSA SALAZAR DE PAULA",
+            "p1": 9.50,
+            "p2": 8.0
+        },
+        {
+            "NOME": "LUCAS CASTELLO GRANDI RIBEIRO",
+            "p1": 9.75,
+            "p2": 10.0
+        },
+        {
+            "NOME": "LUCAS DOS SANTOS FREITAS",
+            "p1": 9.50,
+            "p2": 9.0
+        },
+        {
+            "NOME": "LUCAS GOMES MORANDI",
+            "p1": 8.0,
+            "p2": 5.30
+        },
+        {
+            "NOME": "LUCAS LAKTIM ROSA",
+            "p1": 9.25,
+            "p2": 7.30
+        },
+        {
+            "NOME": "MARIA JULIA MIGNOE DE PAULA",
+            "p1": 7.75,
+            "p2": 3.0
+        },
+        {
+            "NOME": "NATAN DA COSTA CASEIRA",
+            "p1": 9.0,
+            "p2": 8.80
+        },
+        {
+            "NOME": "PEDRO DE MELO PAGOTTO",
+            "p1": 9.75,
+            "p2": 6.0
+        },
+        {
+            "NOME": "PEDRO FERRACO FITTIPALDI",
+            "p1": 9.25,
+            "p2": 8.0
+        },
+        {
+            "NOME": "PEDRO SONEGHET PIMENTA",
+            "p1": 10.0,
+            "p2": 9.0
+        },
+        {
+            "NOME": "SOPHIA SEIXAS MELHEM",
+            "p1": 10.0,
+            "p2": 9.50
+        },
+        {
+            "NOME": "ULISSES TAVARES DE CASTRO",
+            "p1": 10.0,
+            "p2": 8.0
+        },
+        {
+            "NOME": "WILLIAM BAHIENSE BRANDAO",
+            "p1": 8.50,
+            "p2": 3.80
+        }
+    ],
+    "GEOGRAFIA": [
+        {
+            "NOME": "ANA ELISA SILVA SOUZA",
+            "p1": 6.20,
+            "p2": 7.0
+        },
+        {
+            "NOME": "ANA PAULA RODRIGUES SOARES",
+            "p1": 8.60,
+            "p2": 10.0
+        },
+        {
+            "NOME": "ARTHUR BUENO FERRACO",
+            "p1": 9.50,
+            "p2": 9.80
+        },
+        {
+            "NOME": "ARTHUR HORSTS MEDEIROS",
+            "p1": 5.0,
+            "p2": 4.30
+        },
+        {
+            "NOME": "GABRIEL SAIANI",
+            "p1": 6.20,
+            "p2": 4.60
+        },
+        {
+            "NOME": "JOAO PEDRO MAIA DUTRA",
+            "p1": 7.50,
+            "p2": 8.30
+        },
+        {
+            "NOME": "LARISSA SALAZAR DE PAULA",
+            "p1": 7.50,
+            "p2": 9.30
+        },
+        {
+            "NOME": "LUCAS CASTELLO GRANDI RIBEIRO",
+            "p1": 7.20,
+            "p2": 8.30
+        },
+        {
+            "NOME": "LUCAS DOS SANTOS FREITAS",
+            "p1": 9.30,
+            "p2": 9.20
+        },
+        {
+            "NOME": "LUCAS GOMES MORANDI",
+            "p1": 4.70,
+            "p2": 6.20
+        },
+        {
+            "NOME": "LUCAS LAKTIM ROSA",
+            "p1": 5.0,
+            "p2": 8.40
+        },
+        {
+            "NOME": "MARIA JULIA MIGNOE DE PAULA",
+            "p1": 4.80,
+            "p2": 6.30
+        },
+        {
+            "NOME": "NATAN DA COSTA CASEIRA",
+            "p1": 6.50,
+            "p2": 5.30
+        },
+        {
+            "NOME": "PEDRO DE MELO PAGOTTO",
+            "p1": 7.40,
+            "p2": 7.70
+        },
+        {
+            "NOME": "PEDRO FERRACO FITTIPALDI",
+            "p1": 7.20,
+            "p2": 6.50
+        },
+        {
+            "NOME": "PEDRO SONEGHET PIMENTA",
+            "p1": 9.0,
+            "p2": 9.50
+        },
+        {
+            "NOME": "SOPHIA SEIXAS MELHEM",
+            "p1": 8.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "ULISSES TAVARES DE CASTRO",
+            "p1": 7.80,
+            "p2": 9.0
+        },
+        {
+            "NOME": "WILLIAM BAHIENSE BRANDAO",
+            "p1": 5.30,
+            "p2": 6.60
+        }
+    ],
+    "HISTORIA": [
+        {
+            "NOME": "ANA ELISA SILVA SOUZA",
+            "p1": 5.80,
+            "p2": 7.60
+        },
+        {
+            "NOME": "ANA PAULA RODRIGUES SOARES",
+            "p1": 7.85,
+            "p2": 8.80
+        },
+        {
+            "NOME": "ARTHUR BUENO FERRACO",
+            "p1": 7.20,
+            "p2": 8.20
+        },
+        {
+            "NOME": "ARTHUR HORSTS MEDEIROS",
+            "p1": 1.75,
+            "p2": 2.0
+        },
+        {
+            "NOME": "GABRIEL SAIANI",
+            "p1": 0.70,
+            "p2": 3.70
+        },
+        {
+            "NOME": "JOAO PEDRO MAIA DUTRA",
+            "p1": 6.85,
+            "p2": 9.20
+        },
+        {
+            "NOME": "LARISSA SALAZAR DE PAULA",
+            "p1": 5.30,
+            "p2": 5.50
+        },
+        {
+            "NOME": "LUCAS CASTELLO GRANDI RIBEIRO",
+            "p1": 7.50,
+            "p2": 6.50
+        },
+        {
+            "NOME": "LUCAS DOS SANTOS FREITAS",
+            "p1": 9.20,
+            "p2": 9.70
+        },
+        {
+            "NOME": "LUCAS GOMES MORANDI",
+            "p1": 3.0,
+            "p2": 6.90
+        },
+        {
+            "NOME": "LUCAS LAKTIM ROSA",
+            "p1": 2.10,
+            "p2": 5.50
+        },
+        {
+            "NOME": "MARIA JULIA MIGNOE DE PAULA",
+            "p1": 7.90,
+            "p2": 7.0
+        },
+        {
+            "NOME": "NATAN DA COSTA CASEIRA",
+            "p1": 5.0,
+            "p2": 7.80
+        },
+        {
+            "NOME": "PEDRO DE MELO PAGOTTO",
+            "p1": 7.70,
+            "p2": 9.50
+        },
+        {
+            "NOME": "PEDRO FERRACO FITTIPALDI",
+            "p1": 6.0,
+            "p2": 7.30
+        },
+        {
+            "NOME": "PEDRO SONEGHET PIMENTA",
+            "p1": 7.70,
+            "p2": 9.50
+        },
+        {
+            "NOME": "SOPHIA SEIXAS MELHEM",
+            "p1": 8.60,
+            "p2": 9.45
+        },
+        {
+            "NOME": "ULISSES TAVARES DE CASTRO",
+            "p1": 9.40,
+            "p2": 9.70
+        },
+        {
+            "NOME": "WILLIAM BAHIENSE BRANDAO",
+            "p1": 1.40,
+            "p2": 3.60
+        }
+    ],
+    "INGLES": [
+        {
+            "NOME": "ANA ELISA SILVA SOUZA",
+            "p1": 8.50,
+            "p2": 9.40
+        },
+        {
+            "NOME": "ANA PAULA RODRIGUES SOARES",
+            "p1": 9.10,
+            "p2": 8.96
+        },
+        {
+            "NOME": "ARTHUR BUENO FERRACO",
+            "p1": 8.0,
+            "p2": 7.20
+        },
+        {
+            "NOME": "ARTHUR HORSTS MEDEIROS",
+            "p1": 5.50,
+            "p2": 5.25
+        },
+        {
+            "NOME": "GABRIEL SAIANI",
+            "p1": 5.40,
+            "p2": 4.25
+        },
+        {
+            "NOME": "JOAO PEDRO MAIA DUTRA",
+            "p1": 9.95,
+            "p2": 9.30
+        },
+        {
+            "NOME": "LARISSA SALAZAR DE PAULA",
+            "p1": 9.45,
+            "p2": 8.80
+        },
+        {
+            "NOME": "LUCAS CASTELLO GRANDI RIBEIRO",
+            "p1": 6.65,
+            "p2": 6.30
+        },
+        {
+            "NOME": "LUCAS DOS SANTOS FREITAS",
+            "p1": 8.0,
+            "p2": 6.83
+        },
+        {
+            "NOME": "LUCAS GOMES MORANDI",
+            "p1": 6.95,
+            "p2": 7.95
+        },
+        {
+            "NOME": "LUCAS LAKTIM ROSA",
+            "p1": 7.95,
+            "p2": 8.85
+        },
+        {
+            "NOME": "MARIA JULIA MIGNOE DE PAULA",
+            "p1": 10.0,
+            "p2": 9.15
+        },
+        {
+            "NOME": "NATAN DA COSTA CASEIRA",
+            "p1": 9.0,
+            "p2": 9.80
+        },
+        {
+            "NOME": "PEDRO DE MELO PAGOTTO",
+            "p1": 9.50,
+            "p2": 9.70
+        },
+        {
+            "NOME": "PEDRO FERRACO FITTIPALDI",
+            "p1": 9.90,
+            "p2": 8.25
+        },
+        {
+            "NOME": "PEDRO SONEGHET PIMENTA",
+            "p1": 8.80,
+            "p2": 9.0
+        },
+        {
+            "NOME": "SOPHIA SEIXAS MELHEM",
+            "p1": 9.50,
+            "p2": 9.50
+        },
+        {
+            "NOME": "ULISSES TAVARES DE CASTRO",
+            "p1": 9.50,
+            "p2": 9.80
+        },
+        {
+            "NOME": "WILLIAM BAHIENSE BRANDAO",
+            "p1": 9.50,
+            "p2": 8.0
+        }
+    ],
+    "PORTUGUES": [
+        {
+            "NOME": "ANA ELISA SILVA SOUZA",
+            "p1": 7.90,
+            "p2": 8.10
+        },
+        {
+            "NOME": "ANA PAULA RODRIGUES SOARES",
+            "p1": 9.50,
+            "p2": 7.40
+        },
+        {
+            "NOME": "ARTHUR BUENO FERRACO",
+            "p1": 9.60,
+            "p2": 10.0
+        },
+        {
+            "NOME": "ARTHUR HORSTS MEDEIROS",
+            "p1": 4.50,
+            "p2": 3.75
+        },
+        {
+            "NOME": "GABRIEL SAIANI",
+            "p1": 3.80,
+            "p2": 6.60
+        },
+        {
+            "NOME": "JOAO PEDRO MAIA DUTRA",
+            "p1": 9.20,
+            "p2": 8.10
+        },
+        {
+            "NOME": "LARISSA SALAZAR DE PAULA",
+            "p1": 8.0,
+            "p2": 9.10
+        },
+        {
+            "NOME": "LUCAS CASTELLO GRANDI RIBEIRO",
+            "p1": 6.70,
+            "p2": 7.65
+        },
+        {
+            "NOME": "LUCAS DOS SANTOS FREITAS",
+            "p1": 8.90,
+            "p2": 8.10
+        },
+        {
+            "NOME": "LUCAS GOMES MORANDI",
+            "p1": 6.30,
+            "p2": 5.10
+        },
+        {
+            "NOME": "LUCAS LAKTIM ROSA",
+            "p1": 7.80,
+            "p2": 8.20
+        },
+        {
+            "NOME": "MARIA JULIA MIGNOE DE PAULA",
+            "p1": 5.0,
+            "p2": 7.85
+        },
+        {
+            "NOME": "NATAN DA COSTA CASEIRA",
+            "p1": 8.80,
+            "p2": 4.80
+        },
+        {
+            "NOME": "PEDRO DE MELO PAGOTTO",
+            "p1": 9.30,
+            "p2": 9.30
+        },
+        {
+            "NOME": "PEDRO FERRACO FITTIPALDI",
+            "p1": 6.20,
+            "p2": 7.90
+        },
+        {
+            "NOME": "PEDRO SONEGHET PIMENTA",
+            "p1": 9.80,
+            "p2": 9.70
+        },
+        {
+            "NOME": "SOPHIA SEIXAS MELHEM",
+            "p1": 9.80,
+            "p2": 8.80
+        },
+        {
+            "NOME": "ULISSES TAVARES DE CASTRO",
+            "p1": 8.90,
+            "p2": 9.80
+        },
+        {
+            "NOME": "WILLIAM BAHIENSE BRANDAO",
+            "p1": 5.30,
+            "p2": 7.10
+        }
+    ],
+    "MATEMATICA": [
+        {
+            "NOME": "ANA ELISA SILVA SOUZA",
+            "p1": 5.10,
+            "p2": 3.80
+        },
+        {
+            "NOME": "ANA PAULA RODRIGUES SOARES",
+            "p1": 10.0,
+            "p2": 9.30
+        },
+        {
+            "NOME": "ARTHUR BUENO FERRACO",
+            "p1": 10.0,
+            "p2": 9.40
+        },
+        {
+            "NOME": "ARTHUR HORSTS MEDEIROS",
+            "p1": 5.20,
+            "p2": 3.80
+        },
+        {
+            "NOME": "GABRIEL SAIANI",
+            "p1": 2.45,
+            "p2": 2.50
+        },
+        {
+            "NOME": "JOAO PEDRO MAIA DUTRA",
+            "p1": 7.25,
+            "p2": 4.40
+        },
+        {
+            "NOME": "LARISSA SALAZAR DE PAULA",
+            "p1": 7.95,
+            "p2": 4.30
+        },
+        {
+            "NOME": "LUCAS CASTELLO GRANDI RIBEIRO",
+            "p1": 8.80,
+            "p2": 9.40
+        },
+        {
+            "NOME": "LUCAS DOS SANTOS FREITAS",
+            "p1": 8.55,
+            "p2": 8.40
+        },
+        {
+            "NOME": "LUCAS GOMES MORANDI",
+            "p1": 3.90,
+            "p2": 2.40
+        },
+        {
+            "NOME": "LUCAS LAKTIM ROSA",
+            "p1": 3.0,
+            "p2": 4.40
+        },
+        {
+            "NOME": "MARIA JULIA MIGNOE DE PAULA",
+            "p1": 4.30,
+            "p2": 4.0
+        },
+        {
+            "NOME": "NATAN DA COSTA CASEIRA",
+            "p1": 5.0,
+            "p2": 5.40
+        },
+        {
+            "NOME": "PEDRO DE MELO PAGOTTO",
+            "p1": 4.80,
+            "p2": 5.40
+        },
+        {
+            "NOME": "PEDRO FERRACO FITTIPALDI",
+            "p1": 6.0,
+            "p2": 6.60
+        },
+        {
+            "NOME": "PEDRO SONEGHET PIMENTA",
+            "p1": 10.0,
+            "p2": 9.90
+        },
+        {
+            "NOME": "SOPHIA SEIXAS MELHEM",
+            "p1": 9.40,
+            "p2": 6.20
+        },
+        {
+            "NOME": "ULISSES TAVARES DE CASTRO",
+            "p1": 8.0,
+            "p2": 9.40
+        },
+        {
+            "NOME": "WILLIAM BAHIENSE BRANDAO",
+            "p1": 4.45,
+            "p2": 3.60
+        }
+    ]
+}

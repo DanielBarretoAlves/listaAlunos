@@ -1,0 +1,1122 @@
+{
+    "ARTES": [
+        {
+            "NOME": "ANA ELISA TEIXEIRA MOTTA PIGNATON",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "ANA VITORIA CORREA MAYER",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "ANNE MELLO SVACINA",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "ARTHUR REIS E SILVA PANTALIAO",
+            "p1": 9.00,
+            "p2": 10.0
+        },
+        {
+            "NOME": "CAIO CALIMAN VASCONCELOS",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "CAIO DE FREITAS DAS NEVES",
+            "p1": 9.00,
+            "p2": 9.00
+        },
+        {
+            "NOME": "CAIO ZANOTTI LIMA",
+            "p1": 9.00,
+            "p2": 9.00
+        },
+        {
+            "NOME": "CAUA MAGNO DE ALMEIDA",
+            "p1": 10.0,
+            "p2": 9.00
+        },
+        {
+            "NOME": "CECILIA PRETTI GOMES",
+            "p1": 10.0,
+            "p2": 9.00
+        },
+        {
+            "NOME": "DAVI GOMES MARANDI",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "DIOGO KOCK LENG VENADE DA COSTA",
+            "p1": 10.0,
+            "p2": 9.00
+        },
+        {
+            "NOME": "EDOARDO PATRIGNANI",
+            "p1": 10.0,
+            "p2": 9.00
+        },
+        {
+            "NOME": "ENRICO OLIVEIRA MIGNONE CHEIBUB",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "GABRIEL CHAGAS TAPIA",
+            "p1": 9.00,
+            "p2": 10.0
+        },
+        {
+            "NOME": "HELENA AYMEE PERUCH RODRIGUES",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "ISABELA DOS SANTOS FREITAS",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "LARA YUMI PESSOA WENICHI",
+            "p1": 10.0,
+            "p2": 9.00
+        },
+        {
+            "NOME": "MARIA DA CUNHA MELO TOLENTINO",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "MARINA COLA DADALTO",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "MATEUS PIMENTEL MARTINS ARRUDA",
+            "p1": 9.00,
+            "p2": 9.00
+        },
+        {
+            "NOME": "PEDRO MIGNONE DE PAULA",
+            "p1": 9.00,
+            "p2": 9.00
+        },
+        {
+            "NOME": "TOMAS KOCK MOON FELICIO DA COSTA",
+            "p1": 10.0,
+            "p2": 9.00
+        }
+    ],
+    "CIENCIAS": [
+        {
+            "NOME": "ANA ELISA TEIXEIRA MOTTA PIGNATON",
+            "p1": 9.80,
+            "p2": 9.30
+        },
+        {
+            "NOME": "ANA VITORIA CORREA MAYER",
+            "p1": 4.70,
+            "p2": 8.90
+        },
+        {
+            "NOME": "ANNE MELLO SVACINA",
+            "p1": 8.60,
+            "p2": 6.30
+        },
+        {
+            "NOME": "ARTHUR REIS E SILVA PANTALIAO",
+            "p1": 9.00,
+            "p2": 9.80
+        },
+        {
+            "NOME": "CAIO CALIMAN VASCONCELOS",
+            "p1": 7.50,
+            "p2": 8.40
+        },
+        {
+            "NOME": "CAIO DE FREITAS DAS NEVES",
+            "p1": 7.70,
+            "p2": 9.30
+        },
+        {
+            "NOME": "CAIO ZANOTTI LIMA",
+            "p1": 7.60,
+            "p2": 5.10
+        },
+        {
+            "NOME": "CAUA MAGNO DE ALMEIDA",
+            "p1": 8.70,
+            "p2": 8.30
+        },
+        {
+            "NOME": "CECILIA PRETTI GOMES",
+            "p1": 6.10,
+            "p2": 7.30
+        },
+        {
+            "NOME": "DAVI GOMES MARANDI",
+            "p1": 7.00,
+            "p2": 8.50
+        },
+        {
+            "NOME": "DIOGO KOCK LENG VENADE DA COSTA",
+            "p1": 8.10,
+            "p2": 9.40
+        },
+        {
+            "NOME": "EDOARDO PATRIGNANI",
+            "p1": 9.00,
+            "p2": 9.40
+        },
+        {
+            "NOME": "ENRICO OLIVEIRA MIGNONE CHEIBUB",
+            "p1": 9.00,
+            "p2": 8.80
+        },
+        {
+            "NOME": "GABRIEL CHAGAS TAPIA",
+            "p1": 6.20,
+            "p2": 6.30
+        },
+        {
+            "NOME": "HELENA AYMEE PERUCH RODRIGUES",
+            "p1": 9.40,
+            "p2": 10.0
+        },
+        {
+            "NOME": "ISABELA DOS SANTOS FREITAS",
+            "p1": 9.30,
+            "p2": 8.80
+        },
+        {
+            "NOME": "LARA YUMI PESSOA WENICHI",
+            "p1": 6.20,
+            "p2": 6.90
+        },
+        {
+            "NOME": "MARIA DA CUNHA MELO TOLENTINO",
+            "p1": 4.70,
+            "p2": 7.80
+        },
+        {
+            "NOME": "MARINA COLA DADALTO",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "MATEUS PIMENTEL MARTINS ARRUDA",
+            "p1": 5.50,
+            "p2": 6.20
+        },
+        {
+            "NOME": "PEDRO MIGNONE DE PAULA",
+            "p1": 6.30,
+            "p2": 8.00
+        },
+        {
+            "NOME": "TOMAS KOCK MOON FELICIO DA COSTA",
+            "p1": 9.60,
+            "p2": 8.60
+        }
+    ],
+    "EDUCACAO FISICA": [
+        {
+            "NOME": "ANA ELISA TEIXEIRA MOTTA PIGNATON",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "ANA VITORIA CORREA MAYER",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "ANNE MELLO SVACINA",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "ARTHUR REIS E SILVA PANTALIAO",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "CAIO CALIMAN VASCONCELOS",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "CAIO DE FREITAS DAS NEVES",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "CAIO ZANOTTI LIMA",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "CAUA MAGNO DE ALMEIDA",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "CECILIA PRETTI GOMES",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "DAVI GOMES MARANDI",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "DIOGO KOCK LENG VENADE DA COSTA",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "EDOARDO PATRIGNANI",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "ENRICO OLIVEIRA MIGNONE CHEIBUB",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "GABRIEL CHAGAS TAPIA",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "HELENA AYMEE PERUCH RODRIGUES",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "ISABELA DOS SANTOS FREITAS",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "LARA YUMI PESSOA WENICHI",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "MARIA DA CUNHA MELO TOLENTINO",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "MARINA COLA DADALTO",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "MATEUS PIMENTEL MARTINS ARRUDA",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "PEDRO MIGNONE DE PAULA",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "TOMAS KOCK MOON FELICIO DA COSTA",
+            "p1": 10.0,
+            "p2": 10.0
+        }
+    ],
+    "ESPANHOL": [
+        {
+            "NOME": "ANA ELISA TEIXEIRA MOTTA PIGNATON",
+            "p1": 9.00,
+            "p2": 9.00
+        },
+        {
+            "NOME": "ANA VITORIA CORREA MAYER",
+            "p1": 6.20,
+            "p2": 8.50
+        },
+        {
+            "NOME": "ANNE MELLO SVACINA",
+            "p1": 7.00,
+            "p2": 7.00
+        },
+        {
+            "NOME": "ARTHUR REIS E SILVA PANTALIAO",
+            "p1": 9.00,
+            "p2": 9.20
+        },
+        {
+            "NOME": "CAIO CALIMAN VASCONCELOS",
+            "p1": 7.70,
+            "p2": 4.70
+        },
+        {
+            "NOME": "CAIO DE FREITAS DAS NEVES",
+            "p1": 7.50,
+            "p2": 7.50
+        },
+        {
+            "NOME": "CAIO ZANOTTI LIMA",
+            "p1": 6.0,
+            "p2": 6.0
+        },
+        {
+            "NOME": "CAUA MAGNO DE ALMEIDA",
+            "p1": 9.50,
+            "p2": 9.10
+        },
+        {
+            "NOME": "CECILIA PRETTI GOMES",
+            "p1": 8.60,
+            "p2": 8.70
+        },
+        {
+            "NOME": "DAVI GOMES MARANDI",
+            "p1": 9.50,
+            "p2": 7.50
+        },
+        {
+            "NOME": "DIOGO KOCK LENG VENADE DA COSTA",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "EDOARDO PATRIGNANI",
+            "p1": 7.70,
+            "p2": 8.50
+        },
+        {
+            "NOME": "ENRICO OLIVEIRA MIGNONE CHEIBUB",
+            "p1": 7.50,
+            "p2": 9.50
+        },
+        {
+            "NOME": "GABRIEL CHAGAS TAPIA",
+            "p1": 8.0,
+            "p2": 6.70
+        },
+        {
+            "NOME": "HELENA AYMEE PERUCH RODRIGUES",
+            "p1": 9.70,
+            "p2": 10.0
+        },
+        {
+            "NOME": "ISABELA DOS SANTOS FREITAS",
+            "p1": 9.50,
+            "p2": 9.0
+        },
+        {
+            "NOME": "LARA YUMI PESSOA WENICHI",
+            "p1": 8.10,
+            "p2": 8.70
+        },
+        {
+            "NOME": "MARIA DA CUNHA MELO TOLENTINO",
+            "p1": 8.10,
+            "p2": 8.50
+        },
+        {
+            "NOME": "MARINA COLA DADALTO",
+            "p1": 9.50,
+            "p2": 10.0
+        },
+        {
+            "NOME": "MATEUS PIMENTEL MARTINS ARRUDA",
+            "p1": 7.60,
+            "p2": 9.0
+        },
+        {
+            "NOME": "PEDRO MIGNONE DE PAULA",
+            "p1": 7.50,
+            "p2": 6.70
+        },
+        {
+            "NOME": "TOMAS KOCK MOON FELICIO DA COSTA",
+            "p1": 8.60,
+            "p2": 9.0
+        }
+    ],
+    "FILOSOFIA": [
+        {
+            "NOME": "ANA ELISA TEIXEIRA MOTTA PIGNATON",
+            "p1": 9.40,
+            "p2": 9.50
+        },
+        {
+            "NOME": "ANA VITORIA CORREA MAYER",
+            "p1": 9.70,
+            "p2": 9.0
+        },
+        {
+            "NOME": "ANNE MELLO SVACINA",
+            "p1": 8.80,
+            "p2": 9.50
+        },
+        {
+            "NOME": "ARTHUR REIS E SILVA PANTALIAO",
+            "p1": 7.60,
+            "p2": 10.0
+        },
+        {
+            "NOME": "CAIO CALIMAN VASCONCELOS",
+            "p1": 9.10,
+            "p2": 9.0
+        },
+        {
+            "NOME": "CAIO DE FREITAS DAS NEVES",
+            "p1": 7.60,
+            "p2": 9.0
+        },
+        {
+            "NOME": "CAIO ZANOTTI LIMA",
+            "p1": 9.10,
+            "p2": 9.0
+        },
+        {
+            "NOME": "CAUA MAGNO DE ALMEIDA",
+            "p1": 8.40,
+            "p2": 9.0
+        },
+        {
+            "NOME": "CECILIA PRETTI GOMES",
+            "p1": 9.80,
+            "p2": 9.50
+        },
+        {
+            "NOME": "DAVI GOMES MARANDI",
+            "p1": 9.50,
+            "p2": 9.0
+        },
+        {
+            "NOME": "DIOGO KOCK LENG VENADE DA COSTA",
+            "p1": 8.10,
+            "p2": 9.50
+        },
+        {
+            "NOME": "EDOARDO PATRIGNANI",
+            "p1": 10.0,
+            "p2": 9.50
+        },
+        {
+            "NOME": "ENRICO OLIVEIRA MIGNONE CHEIBUB",
+            "p1": 9.30,
+            "p2": 9.0
+        },
+        {
+            "NOME": "GABRIEL CHAGAS TAPIA",
+            "p1": 8.80,
+            "p2": 9.50
+        },
+        {
+            "NOME": "HELENA AYMEE PERUCH RODRIGUES",
+            "p1": 9.50,
+            "p2": 10.0
+        },
+        {
+            "NOME": "ISABELA DOS SANTOS FREITAS",
+            "p1": 9.60,
+            "p2": 10.0
+        },
+        {
+            "NOME": "LARA YUMI PESSOA WENICHI",
+            "p1": 8.90,
+            "p2": 9.50
+        },
+        {
+            "NOME": "MARIA DA CUNHA MELO TOLENTINO",
+            "p1": 8.50,
+            "p2": 10.0
+        },
+        {
+            "NOME": "MARINA COLA DADALTO",
+            "p1": 8.50,
+            "p2": 10.0
+        },
+        {
+            "NOME": "MATEUS PIMENTEL MARTINS ARRUDA",
+            "p1": 7.70,
+            "p2": 8.0
+        },
+        {
+            "NOME": "PEDRO MIGNONE DE PAULA",
+            "p1": 7.50,
+            "p2": 9.50
+        },
+        {
+            "NOME": "TOMAS KOCK MOON FELICIO DA COSTA",
+            "p1": 10.0,
+            "p2": 10.0
+        }
+    ],
+    "GEOGRAFIA": [
+        {
+            "NOME": "ANA ELISA TEIXEIRA MOTTA PIGNATON",
+            "p1": 8.50,
+            "p2": 8.30
+        },
+        {
+            "NOME": "ANA VITORIA CORREA MAYER",
+            "p1": 9.0,
+            "p2": 6.50
+        },
+        {
+            "NOME": "ANNE MELLO SVACINA",
+            "p1": 9.50,
+            "p2": 7.0
+        },
+        {
+            "NOME": "ARTHUR REIS E SILVA PANTALIAO",
+            "p1": 9.50,
+            "p2": 9.50
+        },
+        {
+            "NOME": "CAIO CALIMAN VASCONCELOS",
+            "p1": 7.40,
+            "p2": 8.20
+        },
+        {
+            "NOME": "CAIO DE FREITAS DAS NEVES",
+            "p1": 10.0,
+            "p2": 9.0
+        },
+        {
+            "NOME": "CAIO ZANOTTI LIMA",
+            "p1": 6.0,
+            "p2": 4.50
+        },
+        {
+            "NOME": "CAUA MAGNO DE ALMEIDA",
+            "p1": 9.0,
+            "p2": 7.50
+        },
+        {
+            "NOME": "CECILIA PRETTI GOMES",
+            "p1": 9.50,
+            "p2": 8.0
+        },
+        {
+            "NOME": "DAVI GOMES MARANDI",
+            "p1": 6.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "DIOGO KOCK LENG VENADE DA COSTA",
+            "p1": 10.0,
+            "p2": 9.60
+        },
+        {
+            "NOME": "EDOARDO PATRIGNANI",
+            "p1": 10.0,
+            "p2": 8.0
+        },
+        {
+            "NOME": "ENRICO OLIVEIRA MIGNONE CHEIBUB",
+            "p1": 8.50,
+            "p2": 9.30
+        },
+        {
+            "NOME": "GABRIEL CHAGAS TAPIA",
+            "p1": 8.0,
+            "p2": 5.30
+        },
+        {
+            "NOME": "HELENA AYMEE PERUCH RODRIGUES",
+            "p1": 9.50,
+            "p2": 9.50
+        },
+        {
+            "NOME": "ISABELA DOS SANTOS FREITAS",
+            "p1": 9.50,
+            "p2": 10.0
+        },
+        {
+            "NOME": "LARA YUMI PESSOA WENICHI",
+            "p1": 7.0,
+            "p2": 4.0
+        },
+        {
+            "NOME": "MARIA DA CUNHA MELO TOLENTINO",
+            "p1": 9.60,
+            "p2": 8.20
+        },
+        {
+            "NOME": "MARINA COLA DADALTO",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "MATEUS PIMENTEL MARTINS ARRUDA",
+            "p1": 7.60,
+            "p2": 6.0
+        },
+        {
+            "NOME": "PEDRO MIGNONE DE PAULA",
+            "p1": 7.20,
+            "p2": 6.50
+        },
+        {
+            "NOME": "TOMAS KOCK MOON FELICIO DA COSTA",
+            "p1": 9.0,
+            "p2": 9.50
+        }
+    ],
+    "HISTORIA": [
+        {
+            "NOME": "ANA ELISA TEIXEIRA MOTTA PIGNATON",
+            "p1": 9.50,
+            "p2": 9.60
+        },
+        {
+            "NOME": "ANA VITORIA CORREA MAYER",
+            "p1": 6.15,
+            "p2": 7.50
+        },
+        {
+            "NOME": "ANNE MELLO SVACINA",
+            "p1": 9.20,
+            "p2": 7.0
+        },
+        {
+            "NOME": "ARTHUR REIS E SILVA PANTALIAO",
+            "p1": 10.0,
+            "p2": 9.0
+        },
+        {
+            "NOME": "CAIO CALIMAN VASCONCELOS",
+            "p1": 8.50,
+            "p2": 9.0
+        },
+        {
+            "NOME": "CAIO DE FREITAS DAS NEVES",
+            "p1": 8.65,
+            "p2": 8.80
+        },
+        {
+            "NOME": "CAIO ZANOTTI LIMA",
+            "p1": 6.50,
+            "p2": 6.0
+        },
+        {
+            "NOME": "CAUA MAGNO DE ALMEIDA",
+            "p1": 8.65,
+            "p2": 8.40
+        },
+        {
+            "NOME": "CECILIA PRETTI GOMES",
+            "p1": 9.0,
+            "p2": 7.50
+        },
+        {
+            "NOME": "DAVI GOMES MARANDI",
+            "p1": 6.60,
+            "p2": 7.0
+        },
+        {
+            "NOME": "DIOGO KOCK LENG VENADE DA COSTA",
+            "p1": 9.40,
+            "p2": 8.20
+        },
+        {
+            "NOME": "EDOARDO PATRIGNANI",
+            "p1": 8.70,
+            "p2": 7.50
+        },
+        {
+            "NOME": "ENRICO OLIVEIRA MIGNONE CHEIBUB",
+            "p1": 10.0,
+            "p2": 9.10
+        },
+        {
+            "NOME": "GABRIEL CHAGAS TAPIA",
+            "p1": 7.50,
+            "p2": 7.70
+        },
+        {
+            "NOME": "HELENA AYMEE PERUCH RODRIGUES",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "ISABELA DOS SANTOS FREITAS",
+            "p1": 10.0,
+            "p2": 9.60
+        },
+        {
+            "NOME": "LARA YUMI PESSOA WENICHI",
+            "p1": 9.20,
+            "p2": 7.20
+        },
+        {
+            "NOME": "MARIA DA CUNHA MELO TOLENTINO",
+            "p1": 8.50,
+            "p2": 7.90
+        },
+        {
+            "NOME": "MARINA COLA DADALTO",
+            "p1": 10.0,
+            "p2": 9.80
+        },
+        {
+            "NOME": "MATEUS PIMENTEL MARTINS ARRUDA",
+            "p1": 7.75,
+            "p2": 4.40
+        },
+        {
+            "NOME": "PEDRO MIGNONE DE PAULA",
+            "p1": 6.80,
+            "p2": 7.60
+        },
+        {
+            "NOME": "TOMAS KOCK MOON FELICIO DA COSTA",
+            "p1": 8.40,
+            "p2": 8.60
+        }
+    ],
+    "INGLES": [
+        {
+            "NOME": "ANA ELISA TEIXEIRA MOTTA PIGNATON",
+            "p1": 9.80,
+            "p2": 9.50
+        },
+        {
+            "NOME": "ANA VITORIA CORREA MAYER",
+            "p1": 9.50,
+            "p2": 7.55
+        },
+        {
+            "NOME": "ANNE MELLO SVACINA",
+            "p1": 10.0,
+            "p2": 8.75
+        },
+        {
+            "NOME": "ARTHUR REIS E SILVA PANTALIAO",
+            "p1": 8.60,
+            "p2": 9.80
+        },
+        {
+            "NOME": "CAIO CALIMAN VASCONCELOS",
+            "p1": 8.50,
+            "p2": 7.45
+        },
+        {
+            "NOME": "CAIO DE FREITAS DAS NEVES",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "CAIO ZANOTTI LIMA",
+            "p1": 9.20,
+            "p2": 8.75
+        },
+        {
+            "NOME": "CAUA MAGNO DE ALMEIDA",
+            "p1": 6.50,
+            "p2": 6.93
+        },
+        {
+            "NOME": "CECILIA PRETTI GOMES",
+            "p1": 8.0,
+            "p2": 8.25
+        },
+        {
+            "NOME": "DAVI GOMES MARANDI",
+            "p1": 6.0,
+            "p2": 6.0
+        },
+        {
+            "NOME": "DIOGO KOCK LENG VENADE DA COSTA",
+            "p1": 8.80,
+            "p2": 8.0
+        },
+        {
+            "NOME": "EDOARDO PATRIGNANI",
+            "p1": 8.70,
+            "p2": 8.15
+        },
+        {
+            "NOME": "ENRICO OLIVEIRA MIGNONE CHEIBUB",
+            "p1": 9.40,
+            "p2": 9.70
+        },
+        {
+            "NOME": "GABRIEL CHAGAS TAPIA",
+            "p1": 6.95,
+            "p2": 8.95
+        },
+        {
+            "NOME": "HELENA AYMEE PERUCH RODRIGUES",
+            "p1": 9.60,
+            "p2": 10.0
+        },
+        {
+            "NOME": "ISABELA DOS SANTOS FREITAS",
+            "p1": 10.0,
+            "p2": 9.60
+        },
+        {
+            "NOME": "LARA YUMI PESSOA WENICHI",
+            "p1": 7.50,
+            "p2": 7.25
+        },
+        {
+            "NOME": "MARIA DA CUNHA MELO TOLENTINO",
+            "p1": 10.0,
+            "p2": 9.0
+        },
+        {
+            "NOME": "MARINA COLA DADALTO",
+            "p1": 9.40,
+            "p2": 10.0
+        },
+        {
+            "NOME": "MATEUS PIMENTEL MARTINS ARRUDA",
+            "p1": 9.80,
+            "p2": 8.80
+        },
+        {
+            "NOME": "PEDRO MIGNONE DE PAULA",
+            "p1": 9.90,
+            "p2": 8.15
+        },
+        {
+            "NOME": "TOMAS KOCK MOON FELICIO DA COSTA",
+            "p1": 9.20,
+            "p2": 9.50
+        }
+    ],
+    "PORTUGUES": [
+        {
+            "NOME": "ANA ELISA TEIXEIRA MOTTA PIGNATON",
+            "p1": 8.25,
+            "p2": 8.70
+        },
+        {
+            "NOME": "ANA VITORIA CORREA MAYER",
+            "p1": 7.80,
+            "p2": 8.45
+        },
+        {
+            "NOME": "ANNE MELLO SVACINA",
+            "p1": 7.10,
+            "p2": 6.60
+        },
+        {
+            "NOME": "ARTHUR REIS E SILVA PANTALIAO",
+            "p1": 8.65,
+            "p2": 8.85
+        },
+        {
+            "NOME": "CAIO CALIMAN VASCONCELOS",
+            "p1": 6.0,
+            "p2": 4.30
+        },
+        {
+            "NOME": "CAIO DE FREITAS DAS NEVES",
+            "p1": 7.50,
+            "p2": 8.95
+        },
+        {
+            "NOME": "CAIO ZANOTTI LIMA",
+            "p1": 6.80,
+            "p2": 6.35
+        },
+        {
+            "NOME": "CAUA MAGNO DE ALMEIDA",
+            "p1": 4.50,
+            "p2": 7.60
+        },
+        {
+            "NOME": "CECILIA PRETTI GOMES",
+            "p1": 7.60,
+            "p2": 8.95
+        },
+        {
+            "NOME": "DAVI GOMES MARANDI",
+            "p1": 6.0,
+            "p2": 6.0
+        },
+        {
+            "NOME": "DIOGO KOCK LENG VENADE DA COSTA",
+            "p1": 9.10,
+            "p2": 8.85
+        },
+        {
+            "NOME": "EDOARDO PATRIGNANI",
+            "p1": 6.40,
+            "p2": 8.75
+        },
+        {
+            "NOME": "ENRICO OLIVEIRA MIGNONE CHEIBUB",
+            "p1": 6.70,
+            "p2": 6.35
+        },
+        {
+            "NOME": "GABRIEL CHAGAS TAPIA",
+            "p1": 7.60,
+            "p2": 7.15
+        },
+        {
+            "NOME": "HELENA AYMEE PERUCH RODRIGUES",
+            "p1": 9.90,
+            "p2": 9.70
+        },
+        {
+            "NOME": "ISABELA DOS SANTOS FREITAS",
+            "p1": 8.65,
+            "p2": 9.30
+        },
+        {
+            "NOME": "LARA YUMI PESSOA WENICHI",
+            "p1": 8.15,
+            "p2": 8.20
+        },
+        {
+            "NOME": "MARIA DA CUNHA MELO TOLENTINO",
+            "p1": 7.30,
+            "p2": 8.20
+        },
+        {
+            "NOME": "MARINA COLA DADALTO",
+            "p1": 9.35,
+            "p2": 9.30
+        },
+        {
+            "NOME": "MATEUS PIMENTEL MARTINS ARRUDA",
+            "p1": 3.05,
+            "p2": 5.80
+        },
+        {
+            "NOME": "PEDRO MIGNONE DE PAULA",
+            "p1": 5.35,
+            "p2": 4.60
+        },
+        {
+            "NOME": "TOMAS KOCK MOON FELICIO DA COSTA",
+            "p1": 9.0,
+            "p2": 8.95
+        }
+    ],
+    "MATEMATICA": [
+        {
+            "NOME": "ANA ELISA TEIXEIRA MOTTA PIGNATON",
+            "p1": 9.70,
+            "p2": 9.50
+        },
+        {
+            "NOME": "ANA VITORIA CORREA MAYER",
+            "p1": 7.75,
+            "p2": 9.10
+        },
+        {
+            "NOME": "ANNE MELLO SVACINA",
+            "p1": 5.10,
+            "p2": 6.30
+        },
+        {
+            "NOME": "ARTHUR REIS E SILVA PANTALIAO",
+            "p1": 9.90,
+            "p2": 9.30
+        },
+        {
+            "NOME": "CAIO CALIMAN VASCONCELOS",
+            "p1": 8.20,
+            "p2": 9.0
+        },
+        {
+            "NOME": "CAIO DE FREITAS DAS NEVES",
+            "p1": 5.85,
+            "p2": 8.30
+        },
+        {
+            "NOME": "CAIO ZANOTTI LIMA",
+            "p1": 4.95,
+            "p2": 5.40
+        },
+        {
+            "NOME": "CAUA MAGNO DE ALMEIDA",
+            "p1": 5.95,
+            "p2": 8.70
+        },
+        {
+            "NOME": "CECILIA PRETTI GOMES",
+            "p1": 6.15,
+            "p2": 7.80
+        },
+        {
+            "NOME": "DAVI GOMES MARANDI",
+            "p1": 9.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "DIOGO KOCK LENG VENADE DA COSTA",
+            "p1": 9.50,
+            "p2": 9.80
+        },
+        {
+            "NOME": "EDOARDO PATRIGNANI",
+            "p1": 8.20,
+            "p2": 8.80
+        },
+        {
+            "NOME": "ENRICO OLIVEIRA MIGNONE CHEIBUB",
+            "p1": 9.45,
+            "p2": 7.70
+        },
+        {
+            "NOME": "GABRIEL CHAGAS TAPIA",
+            "p1": 5.15,
+            "p2": 6.75
+        },
+        {
+            "NOME": "HELENA AYMEE PERUCH RODRIGUES",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "ISABELA DOS SANTOS FREITAS",
+            "p1": 9.90,
+            "p2": 9.30
+        },
+        {
+            "NOME": "LARA YUMI PESSOA WENICHI",
+            "p1": 7.50,
+            "p2": 8.30
+        },
+        {
+            "NOME": "MARIA DA CUNHA MELO TOLENTINO",
+            "p1": 5.0,
+            "p2": 7.50
+        },
+        {
+            "NOME": "MARINA COLA DADALTO",
+            "p1": 9.90,
+            "p2": 9.70
+        },
+        {
+            "NOME": "MATEUS PIMENTEL MARTINS ARRUDA",
+            "p1": 6.60,
+            "p2": 10.0
+        },
+        {
+            "NOME": "PEDRO MIGNONE DE PAULA",
+            "p1": 5.20,
+            "p2": 5.20
+        },
+        {
+            "NOME": "TOMAS KOCK MOON FELICIO DA COSTA",
+            "p1": 8.30,
+            "p2": 10.0
+        }
+    ]
+}

@@ -1,0 +1,822 @@
+{
+    "ARTES": [
+        {
+            "NOME": "ALICE POLESE TEIXEIRA DE CARVALHO",
+            "p1": 9.80,
+            "p2": 10.0
+        },
+        {
+            "NOME": "ANDRE ABREU FLAMINIO",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "ANNA CLARA SANTOS BORGES",
+            "p1": 8.50,
+            "p2": 9.00
+        },
+        {
+            "NOME": "CAIO FERRI CASINI",
+            "p1": 9.00,
+            "p2": 10.0
+        },
+        {
+            "NOME": "DANILO FIGUEIREDO DE ANDRADE CAMPOS",
+            "p1": 7.00,
+            "p2": 7.00
+        },
+        {
+            "NOME": "FILIPO REISEN SALVIATO SALVI",
+            "p1": 7.00,
+            "p2": 7.00
+        },
+        {
+            "NOME": "FRANCISCO QUARENTEI NUNES",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "GABRIELA MERLO DESSAUNE",
+            "p1": 9.00,
+            "p2": 9.00
+        },
+        {
+            "NOME": "IGOR PECANHA FERNANDES HAUTEQUESTT",
+            "p1": 9.50,
+            "p2": 9.50
+        },
+        {
+            "NOME": "LAVINIA ROGGE PALAZZO",
+            "p1": 8.00,
+            "p2": 8.00
+        },
+        {
+            "NOME": "LUIZA PEDROSA SARCINELLI",
+            "p1": 9.00,
+            "p2": 9.00
+        },
+        {
+            "NOME": "MARIA FERNANDA SALIBA DE ALMEIDA",
+            "p1": 8.00,
+            "p2": 8.00
+        },
+        {
+            "NOME": "MARIA LUISA PITANGA MADUREIRA",
+            "p1": 8.50,
+            "p2": 8.50
+        },
+        {
+            "NOME": "MARIANA COELHO SILVA",
+            "p1": 9.50,
+            "p2": 9.50
+        },
+        {
+            "NOME": "SOFIA CAMPO DALLORTO NATHANAILIDIS",
+            "p1": 9.00,
+            "p2": 9.00
+        },
+        {
+            "NOME": "VITOR WAICHERT LYRIO DE PAULA",
+            "p1": 9.00,
+            "p2": 9.00
+        }
+    ],
+    "CIENCIAS": [
+        {
+            "NOME": "ALICE POLESE TEIXEIRA DE CARVALHO",
+            "p1": 8.20,
+            "p2": 8.20
+        },
+        {
+            "NOME": "ANDRE ABREU FLAMINIO",
+            "p1": 8.90,
+            "p2": 8.80
+        },
+        {
+            "NOME": "ANNA CLARA SANTOS BORGES",
+            "p1": 10.0,
+            "p2": 9.80
+        },
+        {
+            "NOME": "CAIO FERRI CASINI",
+            "p1": 9.60,
+            "p2": 9.00
+        },
+        {
+            "NOME": "DANILO FIGUEIREDO DE ANDRADE CAMPOS",
+            "p1": 10.0,
+            "p2": 9.00
+        },
+        {
+            "NOME": "FILIPO REISEN SALVIATO SALVI",
+            "p1": 7.50,
+            "p2": 6.30
+        },
+        {
+            "NOME": "FRANCISCO QUARENTEI NUNES",
+            "p1": 10.0,
+            "p2": 8.60
+        },
+        {
+            "NOME": "GABRIELA MERLO DESSAUNE",
+            "p1": 7.80,
+            "p2": 8.70
+        },
+        {
+            "NOME": "IGOR PECANHA FERNANDES HAUTEQUESTT",
+            "p1": 9.30,
+            "p2": 7.30
+        },
+        {
+            "NOME": "LAVINIA ROGGE PALAZZO",
+            "p1": 6.50,
+            "p2": 6.20
+        },
+        {
+            "NOME": "LUIZA PEDROSA SARCINELLI",
+            "p1": 10.0,
+            "p2": 9.90
+        },
+        {
+            "NOME": "MARIA FERNANDA SALIBA DE ALMEIDA",
+            "p1": 9.30,
+            "p2": 7.20
+        },
+        {
+            "NOME": "MARIA LUISA PITANGA MADUREIRA",
+            "p1": 9.70,
+            "p2": 9.80
+        },
+        {
+            "NOME": "MARIANA COELHO SILVA",
+            "p1": 8.30,
+            "p2": 9.00
+        },
+        {
+            "NOME": "SOFIA CAMPO DALLORTO NATHANAILIDIS",
+            "p1": 8.20,
+            "p2": 8.30
+        },
+        {
+            "NOME": "VITOR WAICHERT LYRIO DE PAULA",
+            "p1": 6.80,
+            "p2": 5.80
+        }
+    ],
+    "EDUCACAO FISICA": [
+        {
+            "NOME": "ALICE POLESE TEIXEIRA DE CARVALHO",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "ANDRE ABREU FLAMINIO",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "ANNA CLARA SANTOS BORGES",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "CAIO FERRI CASINI",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "DANILO FIGUEIREDO DE ANDRADE CAMPOS",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "FILIPO REISEN SALVIATO SALVI",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "FRANCISCO QUARENTEI NUNES",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "GABRIELA MERLO DESSAUNE",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "IGOR PECANHA FERNANDES HAUTEQUESTT",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "LAVINIA ROGGE PALAZZO",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "LUIZA PEDROSA SARCINELLI",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "MARIA FERNANDA SALIBA DE ALMEIDA",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "MARIA LUISA PITANGA MADUREIRA",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "MARIANA COELHO SILVA",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "SOFIA CAMPO DALLORTO NATHANAILIDIS",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "VITOR WAICHERT LYRIO DE PAULA",
+            "p1": 10.0,
+            "p2": 10.0
+        }
+    ],
+    "ESPANHOL": [
+        {
+            "NOME": "ALICE POLESE TEIXEIRA DE CARVALHO",
+            "p1": 9.20,
+            "p2": 9.10
+        },
+        {
+            "NOME": "ANDRE ABREU FLAMINIO",
+            "p1": 8.50,
+            "p2": 9.00
+        },
+        {
+            "NOME": "ANNA CLARA SANTOS BORGES",
+            "p1": 8.60,
+            "p2": 9.70
+        },
+        {
+            "NOME": "CAIO FERRI CASINI",
+            "p1": 8.50,
+            "p2": 9.20
+        },
+        {
+            "NOME": "DANILO FIGUEIREDO DE ANDRADE CAMPOS",
+            "p1": 8.00,
+            "p2": 7.50
+        },
+        {
+            "NOME": "FILIPO REISEN SALVIATO SALVI",
+            "p1": 5.20,
+            "p2": 6.20
+        },
+        {
+            "NOME": "FRANCISCO QUARENTEI NUNES",
+            "p1": 9.50,
+            "p2": 8.70
+        },
+        {
+            "NOME": "GABRIELA MERLO DESSAUNE",
+            "p1": 7.10,
+            "p2": 7.70
+        },
+        {
+            "NOME": "IGOR PECANHA FERNANDES HAUTEQUESTT",
+            "p1": 7.60,
+            "p2": 6.50
+        },
+        {
+            "NOME": "LAVINIA ROGGE PALAZZO",
+            "p1": 7.00,
+            "p2": 7.50
+        },
+        {
+            "NOME": "LUIZA PEDROSA SARCINELLI",
+            "p1": 9.50,
+            "p2": 9.50
+        },
+        {
+            "NOME": "MARIA FERNANDA SALIBA DE ALMEIDA",
+            "p1": 9.00,
+            "p2": 6.50
+        },
+        {
+            "NOME": "MARIA LUISA PITANGA MADUREIRA",
+            "p1": 8.60,
+            "p2": 9.50
+        },
+        {
+            "NOME": "MARIANA COELHO SILVA",
+            "p1": 8.50,
+            "p2": 7.50
+        },
+        {
+            "NOME": "SOFIA CAMPO DALLORTO NATHANAILIDIS",
+            "p1": 8.50,
+            "p2": 8.70
+        },
+        {
+            "NOME": "VITOR WAICHERT LYRIO DE PAULA",
+            "p1": 4.00,
+            "p2": 4.50
+        }
+    ],
+    "FILOSOFIA": [
+        {
+            "NOME": "ALICE POLESE TEIXEIRA DE CARVALHO",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "ANDRE ABREU FLAMINIO",
+            "p1": 9.50,
+            "p2": 10.0
+        },
+        {
+            "NOME": "ANNA CLARA SANTOS BORGES",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "CAIO FERRI CASINI",
+            "p1": 10.0,
+            "p2": 9.50
+        },
+        {
+            "NOME": "DANILO FIGUEIREDO DE ANDRADE CAMPOS",
+            "p1": 9.80,
+            "p2": 9.50
+        },
+        {
+            "NOME": "FILIPO REISEN SALVIATO SALVI",
+            "p1": 8.50,
+            "p2": 8.00
+        },
+        {
+            "NOME": "FRANCISCO QUARENTEI NUNES",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "GABRIELA MERLO DESSAUNE",
+            "p1": 7.50,
+            "p2": 9.00
+        },
+        {
+            "NOME": "IGOR PECANHA FERNANDES HAUTEQUESTT",
+            "p1": 7.10,
+            "p2": 8.00
+        },
+        {
+            "NOME": "LAVINIA ROGGE PALAZZO",
+            "p1": 3.30,
+            "p2": 9.00
+        },
+        {
+            "NOME": "LUIZA PEDROSA SARCINELLI",
+            "p1": 10.0,
+            "p2": 9.50
+        },
+        {
+            "NOME": "MARIA FERNANDA SALIBA DE ALMEIDA",
+            "p1": 8.00,
+            "p2": 9.00
+        },
+        {
+            "NOME": "MARIA LUISA PITANGA MADUREIRA",
+            "p1": 10.0,
+            "p2": 9.00
+        },
+        {
+            "NOME": "MARIANA COELHO SILVA",
+            "p1": 7.50,
+            "p2": 9.50
+        },
+        {
+            "NOME": "SOFIA CAMPO DALLORTO NATHANAILIDIS",
+            "p1": 6.30,
+            "p2": 9.00
+        },
+        {
+            "NOME": "VITOR WAICHERT LYRIO DE PAULA",
+            "p1": 4.90,
+            "p2": 8.00
+        }
+    ],
+    "GEOGRAFIA": [
+        {
+            "NOME": "ALICE POLESE TEIXEIRA DE CARVALHO",
+            "p1": 7.70,
+            "p2": 9.10
+        },
+        {
+            "NOME": "ANDRE ABREU FLAMINIO",
+            "p1": 8.00,
+            "p2": 8.50
+        },
+        {
+            "NOME": "ANNA CLARA SANTOS BORGES",
+            "p1": 8.80,
+            "p2": 9.40
+        },
+        {
+            "NOME": "CAIO FERRI CASINI",
+            "p1": 8.70,
+            "p2": 8.90
+        },
+        {
+            "NOME": "DANILO FIGUEIREDO DE ANDRADE CAMPOS",
+            "p1": 8.20,
+            "p2": 8.50
+        },
+        {
+            "NOME": "FILIPO REISEN SALVIATO SALVI",
+            "p1": 4.70,
+            "p2": 9.00
+        },
+        {
+            "NOME": "FRANCISCO QUARENTEI NUNES",
+            "p1": 8.20,
+            "p2": 8.50
+        },
+        {
+            "NOME": "GABRIELA MERLO DESSAUNE",
+            "p1": 7.80,
+            "p2": 6.80
+        },
+        {
+            "NOME": "IGOR PECANHA FERNANDES HAUTEQUESTT",
+            "p1": 7.70,
+            "p2": 7.00
+        },
+        {
+            "NOME": "LAVINIA ROGGE PALAZZO",
+            "p1": 5.80,
+            "p2": 5.00
+        },
+        {
+            "NOME": "LUIZA PEDROSA SARCINELLI",
+            "p1": 9.90,
+            "p2": 9.70
+        },
+        {
+            "NOME": "MARIA FERNANDA SALIBA DE ALMEIDA",
+            "p1": 4.90,
+            "p2": 5.20
+        },
+        {
+            "NOME": "MARIA LUISA PITANGA MADUREIRA",
+            "p1": 6.70,
+            "p2": 9.00
+        },
+        {
+            "NOME": "MARIANA COELHO SILVA",
+            "p1": 8.50,
+            "p2": 6.80
+        },
+        {
+            "NOME": "SOFIA CAMPO DALLORTO NATHANAILIDIS",
+            "p1": 7.30,
+            "p2": 8.10
+        },
+        {
+            "NOME": "VITOR WAICHERT LYRIO DE PAULA",
+            "p1": 4.40,
+            "p2": 6.60
+        }
+    ],
+    "HISTORIA": [
+        {
+            "NOME": "ALICE POLESE TEIXEIRA DE CARVALHO",
+            "p1": 9.50,
+            "p2": 9.10
+        },
+        {
+            "NOME": "ANDRE ABREU FLAMINIO",
+            "p1": 9.50,
+            "p2": 8.65
+        },
+        {
+            "NOME": "ANNA CLARA SANTOS BORGES",
+            "p1": 10.0,
+            "p2": 9.40
+        },
+        {
+            "NOME": "CAIO FERRI CASINI",
+            "p1": 10.0,
+            "p2": 10.0
+        },
+        {
+            "NOME": "DANILO FIGUEIREDO DE ANDRADE CAMPOS",
+            "p1": 9.50,
+            "p2": 8.75
+        },
+        {
+            "NOME": "FILIPO REISEN SALVIATO SALVI",
+            "p1": 3.25,
+            "p2": 4.00
+        },
+        {
+            "NOME": "FRANCISCO QUARENTEI NUNES",
+            "p1": 9.50,
+            "p2": 9.50
+        },
+        {
+            "NOME": "GABRIELA MERLO DESSAUNE",
+            "p1": 8.00,
+            "p2": 5.75
+        },
+        {
+            "NOME": "IGOR PECANHA FERNANDES HAUTEQUESTT",
+            "p1": 6.75,
+            "p2": 7.50
+        },
+        {
+            "NOME": "LAVINIA ROGGE PALAZZO",
+            "p1": 4.50,
+            "p2": 1.50
+        },
+        {
+            "NOME": "LUIZA PEDROSA SARCINELLI",
+            "p1": 8.50,
+            "p2": 9.00
+        },
+        {
+            "NOME": "MARIA FERNANDA SALIBA DE ALMEIDA",
+            "p1": 8.00,
+            "p2": 3.25
+        },
+        {
+            "NOME": "MARIA LUISA PITANGA MADUREIRA",
+            "p1": 9.00,
+            "p2": 8.25
+        },
+        {
+            "NOME": "MARIANA COELHO SILVA",
+            "p1": 7.40,
+            "p2": 4.50
+        },
+        {
+            "NOME": "SOFIA CAMPO DALLORTO NATHANAILIDIS",
+            "p1": 6.00,
+            "p2": 4.75
+        },
+        {
+            "NOME": "VITOR WAICHERT LYRIO DE PAULA",
+            "p1": 6.50,
+            "p2": 3.70
+        }
+    ],
+    "INGLES": [
+        {
+            "NOME": "ALICE POLESE TEIXEIRA DE CARVALHO",
+            "p1": 7.50,
+            "p2": 8.30
+        },
+        {
+            "NOME": "ANDRE ABREU FLAMINIO",
+            "p1": 8.85,
+            "p2": 9.70
+        },
+        {
+            "NOME": "ANNA CLARA SANTOS BORGES",
+            "p1": 4.75,
+            "p2": 8.75
+        },
+        {
+            "NOME": "CAIO FERRI CASINI",
+            "p1": 6.45,
+            "p2": 7.15
+        },
+        {
+            "NOME": "DANILO FIGUEIREDO DE ANDRADE CAMPOS",
+            "p1": 8.40,
+            "p2": 8.15
+        },
+        {
+            "NOME": "FILIPO REISEN SALVIATO SALVI",
+            "p1": 9.20,
+            "p2": 9.35
+        },
+        {
+            "NOME": "FRANCISCO QUARENTEI NUNES",
+            "p1": 8.80,
+            "p2": 7.20
+        },
+        {
+            "NOME": "GABRIELA MERLO DESSAUNE",
+            "p1": 9.60,
+            "p2": 9.80
+        },
+        {
+            "NOME": "IGOR PECANHA FERNANDES HAUTEQUESTT",
+            "p1": 7.90,
+            "p2": 5.10
+        },
+        {
+            "NOME": "LAVINIA ROGGE PALAZZO",
+            "p1": 6.95,
+            "p2": 8.12
+        },
+        {
+            "NOME": "LUIZA PEDROSA SARCINELLI",
+            "p1": 9.00,
+            "p2": 9.00
+        },
+        {
+            "NOME": "MARIA FERNANDA SALIBA DE ALMEIDA",
+            "p1": 7.30,
+            "p2": 8.00
+        },
+        {
+            "NOME": "MARIA LUISA PITANGA MADUREIRA",
+            "p1": 5.30,
+            "p2": 6.75
+        },
+        {
+            "NOME": "MARIANA COELHO SILVA",
+            "p1": 5.30,
+            "p2": 6.75
+        },
+        {
+            "NOME": "SOFIA CAMPO DALLORTO NATHANAILIDIS",
+            "p1": 9.10,
+            "p2": 7.80
+        },
+        {
+            "NOME": "VITOR WAICHERT LYRIO DE PAULA",
+            "p1": 6.00,
+            "p2": 6.00
+        }
+    ],
+    "PORTUGUES": [
+        {
+            "NOME": "ALICE POLESE TEIXEIRA DE CARVALHO",
+            "p1": 8.85,
+            "p2": 7.00
+        },
+        {
+            "NOME": "ANDRE ABREU FLAMINIO",
+            "p1": 8.80,
+            "p2": 8.65
+        },
+        {
+            "NOME": "ANNA CLARA SANTOS BORGES",
+            "p1": 9.45,
+            "p2": 8.90
+        },
+        {
+            "NOME": "CAIO FERRI CASINI",
+            "p1": 9.15,
+            "p2": 8.60
+        },
+        {
+            "NOME": "DANILO FIGUEIREDO DE ANDRADE CAMPOS",
+            "p1": 9.30,
+            "p2": 9.65
+        },
+        {
+            "NOME": "FILIPO REISEN SALVIATO SALVI",
+            "p1": 6.35,
+            "p2": 6.60
+        },
+        {
+            "NOME": "FRANCISCO QUARENTEI NUNES",
+            "p1": 8.80,
+            "p2": 8.80
+        },
+        {
+            "NOME": "GABRIELA MERLO DESSAUNE",
+            "p1": 2.50,
+            "p2": 7.00
+        },
+        {
+            "NOME": "IGOR PECANHA FERNANDES HAUTEQUESTT",
+            "p1": 6.00,
+            "p2": 6.45
+        },
+        {
+            "NOME": "LAVINIA ROGGE PALAZZO",
+            "p1": 6.65,
+            "p2": 3.90
+        },
+        {
+            "NOME": "LUIZA PEDROSA SARCINELLI",
+            "p1": 9.90,
+            "p2": 9.80
+        },
+        {
+            "NOME": "MARIA FERNANDA SALIBA DE ALMEIDA",
+            "p1": 6.30,
+            "p2": 5.60
+        },
+        {
+            "NOME": "MARIA LUISA PITANGA MADUREIRA",
+            "p1": 9.50,
+            "p2": 8.00
+        },
+        {
+            "NOME": "MARIANA COELHO SILVA",
+            "p1": 8.90,
+            "p2": 8.60
+        },
+        {
+            "NOME": "SOFIA CAMPO DALLORTO NATHANAILIDIS",
+            "p1": 8.10,
+            "p2": 7.20
+        },
+        {
+            "NOME": "VITOR WAICHERT LYRIO DE PAULA",
+            "p1": 5.55,
+            "p2": 7.20
+        }
+    ],
+    "MATEMATICA": [
+        {
+            "NOME": "ALICE POLESE TEIXEIRA DE CARVALHO",
+            "p1": 8.50,
+            "p2": 7.20
+        },
+        {
+            "NOME": "ANDRE ABREU FLAMINIO",
+            "p1": 8.10,
+            "p2": 8.60
+        },
+        {
+            "NOME": "ANNA CLARA SANTOS BORGES",
+            "p1": 7.60,
+            "p2": 9.20
+        },
+        {
+            "NOME": "CAIO FERRI CASINI",
+            "p1": 8.90,
+            "p2": 8.40
+        },
+        {
+            "NOME": "DANILO FIGUEIREDO DE ANDRADE CAMPOS",
+            "p1": 8.70,
+            "p2": 8.30
+        },
+        {
+            "NOME": "FILIPO REISEN SALVIATO SALVI",
+            "p1": 3.40,
+            "p2": 4.80
+        },
+        {
+            "NOME": "FRANCISCO QUARENTEI NUNES",
+            "p1": 8.70,
+            "p2": 8.30
+        },
+        {
+            "NOME": "GABRIELA MERLO DESSAUNE",
+            "p1": 6.70,
+            "p2": 7.30
+        },
+        {
+            "NOME": "IGOR PECANHA FERNANDES HAUTEQUESTT",
+            "p1": 4.00,
+            "p2": 3.80
+        },
+        {
+            "NOME": "LAVINIA ROGGE PALAZZO",
+            "p1": 4.00,
+            "p2": 3.20
+        },
+        {
+            "NOME": "LUIZA PEDROSA SARCINELLI",
+            "p1": 9.50,
+            "p2": 9.60
+        },
+        {
+            "NOME": "MARIA FERNANDA SALIBA DE ALMEIDA",
+            "p1": 6.30,
+            "p2": 5.00
+        },
+        {
+            "NOME": "MARIA LUISA PITANGA MADUREIRA",
+            "p1": 8.20,
+            "p2": 8.80
+        },
+        {
+            "NOME": "MARIANA COELHO SILVA",
+            "p1": 8.60,
+            "p2": 7.00
+        },
+        {
+            "NOME": "SOFIA CAMPO DALLORTO NATHANAILIDIS",
+            "p1": 6.80,
+            "p2": 4.80
+        },
+        {
+            "NOME": "VITOR WAICHERT LYRIO DE PAULA",
+            "p1": 3.30,
+            "p2": 5.80
+        }
+    ]
+}

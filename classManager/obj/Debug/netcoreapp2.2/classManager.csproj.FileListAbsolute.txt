@@ -1,0 +1,11 @@
+/Users/MonteiroMaker/Projects/classManager/classManager/bin/Debug/netcoreapp2.2/classManager.deps.json
+/Users/MonteiroMaker/Projects/classManager/classManager/bin/Debug/netcoreapp2.2/classManager.runtimeconfig.json
+/Users/MonteiroMaker/Projects/classManager/classManager/bin/Debug/netcoreapp2.2/classManager.runtimeconfig.dev.json
+/Users/MonteiroMaker/Projects/classManager/classManager/bin/Debug/netcoreapp2.2/classManager.dll
+/Users/MonteiroMaker/Projects/classManager/classManager/bin/Debug/netcoreapp2.2/classManager.pdb
+/Users/MonteiroMaker/Projects/classManager/classManager/obj/Debug/netcoreapp2.2/classManager.csprojAssemblyReference.cache
+/Users/MonteiroMaker/Projects/classManager/classManager/obj/Debug/netcoreapp2.2/classManager.csproj.CoreCompileInputs.cache
+/Users/MonteiroMaker/Projects/classManager/classManager/obj/Debug/netcoreapp2.2/classManager.AssemblyInfoInputs.cache
+/Users/MonteiroMaker/Projects/classManager/classManager/obj/Debug/netcoreapp2.2/classManager.AssemblyInfo.cs
+/Users/MonteiroMaker/Projects/classManager/classManager/obj/Debug/netcoreapp2.2/classManager.dll
+/Users/MonteiroMaker/Projects/classManager/classManager/obj/Debug/netcoreapp2.2/classManager.pdb
